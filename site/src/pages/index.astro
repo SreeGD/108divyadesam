@@ -21,7 +21,7 @@ const totalTemples = temples.length;
 
   <div class="wrap">
     <section class="section" id="regions">
-      <h2><span class="l-en">Explore by Region</span><span class="l-te te">ప్రాంతం వారీగా</span></h2>
+      <h2><span class="l-en">Explore by Region</span><span class="l-te te">ప్రాంతం వారీగా</span><span class="l-kn kn">ಪ್ರಾಂತದ ಪ್ರಕಾರ</span></h2>
       <p class="muted">The temples are grouped into the traditional regions (<span class="ta">நாடு</span>, <em>nadu</em>) of the sacred geography.</p>
       <div class="grid cards" style="margin-top:1rem;">
         {regions.map((r) => (
@@ -29,7 +29,7 @@ const totalTemples = temples.length;
             <div class="body">
               <div class="en"><Tr v={r.name} /></div>
               <div class="sub muted ta">{r.name.ta}</div>
-              <div class="sub" style="margin-top:.4rem;"><span class="pill">{r.templeCount} <span class="l-en">temples</span><span class="l-te te">ఆలయాలు</span></span></div>
+              <div class="sub" style="margin-top:.4rem;"><span class="pill">{r.templeCount} <span class="l-en">temples</span><span class="l-te te">ఆలయాలు</span><span class="l-kn kn">ದೇವಾಲಯಗಳು</span></span></div>
             </div>
           </a>
         ))}
@@ -37,7 +37,7 @@ const totalTemples = temples.length;
     </section>
 
     <section class="section" id="alwars">
-      <h2><span class="l-en">The Twelve Alwars</span><span class="l-te te">పన్నెండు ఆళ్వార్లు</span></h2>
+      <h2><span class="l-en">The Twelve Alwars</span><span class="l-te te">పన్నెండు ఆళ్వార్లు</span><span class="l-kn kn">ಹನ್ನೆರಡು ಆಳ್ವಾರರು</span></h2>
       <p class="muted">The Alwars (<span class="ta">ஆழ்வார்கள்</span>) were poet-saints immersed in devotion to Vishnu, whose 4,000 Tamil verses form the Divya Prabandham.</p>
       <div class="grid cards" style="margin-top:1rem;">
         {alwars.map((a) => (

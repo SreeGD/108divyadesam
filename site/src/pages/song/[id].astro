@@ -18,9 +18,9 @@ const verseCount = song.blocks.filter((b) => b.type === "verse").length;
     <p class="muted">{verseCount} verse{verseCount === 1 ? "" : "s"}</p>
 
     <div class="toolbar">
-      <span class="muted" style="font-size:.8rem;align-self:center;"><span class="l-en">Show:</span><span class="l-te te">చూపు:</span></span>
-      <button class="toggle" id="t-meaning" aria-pressed="true"><span class="l-en">Meaning</span><span class="l-te te">అర్థం</span></button>
-      <button class="toggle" id="t-translit" aria-pressed="false"><span class="l-en">Transliteration</span><span class="l-te te">లిప్యంతరీకరణ</span></button>
+      <span class="muted" style="font-size:.8rem;align-self:center;"><span class="l-en">Show:</span><span class="l-te te">చూపు:</span><span class="l-kn kn">ತೋರಿಸು:</span></span>
+      <button class="toggle" id="t-meaning" aria-pressed="true"><span class="l-en">Meaning</span><span class="l-te te">అర్థం</span><span class="l-kn kn">ಅರ್ಥ</span></button>
+      <button class="toggle" id="t-translit" aria-pressed="false"><span class="l-en">Transliteration</span><span class="l-te te">లిప్యంతరీకరణ</span><span class="l-kn kn">ಲಿಪ್ಯಂತರ</span></button>
     </div>
 
     <div class="song">
@@ -43,18 +43,20 @@ const verseCount = song.blocks.filter((b) => b.type === "verse").length;
           return (
             <div class="verse">
               {b.songNum && (
-                <div class="num"><span class="l-en">Pasuram</span><span class="l-te te">పాశురం</span> {b.songNum}</div>
+                <div class="num"><span class="l-en">Pasuram</span><span class="l-te te">పాశురం</span><span class="l-kn kn">ಪಾಶುರ</span> {b.songNum}</div>
               )}
               <div class="ta">{b.text.ta}</div>
-              {(b.text.translit || b.text.teTranslit) && (
+              {(b.text.translit || b.text.teTranslit || b.text.knTranslit) && (
                 <div class="translit">
                   <span class="l-en">{b.text.translit}</span>
                   <span class="l-te te">{b.text.teTranslit || b.text.translit}</span>
+                  <span class="l-kn kn">{b.text.knTranslit || b.text.translit}</span>
                 </div>
               )}
               <div class="meaning">
                 <span class="l-en">{b.text.meaning || "English meaning awaiting translation."}</span>
                 <span class="l-te te">{b.text.teMeaning || b.text.meaning || "తెలుగు అర్థం రాబోతోంది."}</span>
+                <span class="l-kn kn">{b.text.knMeaning || b.text.meaning || "ಕನ್ನಡ ಅರ್ಥ ಶೀಘ್ರದಲ್ಲೇ."}</span>
               </div>
             </div>
           );

@@ -14,6 +14,9 @@ export interface T {
   te?: string;
   teTranslit?: string;
   teMeaning?: string;
+  kn?: string;
+  knTranslit?: string;
+  knMeaning?: string;
   review: "pending" | "auto" | "verified";
   flag?: string;
 }
@@ -122,6 +125,9 @@ export const en = (t?: T): string => (t ? t.en || t.translit || t.ta : "");
 /** Telugu display string: Telugu name if available, else Telugu transliteration, else English/Tamil. */
 export const te = (t?: T): string => (t ? t.te || t.teTranslit || t.en || t.translit || t.ta : "");
 
+/** Kannada display string: Kannada name, else Kannada transliteration, else English/Tamil. */
+export const kn = (t?: T): string => (t ? t.kn || t.knTranslit || t.en || t.translit || t.ta : "");
+
 /** Telugu temple prose (history / festivals / timings), keyed by refId. */
 const THE_FILE = join(process.cwd(), "../data/cache/temple-history-te.json");
 export const templeHistoryTe: Record<string, { history: string }> = existsSync(THE_FILE)
@@ -130,6 +136,16 @@ export const templeHistoryTe: Record<string, { history: string }> = existsSync(T
 const TXE_FILE = join(process.cwd(), "../data/cache/temple-extras-te.json");
 export const templeExtrasTe: Record<string, { festivals: string; timings: string }> = existsSync(TXE_FILE)
   ? JSON.parse(readFileSync(TXE_FILE, "utf-8"))
+  : {};
+
+/** Kannada temple prose, keyed by refId. */
+const THK_FILE = join(process.cwd(), "../data/cache/temple-history-kn.json");
+export const templeHistoryKn: Record<string, { history: string }> = existsSync(THK_FILE)
+  ? JSON.parse(readFileSync(THK_FILE, "utf-8"))
+  : {};
+const TXK_FILE = join(process.cwd(), "../data/cache/temple-extras-kn.json");
+export const templeExtrasKn: Record<string, { festivals: string; timings: string }> = existsSync(TXK_FILE)
+  ? JSON.parse(readFileSync(TXK_FILE, "utf-8"))
   : {};
 
 /** A URL-safe English slug for SEO (falls back to id-based). */

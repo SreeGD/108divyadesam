@@ -32,3 +32,10 @@ data/cache/tep-out/
 data/cache/tep-manifest.json
 # NOT ignored: verse-telugu.json, name-telugu.json, temple-history-te.json, temple-extras-te.json
 data/cache/*.py
+data/cache/kn-out/
+data/cache/kn-manifest.json
+data/cache/knn-out/
+data/cache/knn-manifest.json
+data/cache/knp-out/
+data/cache/knp-manifest.json
+# NOT ignored: verse-kannada.json, name-kannada.json, temple-history-kn.json, temple-extras-kn.json

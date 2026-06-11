@@ -6,7 +6,9 @@
       "ta": "திருச்சி",
       "review": "pending",
       "te": "తిరుచ్చి",
-      "teTranslit": "తిరుచ్చి"
+      "teTranslit": "తిరుచ్చి",
+      "kn": "ತಿರುಚ್ಚಿ",
+      "knTranslit": "ತಿರುಚ್ಚಿ"
     },
     "templeCount": 5,
     "regionCode": 1
@@ -18,7 +20,9 @@
       "ta": "தஞ்சாவூர்",
       "review": "pending",
       "te": "తంజావూరు",
-      "teTranslit": "తంజావూర్"
+      "teTranslit": "తంజావూర్",
+      "kn": "ತಂಜಾವೂರು",
+      "knTranslit": "ತಂಜಾವೂರ್"
     },
     "templeCount": 13,
     "regionCode": 1
@@ -30,7 +34,9 @@
       "ta": "திருவாரூர்",
       "review": "pending",
       "te": "తిరువారూర్",
-      "teTranslit": "తిరువారూర్"
+      "teTranslit": "తిరువారూర్",
+      "kn": "ತಿರುವಾರೂರು",
+      "knTranslit": "ತಿರುವಾರೂರ್"
     },
     "templeCount": 2,
     "regionCode": 1
@@ -42,7 +48,9 @@
       "ta": "நாகப்பட்டினம்",
       "review": "pending",
       "te": "నాగప్పట్టినం",
-      "teTranslit": "నాగప్పట్టినం"
+      "teTranslit": "నాగప్పట్టినం",
+      "kn": "ನಾಗಪಟ್ಟಿಣಂ",
+      "knTranslit": "ನಾಗಪ್ಪಟ್ಟಿನಂ"
     },
     "templeCount": 19,
     "regionCode": 1
@@ -54,7 +62,9 @@
       "ta": "கடலூர்",
       "review": "pending",
       "te": "కడలూర్",
-      "teTranslit": "కడలూర్"
+      "teTranslit": "కడలూర్",
+      "kn": "ಕಡಲೂರು",
+      "knTranslit": "ಕಡಲೂರ್"
     },
     "templeCount": 2,
     "regionCode": 1
@@ -66,7 +76,9 @@
       "ta": "விழுப்புரம்",
       "review": "pending",
       "te": "విழుప్పురం",
-      "teTranslit": "విழుప్పురం"
+      "teTranslit": "విழుప్పురం",
+      "kn": "ವಿೞುಪ್ಪುರಂ",
+      "knTranslit": "ವಿೞುಪ್ಪುರಂ"
     },
     "templeCount": 1
   },
@@ -77,7 +89,9 @@
       "ta": "காஞ்சிபுரம்",
       "review": "pending",
       "te": "కాంచీపురం",
-      "teTranslit": "కాంజిపురం"
+      "teTranslit": "కాంజిపురం",
+      "kn": "ಕಾಂಚೀಪುರಂ",
+      "knTranslit": "ಕಾಂಜಿಪುರಂ"
     },
     "templeCount": 18,
     "regionCode": 3
@@ -89,7 +103,9 @@
       "ta": "திருவள்ளூர்",
       "review": "pending",
       "te": "తిరువళ్ళూర్",
-      "teTranslit": "తిరువళ్ళూర్"
+      "teTranslit": "తిరువళ్ళూర్",
+      "kn": "ತಿರುವಳ್ಳೂರ್",
+      "knTranslit": "ತಿರುವಳ್ಳೂರ್"
     },
     "templeCount": 2,
     "regionCode": 3
@@ -101,7 +117,9 @@
       "ta": "சென்னை",
       "review": "pending",
       "te": "చెన్నై",
-      "teTranslit": "చెన్నై"
+      "teTranslit": "చెన్నై",
+      "kn": "ಚೆನ್ನೈ",
+      "knTranslit": "ಸೆನ್ನೈ"
     },
     "templeCount": 1,
     "regionCode": 3
@@ -113,7 +131,9 @@
       "ta": "வேலூர்",
       "review": "pending",
       "te": "వేలూరు",
-      "teTranslit": "వేలూర్"
+      "teTranslit": "వేలూర్",
+      "kn": "ವೇಲೂರು",
+      "knTranslit": "ವೇಲೂರ್"
     },
     "templeCount": 1,
     "regionCode": 3
@@ -125,7 +145,9 @@
       "ta": "கேரளா",
       "review": "pending",
       "te": "కేరళ",
-      "teTranslit": "కేరళా"
+      "teTranslit": "కేరళా",
+      "kn": "ಕೇರಳ",
+      "knTranslit": "ಕೇರಳಾ"
     },
     "templeCount": 11,
     "regionCode": 4
@@ -137,7 +159,9 @@
       "ta": "கன்னியாகுமரி",
       "review": "pending",
       "te": "కన్యాకుమారి",
-      "teTranslit": "కన్నియాకుమరి"
+      "teTranslit": "కన్నియాకుమరి",
+      "kn": "ಕನ್ಯಾಕುಮಾರಿ",
+      "knTranslit": "ಕನ್ನಿಯಾಗುಮರಿ"
     },
     "templeCount": 2,
     "regionCode": 4
@@ -149,7 +173,9 @@
       "ta": "திருநெல்வேலி",
       "review": "pending",
       "te": "తిరునెల్వేలి",
-      "teTranslit": "తిరునెల్వేలి"
+      "teTranslit": "తిరునెల్వేలి",
+      "kn": "ತಿರುನೆಲ್ವೇಲಿ",
+      "knTranslit": "ತಿರುನೆಲ್ವೇಲಿ"
     },
     "templeCount": 2,
     "regionCode": 5
@@ -161,7 +187,9 @@
       "ta": "தூத்துக்குடி",
       "review": "pending",
       "te": "తూత్తుక్కుడి",
-      "teTranslit": "తూత్తుక్కుడి"
+      "teTranslit": "తూత్తుక్కుడి",
+      "kn": "ತೂತ್ತುಕ್ಕುಡಿ",
+      "knTranslit": "ತೂತ್ತುಕ್ಕುಡಿ"
     },
     "templeCount": 8,
     "regionCode": 5
@@ -173,7 +201,9 @@
       "ta": "விருதுநகர்",
       "review": "pending",
       "te": "విరుదునగర్",
-      "teTranslit": "విరుదునగర్"
+      "teTranslit": "విరుదునగర్",
+      "kn": "ವಿರುದುನಗರ್",
+      "knTranslit": "ವಿರುದುನಗರ್"
     },
     "templeCount": 2,
     "regionCode": 5
@@ -185,7 +215,9 @@
       "ta": "மதுரை",
       "review": "pending",
       "te": "మదురై",
-      "teTranslit": "మదురై"
+      "teTranslit": "మదురై",
+      "kn": "ಮದುರೈ",
+      "knTranslit": "ಮದುರೈ"
     },
     "templeCount": 3,
     "regionCode": 5
@@ -197,7 +229,9 @@
       "ta": "சிவகங்கை",
       "review": "pending",
       "te": "శివగంగై",
-      "teTranslit": "శివగంగై"
+      "teTranslit": "శివగంగై",
+      "kn": "ಶಿವಗಂಗೈ",
+      "knTranslit": "ಸಿವಗಂಗೈ"
     },
     "templeCount": 1,
     "regionCode": 5
@@ -209,7 +243,9 @@
       "ta": "இராமநாதபுரம்",
       "review": "pending",
       "te": "రామనాథపురం",
-      "teTranslit": "ఇరామనాదపురం"
+      "teTranslit": "ఇరామనాదపురం",
+      "kn": "ರಾಮನಾಥಪುರಂ",
+      "knTranslit": "ಇರಾಮನಾದಪುರಂ"
     },
     "templeCount": 1,
     "regionCode": 5
@@ -221,7 +257,9 @@
       "ta": "புதுக்கோட்டை",
       "review": "pending",
       "te": "పుదుక్కోట్టై",
-      "teTranslit": "పుదుక్కోట్టై"
+      "teTranslit": "పుదుక్కోట్టై",
+      "kn": "ಪುದುಕ್ಕೋಟ್ಟೈ",
+      "knTranslit": "ಪುದುಕ್ಕೋಟ್ಟೈ"
     },
     "templeCount": 1,
     "regionCode": 5
@@ -233,7 +271,9 @@
       "ta": "உத்திரபிரதேசம்",
       "review": "pending",
       "te": "ఉత్తరప్రదేశ్",
-      "teTranslit": "ఉత్తిరపిరదేశం"
+      "teTranslit": "ఉత్తిరపిరదేశం",
+      "kn": "ಉತ್ತರ ಪ್ರದೇಶ",
+      "knTranslit": "ಉತ್ತಿರಪಿರದೇಸಂ"
     },
     "templeCount": 4,
     "regionCode": 6
@@ -245,7 +285,9 @@
       "ta": "உத்தரகாண்ட்",
       "review": "pending",
       "te": "ఉత్తరాఖండ్",
-      "teTranslit": "ఉత్తరకాండ్"
+      "teTranslit": "ఉత్తరకాండ్",
+      "kn": "ಉತ್ತರಾಖಂಡ",
+      "knTranslit": "ಉತ್ತರಗಾಂಡ್"
     },
     "templeCount": 3,
     "regionCode": 6
@@ -257,7 +299,9 @@
       "ta": "நேபாளம்",
       "review": "pending",
       "te": "నేపాల్",
-      "teTranslit": "నేపాళం"
+      "teTranslit": "నేపాళం",
+      "kn": "ನೇಪಾಳ",
+      "knTranslit": "ನೇಪಾಳಂ"
     },
     "templeCount": 1,
     "regionCode": 6
@@ -269,7 +313,9 @@
       "ta": "குஜராத்",
       "review": "pending",
       "te": "గుజరాత్",
-      "teTranslit": "గుజరాత్"
+      "teTranslit": "గుజరాత్",
+      "kn": "ಗುಜರಾತ್",
+      "knTranslit": "ಗುಜರಾತ್"
     },
     "templeCount": 1,
     "regionCode": 6
@@ -281,7 +327,9 @@
       "ta": "ஆந்திரப்பிரதேசம்",
       "review": "pending",
       "te": "ఆంధ్రప్రదేశ్",
-      "teTranslit": "ఆందిరప్పిరదేశం"
+      "teTranslit": "ఆందిరప్పిరదేశం",
+      "kn": "ಆಂಧ್ರ ಪ್ರದೇಶ",
+      "knTranslit": "ಆಂದಿರಪ್ಪಿರದೇಸಂ"
     },
     "templeCount": 2,
     "regionCode": 6

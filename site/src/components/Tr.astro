@@ -2,8 +2,8 @@
 // Bilingual inline text: shows English or Telugu depending on the active language
 // (driven by html.lang-te + CSS). Tamil source is shown separately where needed.
 import type { T } from "../data";
-import { en as enFn, te as teFn } from "../data";
+import { en as enFn, te as teFn, kn as knFn } from "../data";
 interface Props { v: T | undefined; }
 const { v } = Astro.props;
 ---
-<span class="i18n"><span class="l-en">{enFn(v)}</span><span class="l-te te">{teFn(v)}</span></span>
+<span class="i18n"><span class="l-en">{enFn(v)}</span><span class="l-te te">{teFn(v)}</span><span class="l-kn kn">{knFn(v)}</span></span>

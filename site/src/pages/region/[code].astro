@@ -14,7 +14,7 @@ const list = templesByRegion(region.code);
   <div class="wrap">
     <p class="crumbs"><a href={url("/")}>Home</a> › {en(region.name)}</p>
     <h1><Tr v={region.name} /> <span class="ta muted" style="font-size:1.4rem;">{region.name.ta}</span></h1>
-    <p class="muted">{list.length} <span class="l-en">Divya Desam temples in this region.</span><span class="l-te te">ఈ ప్రాంతంలోని దివ్యదేశ ఆలయాలు.</span></p>
+    <p class="muted">{list.length} <span class="l-en">Divya Desam temples in this region.</span><span class="l-te te">ఈ ప్రాంతంలోని దివ్యదేశ ఆలయాలు.</span><span class="l-kn kn">ಈ ಪ್ರಾಂತದ ದಿವ್ಯದೇಶ ದೇವಾಲಯಗಳು.</span></p>
 
     <div class="grid cards" style="margin-top:1rem;">
       {list.map((t) => (

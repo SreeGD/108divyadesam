@@ -33,6 +33,8 @@ const GEN_VERSE_FILE = join(ROOT, "data/cache/verse-translations.json");
 const GEN_NAMES_FILE = join(ROOT, "data/cache/name-translations.json");
 const TE_VERSE_FILE = join(ROOT, "data/cache/verse-telugu.json");
 const TE_NAMES_FILE = join(ROOT, "data/cache/name-telugu.json");
+const KN_VERSE_FILE = join(ROOT, "data/cache/verse-kannada.json");
+const KN_NAMES_FILE = join(ROOT, "data/cache/name-kannada.json");
 
 const MODEL = process.env.MODEL ?? "claude-opus-4-8";
 const NAME_BATCH = 25;
@@ -50,6 +52,9 @@ interface Unit {
     te?: string;
     teTranslit?: string;
     teMeaning?: string;
+    kn?: string;
+    knTranslit?: string;
+    knMeaning?: string;
     review: string;
     flag?: string;
   };
@@ -268,6 +273,51 @@ function applyTeluguNames(units: Unit[]): number {
   return n;
 }
 
+/** Apply Kannada verse fields (knTranslit = Kannada script, knMeaning = Kannada translation). */
+function applyKannadaVerses(): number {
+  if (!existsSync(KN_VERSE_FILE)) return 0;
+  const kn: Record<string, Record<string, { knTranslit: string; knMeaning: string }>> = JSON.parse(
+    readFileSync(KN_VERSE_FILE, "utf-8"),
+  );
+  let n = 0;
+  for (const song of data.songs) {
+    const m = kn[song.id];
+    if (!m) continue;
+    let i = 0;
+    for (const b of song.blocks) {
+      if (b.type === "verse" && b.text) {
+        const e = m[String(i)];
+        if (e?.knTranslit && e?.knMeaning) {
+          b.text.knTranslit = e.knTranslit;
+          b.text.knMeaning = e.knMeaning;
+          n++;
+        }
+        i++;
+      }
+    }
+  }
+  return n;
+}
+
+/** Apply Kannada name fields (kn, knTranslit), keyed by Tamil. */
+function applyKannadaNames(units: Unit[]): number {
+  if (!existsSync(KN_NAMES_FILE)) return 0;
+  const map: Record<string, { kn?: string; knTranslit?: string }> = JSON.parse(
+    readFileSync(KN_NAMES_FILE, "utf-8"),
+  );
+  let n = 0;
+  for (const u of units) {
+    if (u.kind !== "name") continue;
+    const m = map[u.obj.ta];
+    if (m?.kn) {
+      u.obj.kn = m.kn;
+      if (m.knTranslit) u.obj.knTranslit = m.knTranslit;
+      n++;
+    }
+  }
+  return n;
+}
+
 // ---------- cache ----------
 function cacheKey(kind: Kind, ta: string): string {
   return createHash("sha256").update(`${kind}${ta}`).digest("hex").slice(0, 24);
@@ -407,6 +457,9 @@ async function main(): Promise<void> {
   const teVerses = applyTeluguVerses();
   const teNames = applyTeluguNames(units);
   if (teVerses || teNames) console.log(`Applied Telugu: ${teVerses} verses, ${teNames} names.`);
+  const knVerses = applyKannadaVerses();
+  const knNames = applyKannadaNames(units);
+  if (knVerses || knNames) console.log(`Applied Kannada: ${knVerses} verses, ${knNames} names.`);
 
   // Apply anything already cached.
   let fromCache = 0;

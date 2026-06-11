@@ -17,7 +17,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
   <head>
     <script is:inline>
       // Apply saved language before paint to avoid a flash.
-      try { if (localStorage.getItem("lang") === "te") document.documentElement.classList.add("lang-te"); } catch (e) {}
+      try { var L = localStorage.getItem("lang"); if (L === "te" || L === "kn") document.documentElement.classList.add("lang-" + L); } catch (e) {}
     </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -34,7 +34,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       href="https://fonts.googleapis.com"
     />
     <link
-      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Noto+Sans+Tamil:wght@400;600&family=Noto+Sans+Telugu:wght@400;600&family=Inter:wght@400;500;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Noto+Sans+Tamil:wght@400;600&family=Noto+Sans+Telugu:wght@400;600&family=Noto+Sans+Kannada:wght@400;600&family=Inter:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <style is:global>
@@ -110,15 +110,15 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       .toggle[aria-pressed="true"] { background: var(--accent); color:#fff; border-color: var(--accent); }
       .draft { font-size:.7rem; color: var(--gold); }
       .te { font-family: "Noto Sans Telugu", sans-serif; }
-      /* Language switch: English by default; html.lang-te flips to Telugu. */
-      .l-te { display: none; }
-      html.lang-te .l-en { display: none; }
-      html.lang-te .l-te { display: inline; }
-      .l-te-b { display: none; }
-      html.lang-te .l-en-b { display: none; }
-      html.lang-te .l-te-b { display: block; }
-      .langbtn { font: inherit; font-size: .9rem; cursor: pointer; border: 1px solid var(--accent); background: var(--surface); color: var(--accent); padding: .25rem .7rem; border-radius: 999px; }
-      .langbtn:hover { background: var(--accent); color: #fff; }
+      .kn { font-family: "Noto Sans Kannada", sans-serif; }
+      /* Language switch: English by default; html.lang-te / .lang-kn flip the page. */
+      .l-te, .l-kn { display: none; }
+      .l-te-b, .l-kn-b { display: none; }
+      html.lang-te .l-en { display: none; } html.lang-te .l-te { display: inline; }
+      html.lang-te .l-en-b { display: none; } html.lang-te .l-te-b { display: block; }
+      html.lang-kn .l-en { display: none; } html.lang-kn .l-kn { display: inline; }
+      html.lang-kn .l-en-b { display: none; } html.lang-kn .l-kn-b { display: block; }
+      .langbtn { font: inherit; font-size: .9rem; cursor: pointer; border: 1px solid var(--accent); background: var(--surface); color: var(--accent); padding: .25rem .5rem; border-radius: 999px; }
       ul.clean { list-style:none; padding:0; margin:0; }
       ul.clean li { padding:.35rem 0; border-bottom:1px solid var(--line); }
     </style>
@@ -128,13 +128,15 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       <div class="wrap">
         <a class="brand" href={url("/")}>108 <b>Divya Desam</b></a>
         <nav>
-          <a href={url("/#regions")}><span class="l-en">Regions</span><span class="l-te te">ప్రాంతాలు</span></a>
-          <a href={url("/#alwars")}><span class="l-en">Alwars</span><span class="l-te te">ఆళ్వార్లు</span></a>
-          <a href={url("/prabandham")}><span class="l-en">Hymns</span><span class="l-te te">పాశురాలు</span></a>
-          <a href={url("/about")}><span class="l-en">About</span><span class="l-te te">గురించి</span></a>
-          <button id="langtoggle" class="langbtn" type="button" aria-label="Switch language">
-            <span class="l-en te">తెలుగు</span><span class="l-te">English</span>
-          </button>
+          <a href={url("/#regions")}><span class="l-en">Regions</span><span class="l-te te">ప్రాంతాలు</span><span class="l-kn kn">ಪ್ರಾಂತಗಳು</span></a>
+          <a href={url("/#alwars")}><span class="l-en">Alwars</span><span class="l-te te">ఆళ్వార్లు</span><span class="l-kn kn">ಆಳ್ವಾರರು</span></a>
+          <a href={url("/prabandham")}><span class="l-en">Hymns</span><span class="l-te te">పాశురాలు</span><span class="l-kn kn">ಪಾಶುರಗಳು</span></a>
+          <a href={url("/about")}><span class="l-en">About</span><span class="l-te te">గురించి</span><span class="l-kn kn">ಬಗ್ಗೆ</span></a>
+          <select id="langsel" class="langbtn" aria-label="Language">
+            <option value="en">English</option>
+            <option value="te">తెలుగు</option>
+            <option value="kn">ಕನ್ನಡ</option>
+          </select>
         </nav>
       </div>
     </header>
@@ -159,10 +161,16 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       </div>
     </footer>
     <script is:inline>
-      document.getElementById("langtoggle")?.addEventListener("click", () => {
-        const isTe = document.documentElement.classList.toggle("lang-te");
-        try { localStorage.setItem("lang", isTe ? "te" : "en"); } catch (e) {}
-      });
+      const sel = document.getElementById("langsel");
+      if (sel) {
+        const h = document.documentElement;
+        sel.value = h.classList.contains("lang-te") ? "te" : h.classList.contains("lang-kn") ? "kn" : "en";
+        sel.addEventListener("change", () => {
+          h.classList.remove("lang-te", "lang-kn");
+          if (sel.value !== "en") h.classList.add("lang-" + sel.value);
+          try { localStorage.setItem("lang", sel.value); } catch (e) {}
+        });
+      }
     </script>
   </body>
 </html>

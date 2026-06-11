@@ -32,7 +32,7 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
         )}
         {avatara && (
           <div class="panel" style="margin-top:1rem;">
-            <div class="muted" style="font-size:.8rem; text-transform:uppercase; letter-spacing:.05em;"><span class="l-en">Birthplace</span><span class="l-te te">జన్మస్థలం</span></div>
+            <div class="muted" style="font-size:.8rem; text-transform:uppercase; letter-spacing:.05em;"><span class="l-en">Birthplace</span><span class="l-te te">జన్మస్థలం</span><span class="l-kn kn">ಜನ್ಮಸ್ಥಳ</span></div>
             <div><a href={url(`/temple/${avatara.refId}`)}><Tr v={avatara.place} /></a></div>
             <div class="ta muted">{avatara.place.ta}</div>
           </div>
@@ -45,7 +45,7 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
 
         {alwar.songs.length > 0 && (
           <section class="section">
-            <h2><span class="l-en">Hymns Composed</span><span class="l-te te">రచించిన కీర్తనలు</span></h2>
+            <h2><span class="l-en">Hymns Composed</span><span class="l-te te">రచించిన కీర్తనలు</span><span class="l-kn kn">ರಚಿಸಿದ ಕೀರ್ತನೆಗಳು</span></h2>
             <ul class="clean">
               {alwar.songs.map((s) => {
                 const song = s.fName ? songById.get(s.fName) : undefined;
@@ -61,7 +61,7 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
         )}
 
         <section class="section">
-          <h2><span class="l-en">Temples Sung</span><span class="l-te te">గానం చేసిన ఆలయాలు</span> <span class="muted" style="font-size:1rem;">({sungTemples.length})</span></h2>
+          <h2><span class="l-en">Temples Sung</span><span class="l-te te">గానం చేసిన ఆలయాలు</span><span class="l-kn kn">ಹಾಡಿದ ದೇವಾಲಯಗಳು</span> <span class="muted" style="font-size:1rem;">({sungTemples.length})</span></h2>
           {sungTemples.length ? (
             <div class="grid cards">
               {sungTemples.map((t) => (
