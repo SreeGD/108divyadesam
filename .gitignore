@@ -11,3 +11,6 @@ data/cache/wf-manifest.json
 
 *.log
 .DS_Store
+
+# Regenerable review report (run: pnpm review-report)
+data/review/
