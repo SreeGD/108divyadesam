@@ -7,7 +7,10 @@ site/.astro/
 data/cache/wf/
 data/cache/wf-input/
 data/cache/wf-manifest.json
-# NOT ignored: data/cache/verse-translations.json (the merged machine translations)
+data/cache/th-input/
+data/cache/th-out/
+data/cache/th-manifest.json
+# NOT ignored: data/cache/verse-translations.json + temple-history.json (the merged outputs)
 
 *.log
 .DS_Store

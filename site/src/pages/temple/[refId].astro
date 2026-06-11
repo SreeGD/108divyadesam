@@ -6,6 +6,7 @@ import {
   regionByCode,
   alwarsForTemple,
   alwarByCode,
+  templeHistory,
   en,
   url,
 } from "../../data";
@@ -19,6 +20,8 @@ const singingAlwars = alwarsForTemple(temple.refId)
   .map((c) => alwarByCode.get(c))
   .filter(Boolean);
 const mapUrl = `https://www.openstreetmap.org/?mlat=${temple.lat}&mlon=${temple.lng}#map=15/${temple.lat}/${temple.lng}`;
+const history = templeHistory[String(temple.refId)];
+const historyParas = history ? history.history.split(/\n{2,}|\n/).map((p) => p.trim()).filter(Boolean) : [];
 const menuLabel: Record<string, string> = {
   HISTORY: "Sthala Puranam (Temple History)",
   ALWAR: "Mangalasasanam (Hymns of Praise)",
@@ -74,14 +77,27 @@ const menuLabel: Record<string, string> = {
           )}
         </section>
 
+        {historyParas.length > 0 && (
+          <section class="section">
+            <h2>Sthala Puranam <span class="ta muted" style="font-size:1rem;">தல புராணம்</span></h2>
+            <div class="panel">
+              {historyParas.map((p) => <p>{p}</p>)}
+              <p class="draft" style="margin-top:.6rem;">
+                AI-generated draft — a faithful summary under review; please verify against
+                authoritative temple sources before relying on details.
+              </p>
+            </div>
+          </section>
+        )}
+
         <section class="section">
-          <h2>Temple Sections</h2>
+          <h2>Other Sections</h2>
           <p class="muted">
-            Detailed Sthala Puranam, festival, and timing content is sourced separately — the
-            section structure from the original guide is shown below.
+            Festival and timing/route details come from the temple administration and are not yet
+            included here — the section structure from the original guide is shown below.
           </p>
           <ul class="clean">
-            {temple.menu.map((m) => (
+            {temple.menu.filter((m) => m.code !== "HISTORY").map((m) => (
               <li>
                 <strong>{menuLabel[m.code] ?? en(m.caption)}</strong>
                 <span class="muted ta"> · {m.caption.ta}</span>
