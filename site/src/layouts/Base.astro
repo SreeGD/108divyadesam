@@ -97,10 +97,10 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       .verse { padding: .9rem 0; border-bottom: 1px dashed var(--line); }
       .verse .num { font-size:.75rem; color: var(--gold); }
       .verse .ta { white-space: pre-line; font-size: 1.05rem; }
-      .verse .translit { white-space: pre-line; display:none; }
-      .verse .meaning { display:none; margin-top:.4rem; color: var(--ink); border-left: 3px solid var(--accent-soft); padding-left:.7rem; }
+      .verse .translit { white-space: pre-line; display:none; color: var(--muted); }
+      .verse .meaning { display:block; margin-top:.4rem; color: var(--ink); border-left: 3px solid var(--accent-soft); padding-left:.7rem; }
       body.show-translit .verse .translit { display:block; }
-      body.show-meaning .verse .meaning { display:block; }
+      body.hide-meaning .verse .meaning { display:none; }
       .toolbar { position: sticky; top: 56px; background: var(--bg); padding:.6rem 0; display:flex; gap:.5rem; flex-wrap:wrap; z-index: 5; }
       .toggle { font: inherit; font-size:.85rem; cursor:pointer; border:1px solid var(--line); background:var(--surface); color:var(--ink); padding:.3rem .8rem; border-radius:999px; }
       .toggle[aria-pressed="true"] { background: var(--accent); color:#fff; border-color: var(--accent); }

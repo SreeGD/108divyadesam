@@ -17,8 +17,8 @@ const verseCount = song.blocks.filter((b) => b.type === "verse").length;
     <p class="muted">{verseCount} verse{verseCount === 1 ? "" : "s"}</p>
 
     <div class="toolbar">
+      <button class="toggle" id="t-meaning" aria-pressed="true">Hide English meaning</button>
       <button class="toggle" id="t-translit" aria-pressed="false">Show transliteration</button>
-      <button class="toggle" id="t-meaning" aria-pressed="false">Show English meaning</button>
     </div>
 
     <div class="song">
@@ -26,12 +26,17 @@ const verseCount = song.blocks.filter((b) => b.type === "verse").length;
         if (b.type === "head")
           return (
             <h2 style="margin-top:1.6rem;">
-              {b.title && en(b.title)}
-              {b.title?.ta && b.title.en && <span class="ta muted" style="font-size:1rem;"> · {b.title.ta}</span>}
+              {en(b.title)}
+              {b.title?.en && b.title?.ta && <span class="ta muted" style="font-size:1rem;"> · {b.title.ta}</span>}
             </h2>
           );
         if (b.type === "subHead")
-          return <h3 class="muted" style="margin:.8rem 0 .2rem;">{b.title && en(b.title)} <span class="ta">{b.title?.en ? `· ${b.title.ta}` : b.title?.ta}</span></h3>;
+          return (
+            <h3 class="muted" style="margin:.8rem 0 .2rem;">
+              {en(b.title)}
+              {b.title?.en && b.title?.ta && <span class="ta"> · {b.title.ta}</span>}
+            </h3>
+          );
         if (b.type === "verse" && b.text)
           return (
             <div class="verse">
@@ -50,13 +55,19 @@ const verseCount = song.blocks.filter((b) => b.type === "verse").length;
   </div>
 
   <script is:inline>
-    for (const [id, cls] of [["t-translit", "show-translit"], ["t-meaning", "show-meaning"]]) {
-      const btn = document.getElementById(id);
-      btn?.addEventListener("click", () => {
-        const on = document.body.classList.toggle(cls);
-        btn.setAttribute("aria-pressed", String(on));
-        btn.textContent = btn.textContent.replace(on ? "Show" : "Hide", on ? "Hide" : "Show");
-      });
-    }
+    // English meaning is shown by default; this button hides it.
+    const mBtn = document.getElementById("t-meaning");
+    mBtn?.addEventListener("click", () => {
+      const hidden = document.body.classList.toggle("hide-meaning");
+      mBtn.setAttribute("aria-pressed", String(!hidden));
+      mBtn.textContent = hidden ? "Show English meaning" : "Hide English meaning";
+    });
+    // Transliteration is hidden by default; this button shows it.
+    const tBtn = document.getElementById("t-translit");
+    tBtn?.addEventListener("click", () => {
+      const on = document.body.classList.toggle("show-translit");
+      tBtn.setAttribute("aria-pressed", String(on));
+      tBtn.textContent = on ? "Hide transliteration" : "Show transliteration";
+    });
   </script>
 </Base>
