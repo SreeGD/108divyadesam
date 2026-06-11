@@ -84,6 +84,12 @@ export const templeHistory: Record<string, { history: string; review: string }> 
   ? JSON.parse(readFileSync(TH_FILE, "utf-8"))
   : {};
 
+/** AI-drafted festivals + getting-there/timings prose, keyed by refId. */
+const TX_FILE = join(process.cwd(), "../data/cache/temple-extras.json");
+export const templeExtras: Record<string, { festivals: string; timings: string; review: string }> = existsSync(TX_FILE)
+  ? JSON.parse(readFileSync(TX_FILE, "utf-8"))
+  : {};
+
 export const templeById = new Map(temples.map((t) => [t.refId, t]));
 export const regionByCode = new Map(regions.map((r) => [r.code, r]));
 export const alwarByCode = new Map(alwars.map((a) => [a.code, a]));

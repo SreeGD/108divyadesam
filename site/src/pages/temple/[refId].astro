@@ -7,6 +7,7 @@ import {
   alwarsForTemple,
   alwarByCode,
   templeHistory,
+  templeExtras,
   en,
   url,
 } from "../../data";
@@ -22,6 +23,9 @@ const singingAlwars = alwarsForTemple(temple.refId)
 const mapUrl = `https://www.openstreetmap.org/?mlat=${temple.lat}&mlon=${temple.lng}#map=15/${temple.lat}/${temple.lng}`;
 const history = templeHistory[String(temple.refId)];
 const historyParas = history ? history.history.split(/\n{2,}|\n/).map((p) => p.trim()).filter(Boolean) : [];
+const extras = templeExtras[String(temple.refId)];
+const festivalParas = extras?.festivals ? extras.festivals.split(/\n{2,}|\n/).map((p) => p.trim()).filter(Boolean) : [];
+const timingParas = extras?.timings ? extras.timings.split(/\n{2,}|\n/).map((p) => p.trim()).filter(Boolean) : [];
 const menuLabel: Record<string, string> = {
   HISTORY: "Sthala Puranam (Temple History)",
   ALWAR: "Mangalasasanam (Hymns of Praise)",
@@ -90,21 +94,25 @@ const menuLabel: Record<string, string> = {
           </section>
         )}
 
-        <section class="section">
-          <h2>Other Sections</h2>
-          <p class="muted">
-            Festival and timing/route details come from the temple administration and are not yet
-            included here — the section structure from the original guide is shown below.
-          </p>
-          <ul class="clean">
-            {temple.menu.filter((m) => m.code !== "HISTORY").map((m) => (
-              <li>
-                <strong>{menuLabel[m.code] ?? en(m.caption)}</strong>
-                <span class="muted ta"> · {m.caption.ta}</span>
-              </li>
-            ))}
-          </ul>
-        </section>
+        {festivalParas.length > 0 && (
+          <section class="section">
+            <h2>Festivals <span class="ta muted" style="font-size:1rem;">திருவிழாக்கள்</span></h2>
+            <div class="panel">
+              {festivalParas.map((p) => <p>{p}</p>)}
+              <p class="draft" style="margin-top:.6rem;">AI-generated draft — traditional festivals; dates vary each year, so confirm with the temple.</p>
+            </div>
+          </section>
+        )}
+
+        {timingParas.length > 0 && (
+          <section class="section">
+            <h2>Getting There <span class="ta muted" style="font-size:1rem;">நேரம் மற்றும் வழிகள்</span></h2>
+            <div class="panel">
+              {timingParas.map((p) => <p>{p}</p>)}
+              <p class="draft" style="margin-top:.6rem;">AI-generated orientation — not official. Always verify current darshan timings and travel details with the temple before visiting.</p>
+            </div>
+          </section>
+        )}
       </div>
     </div>
   </div>

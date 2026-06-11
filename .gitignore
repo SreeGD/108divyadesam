@@ -10,7 +10,10 @@ data/cache/wf-manifest.json
 data/cache/th-input/
 data/cache/th-out/
 data/cache/th-manifest.json
-# NOT ignored: data/cache/verse-translations.json + temple-history.json (the merged outputs)
+data/cache/ft-input/
+data/cache/ft-out/
+data/cache/ft-manifest.json
+# NOT ignored: verse-translations.json + temple-history.json + temple-extras.json (merged outputs)
 
 *.log
 .DS_Store
