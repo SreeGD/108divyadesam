@@ -6,7 +6,9 @@
       "ta": "பொய்கையாழ்வார்",
       "review": "verified",
       "en": "Poigai Alwar",
-      "translit": "Poigai Azhwar"
+      "translit": "Poigai Azhwar",
+      "te": "పొయ్గై ఆళ్వార్",
+      "teTranslit": "పొయ్గై ఆళ్వార్"
     },
     "avataraSthalamTempleId": 51,
     "image": {
@@ -22,7 +24,9 @@
           "ta": "முதல் திருவந்தாதி",
           "review": "verified",
           "en": "Mudhal Thiruvandhadhi",
-          "translit": "Mudhal Thiruvandhaadhi"
+          "translit": "Mudhal Thiruvandhaadhi",
+          "te": "మొదటి తిరువందాది",
+          "teTranslit": "ముదల్ తిరువందాది"
         },
         "fName": "dp_14",
         "code": 14
@@ -36,7 +40,9 @@
       "ta": "பூதத்தாழ்வார்",
       "review": "verified",
       "en": "Bhoothath Alwar",
-      "translit": "Bhoothath Azhwar"
+      "translit": "Bhoothath Azhwar",
+      "te": "భూతత్తాళ్వార్",
+      "teTranslit": "పూదత్తాళ్వార్"
     },
     "avataraSthalamTempleId": 63,
     "image": {
@@ -52,7 +58,9 @@
           "ta": "இரண்டாம் திருவந்தாதி",
           "review": "verified",
           "en": "Irandam Thiruvandhadhi",
-          "translit": "Irandaam Thiruvandhaadhi"
+          "translit": "Irandaam Thiruvandhaadhi",
+          "te": "రెండవ తిరువందాది",
+          "teTranslit": "ఇరండాం తిరువందాది"
         },
         "fName": "dp_15",
         "code": 15
@@ -66,7 +74,9 @@
       "ta": "பேயாழ்வார்",
       "review": "verified",
       "en": "Pey Alwar",
-      "translit": "Pey Azhwar"
+      "translit": "Pey Azhwar",
+      "te": "పేయాళ్వార్",
+      "teTranslit": "పేయాళ్వార్"
     },
     "avataraSthalamTempleId": 109,
     "image": {
@@ -82,7 +92,9 @@
           "ta": "மூன்றாம் திருவந்தாதி",
           "review": "verified",
           "en": "Moondram Thiruvandhadhi",
-          "translit": "Moondraam Thiruvandhaadhi"
+          "translit": "Moondraam Thiruvandhaadhi",
+          "te": "మూడవ తిరువందాది",
+          "teTranslit": "మూన్రాం తిరువందాది"
         },
         "fName": "dp_16",
         "code": 16
@@ -96,7 +108,9 @@
       "ta": "திருமழிசை ஆழ்வார்",
       "review": "verified",
       "en": "Thirumazhisai Alwar",
-      "translit": "Thirumazhisai Azhwar"
+      "translit": "Thirumazhisai Azhwar",
+      "te": "తిరుమழిశై ఆళ్వార్",
+      "teTranslit": "తిరుమழిశై ఆళ్వార్"
     },
     "avataraSthalamTempleId": 110,
     "image": {
@@ -112,7 +126,9 @@
           "ta": "திருச்சந்த விருத்தம்",
           "review": "verified",
           "en": "Thiruchchanda Viruttham",
-          "translit": "Thiruchchanda Viruttham"
+          "translit": "Thiruchchanda Viruttham",
+          "te": "తిరుచ్చంద విరుత్తం",
+          "teTranslit": "తిరుచ్చంద విరుత్తం"
         },
         "fName": "dp_6",
         "code": 6
@@ -122,7 +138,9 @@
           "ta": "நான்முகன் திருவந்தாதி",
           "review": "verified",
           "en": "Naanmugan Thiruvandhadhi",
-          "translit": "Naanmugan Thiruvandhaadhi"
+          "translit": "Naanmugan Thiruvandhaadhi",
+          "te": "నాన్ముగన్ తిరువందాది",
+          "teTranslit": "నాన్ముగన్ తిరువందాది"
         },
         "fName": "dp_17",
         "code": 17
@@ -136,7 +154,9 @@
       "ta": "நம்மாழ்வார்",
       "review": "verified",
       "en": "Nammalwar",
-      "translit": "Nammazhwar"
+      "translit": "Nammazhwar",
+      "te": "నమ్మాళ్వార్",
+      "teTranslit": "నమ్మాళ్వార్"
     },
     "avataraSthalamTempleId": 87,
     "image": {
@@ -152,7 +172,9 @@
           "ta": "திருவிருத்தம்",
           "review": "verified",
           "en": "Thiruviruttham",
-          "translit": "Thiruviruttham"
+          "translit": "Thiruviruttham",
+          "te": "తిరువిరుత్తం",
+          "teTranslit": "తిరువిరుత్తం"
         },
         "fName": "dp_18",
         "code": 18
@@ -162,7 +184,9 @@
           "ta": "திருவாசிரியம்",
           "review": "verified",
           "en": "Thiruvasiriyam",
-          "translit": "Thiruvaasiriyam"
+          "translit": "Thiruvaasiriyam",
+          "te": "తిరువాశిరియం",
+          "teTranslit": "తిరువాశిరియం"
         },
         "fName": "dp_19",
         "code": 19
@@ -172,7 +196,9 @@
           "ta": "பெரிய திருவந்தாதி",
           "review": "verified",
           "en": "Periya Thiruvandhadhi",
-          "translit": "Periya Thiruvandhaadhi"
+          "translit": "Periya Thiruvandhaadhi",
+          "te": "పెరియ తిరువందాది",
+          "teTranslit": "పెరియ తిరువందాది"
         },
         "fName": "dp_20",
         "code": 20
@@ -182,7 +208,9 @@
           "ta": "திருவாய்மொழி",
           "review": "verified",
           "en": "Thiruvaymozhi",
-          "translit": "Thiruvaaymozhi"
+          "translit": "Thiruvaaymozhi",
+          "te": "తిరువాయ్‌మొழி",
+          "teTranslit": "తిరువాయ్‌మొழி"
         },
         "fName": "",
         "code": 25
@@ -196,7 +224,9 @@
       "ta": "மதுரகவியாழ்வார்",
       "review": "verified",
       "en": "Madhurakavi Alwar",
-      "translit": "Madhurakavi Azhwar"
+      "translit": "Madhurakavi Azhwar",
+      "te": "మధురకవి ఆళ్వార్",
+      "teTranslit": "మదురగవి ఆళ్వార్"
     },
     "avataraSthalamTempleId": 85,
     "image": {
@@ -212,7 +242,9 @@
           "ta": "கண்ணிநுண் சிறுதாம்பு",
           "review": "auto",
           "en": "Kanninun Siruthambu",
-          "translit": "Kanninun Siruthambu"
+          "translit": "Kanninun Siruthambu",
+          "te": "కణ్ణినుణ్ శిరుదాంబు",
+          "teTranslit": "కణ్ణినుణ్ శిరుదాంబు"
         },
         "fName": "dp_10",
         "code": 10
@@ -226,7 +258,9 @@
       "ta": "குலசேகராழ்வார்",
       "review": "verified",
       "en": "Kulasekara Alwar",
-      "translit": "Kulasekara Azhwar"
+      "translit": "Kulasekara Azhwar",
+      "te": "కులశేఖర ఆళ్వార్",
+      "teTranslit": "కులశేగర ఆళ్వార్"
     },
     "avataraSthalamTempleId": 0,
     "image": {
@@ -242,7 +276,9 @@
           "ta": "பெருமாள் திருமொழி",
           "review": "verified",
           "en": "Perumal Thirumozhi",
-          "translit": "Perumaal Thirumozhi"
+          "translit": "Perumaal Thirumozhi",
+          "te": "పెరుమాళ్ తిరుమొழி",
+          "teTranslit": "పెరుమాళ్ తిరుమొழி"
         },
         "fName": "dp_5",
         "code": 5
@@ -256,7 +292,9 @@
       "ta": "பெரியாழ்வார்",
       "review": "verified",
       "en": "Periyalwar",
-      "translit": "Periya Azhwar"
+      "translit": "Periya Azhwar",
+      "te": "పెరియాళ్వార్",
+      "teTranslit": "పెరియాళ్వార్"
     },
     "avataraSthalamTempleId": 88,
     "image": {
@@ -272,7 +310,9 @@
           "ta": "திருப்பல்லாண்டு",
           "review": "verified",
           "en": "Thiruppallandu",
-          "translit": "Thiruppallaandu"
+          "translit": "Thiruppallaandu",
+          "te": "తిరుప్పల్లాండు",
+          "teTranslit": "తిరుప్పల్లాండు"
         },
         "fName": "dp_1",
         "code": 1
@@ -282,7 +322,9 @@
           "ta": "பெரியாழ்வார் திருமொழி",
           "review": "verified",
           "en": "Periyalwar Thirumozhi",
-          "translit": "Periyazhwar Thirumozhi"
+          "translit": "Periyazhwar Thirumozhi",
+          "te": "పెరియాళ్వార్ తిరుమొழி",
+          "teTranslit": "పెరియాళ్వార్ తిరుమొழి"
         },
         "fName": "",
         "code": 2
@@ -296,7 +338,9 @@
       "ta": "ஆண்டாள்",
       "review": "verified",
       "en": "Andal",
-      "translit": "Andal"
+      "translit": "Andal",
+      "te": "ఆండాళ్",
+      "teTranslit": "ఆండాళ్"
     },
     "avataraSthalamTempleId": 88,
     "image": {
@@ -312,7 +356,9 @@
           "ta": "திருப்பாவை",
           "review": "verified",
           "en": "Thiruppavai",
-          "translit": "Thiruppaavai"
+          "translit": "Thiruppaavai",
+          "te": "తిరుప్పావై",
+          "teTranslit": "తిరుప్పావై"
         },
         "fName": "dp_3",
         "code": 3
@@ -322,7 +368,9 @@
           "ta": "நாச்சியார் திருமொழி",
           "review": "verified",
           "en": "Nachiyar Thirumozhi",
-          "translit": "Naachiyaar Thirumozhi"
+          "translit": "Naachiyaar Thirumozhi",
+          "te": "నాచ్చియార్ తిరుమొழி",
+          "teTranslit": "నాచ్చియార్ తిరుమొழி"
         },
         "fName": "dp_4",
         "code": 4
@@ -336,7 +384,9 @@
       "ta": "தொண்டரடிப் பொடியாழ்வார்",
       "review": "verified",
       "en": "Thondaradippodi Alwar",
-      "translit": "Thondaradippodi Azhwar"
+      "translit": "Thondaradippodi Azhwar",
+      "te": "తొండరడిప్పొడి ఆళ్వార్",
+      "teTranslit": "తొండరడిప్ పొడియాళ్వార్"
     },
     "avataraSthalamTempleId": 111,
     "image": {
@@ -352,7 +402,9 @@
           "ta": "திருமாலை",
           "review": "verified",
           "en": "Thirumalai",
-          "translit": "Thirumaalai"
+          "translit": "Thirumaalai",
+          "te": "తిరుమాలై",
+          "teTranslit": "తిరుమాలై"
         },
         "fName": "dp_7",
         "code": 7
@@ -362,7 +414,9 @@
           "ta": "திருப்பள்ளியெழுச்சி",
           "review": "verified",
           "en": "Thiruppalliyezhuchchi",
-          "translit": "Thiruppalliyezhuchchi"
+          "translit": "Thiruppalliyezhuchchi",
+          "te": "తిరుప్పళ్ళియెழుచ్చి",
+          "teTranslit": "తిరుప్పళ్ళియెழుచ్చి"
         },
         "fName": "dp_8",
         "code": 8
@@ -376,7 +430,9 @@
       "ta": "திருப்பாணாழ்வார்",
       "review": "verified",
       "en": "Thiruppaan Alwar",
-      "translit": "Thiruppaan Azhwar"
+      "translit": "Thiruppaan Azhwar",
+      "te": "తిరుప్పాణాళ్వార్",
+      "teTranslit": "తిరుప్పాణాళ్వార్"
     },
     "avataraSthalamTempleId": 2,
     "image": {
@@ -392,7 +448,9 @@
           "ta": "அமலனாதிபிரான்",
           "review": "verified",
           "en": "Amalanadhipiran",
-          "translit": "Amalanaadhipiraan"
+          "translit": "Amalanaadhipiraan",
+          "te": "అమలనాదిపిరాన్",
+          "teTranslit": "అమలనాదిపిరాన్"
         },
         "fName": "dp_9",
         "code": 9
@@ -406,7 +464,9 @@
       "ta": "திருமங்கையாழ்வார்",
       "review": "verified",
       "en": "Thirumangai Alwar",
-      "translit": "Thirumangai Azhwar"
+      "translit": "Thirumangai Azhwar",
+      "te": "తిరుమంగై ఆళ్వార్",
+      "teTranslit": "తిరుమంగైయాళ్వార్"
     },
     "avataraSthalamTempleId": 34,
     "image": {
@@ -422,7 +482,9 @@
           "ta": "பெரிய திருமொழி",
           "review": "verified",
           "en": "Periya Thirumozhi",
-          "translit": "Periya Thirumozhi"
+          "translit": "Periya Thirumozhi",
+          "te": "పెరియ తిరుమొழி",
+          "teTranslit": "పెరియ తిరుమొழி"
         },
         "fName": "",
         "code": 11
@@ -432,7 +494,9 @@
           "ta": "திருக்குறுந்தாண்டகம்",
           "review": "verified",
           "en": "Thirukkurunthandakam",
-          "translit": "Thirukkurunthaandakam"
+          "translit": "Thirukkurunthaandakam",
+          "te": "తిరుక్కురుందాండగం",
+          "teTranslit": "తిరుక్కురుందాండగం"
         },
         "fName": "dp_12",
         "code": 12
@@ -442,7 +506,9 @@
           "ta": "திருநெடுந்தாண்டகம்",
           "review": "verified",
           "en": "Thirunedunthandakam",
-          "translit": "Thirunedunthaandakam"
+          "translit": "Thirunedunthaandakam",
+          "te": "తిరునెదుందాండగం",
+          "teTranslit": "తిరునెదుందాండగం"
         },
         "fName": "dp_13",
         "code": 13
@@ -452,7 +518,9 @@
           "ta": "திருவெழு கூற்றிருக்கை",
           "review": "auto",
           "en": "Thiruvezhukutrirukkai",
-          "translit": "Thiruvezhu Kutrirukkai"
+          "translit": "Thiruvezhu Kutrirukkai",
+          "te": "తిరువెழు కూట్రిరుక్కై",
+          "teTranslit": "తిరువెழు కూట్రిరుక్కై"
         },
         "fName": "dp_21",
         "code": 21
@@ -462,7 +530,9 @@
           "ta": "சிறிய திருமடல்",
           "review": "auto",
           "en": "Siriya Thirumadal",
-          "translit": "Siriya Thirumadal"
+          "translit": "Siriya Thirumadal",
+          "te": "శిరియ తిరుమడల్",
+          "teTranslit": "శిరియ తిరుమడల్"
         },
         "fName": "dp_22",
         "code": 22
@@ -472,7 +542,9 @@
           "ta": "பெரிய திருமடல்",
           "review": "auto",
           "en": "Periya Thirumadal",
-          "translit": "Periya Thirumadal"
+          "translit": "Periya Thirumadal",
+          "te": "పెరియ తిరుమడల్",
+          "teTranslit": "పెరియ తిరుమడల్"
         },
         "fName": "dp_23",
         "code": 23

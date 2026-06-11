@@ -1,6 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import { regions, alwars, temples, en, slug, url } from "../data";
+import Tr from "../components/Tr.astro";
 const totalTemples = temples.length;
 ---
 
@@ -20,15 +21,15 @@ const totalTemples = temples.length;
 
   <div class="wrap">
     <section class="section" id="regions">
-      <h2>Explore by Region</h2>
+      <h2><span class="l-en">Explore by Region</span><span class="l-te te">ప్రాంతం వారీగా</span></h2>
       <p class="muted">The temples are grouped into the traditional regions (<span class="ta">நாடு</span>, <em>nadu</em>) of the sacred geography.</p>
       <div class="grid cards" style="margin-top:1rem;">
         {regions.map((r) => (
           <a class="card" href={url(`/region/${r.code}`)}>
             <div class="body">
-              <div class="en">{en(r.name)}</div>
+              <div class="en"><Tr v={r.name} /></div>
               <div class="sub muted ta">{r.name.ta}</div>
-              <div class="sub" style="margin-top:.4rem;"><span class="pill">{r.templeCount} temples</span></div>
+              <div class="sub" style="margin-top:.4rem;"><span class="pill">{r.templeCount} <span class="l-en">temples</span><span class="l-te te">ఆలయాలు</span></span></div>
             </div>
           </a>
         ))}
@@ -36,14 +37,14 @@ const totalTemples = temples.length;
     </section>
 
     <section class="section" id="alwars">
-      <h2>The Twelve Alwars</h2>
+      <h2><span class="l-en">The Twelve Alwars</span><span class="l-te te">పన్నెండు ఆళ్వార్లు</span></h2>
       <p class="muted">The Alwars (<span class="ta">ஆழ்வார்கள்</span>) were poet-saints immersed in devotion to Vishnu, whose 4,000 Tamil verses form the Divya Prabandham.</p>
       <div class="grid cards" style="margin-top:1rem;">
         {alwars.map((a) => (
           <a class="card" href={url(`/alwar/${a.code}`)}>
             {a.image && <img src={url(a.image.local)} alt={en(a.name)} loading="lazy" />}
             <div class="body">
-              <div class="en">{en(a.name)}</div>
+              <div class="en"><Tr v={a.name} /></div>
               <div class="sub muted ta">{a.name.ta}</div>
             </div>
           </a>

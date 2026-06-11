@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { regions, templesByRegion, en, url } from "../../data";
+import Tr from "../../components/Tr.astro";
 
 export function getStaticPaths() {
   return regions.map((r) => ({ params: { code: String(r.code) }, props: { region: r } }));
@@ -12,17 +13,16 @@ const list = templesByRegion(region.code);
 <Base title={`${en(region.name)} Temples`}>
   <div class="wrap">
     <p class="crumbs"><a href={url("/")}>Home</a> › {en(region.name)}</p>
-    <h1>{en(region.name)} <span class="ta muted" style="font-size:1.4rem;">{region.name.ta}</span></h1>
-    <p class="muted">{list.length} Divya Desam temples in this region.</p>
+    <h1><Tr v={region.name} /> <span class="ta muted" style="font-size:1.4rem;">{region.name.ta}</span></h1>
+    <p class="muted">{list.length} <span class="l-en">Divya Desam temples in this region.</span><span class="l-te te">ఈ ప్రాంతంలోని దివ్యదేశ ఆలయాలు.</span></p>
 
     <div class="grid cards" style="margin-top:1rem;">
       {list.map((t) => (
         <a class="card" href={url(`/temple/${t.refId}`)}>
           <img src={url(t.images.thumb.local)} alt={en(t.name)} loading="lazy" />
           <div class="body">
-            <div class="en">{en(t.place)}</div>
-            <div class="sub muted">{en(t.name)}</div>
-            {!t.name.en && <div class="sub ta">{t.name.ta}</div>}
+            <div class="en"><Tr v={t.place} /></div>
+            <div class="sub muted"><Tr v={t.name} /></div>
           </div>
         </a>
       ))}

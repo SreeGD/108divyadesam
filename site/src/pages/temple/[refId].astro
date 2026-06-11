@@ -8,9 +8,14 @@ import {
   alwarByCode,
   templeHistory,
   templeExtras,
+  templeHistoryTe,
+  templeExtrasTe,
   en,
   url,
 } from "../../data";
+import Tr from "../../components/Tr.astro";
+
+const splitParas = (s?: string) => (s ? s.split(/\n{2,}|\n/).map((p) => p.trim()).filter(Boolean) : []);
 
 export function getStaticPaths() {
   return temples.map((t) => ({ params: { refId: String(t.refId) }, props: { temple: t } }));
@@ -21,11 +26,13 @@ const singingAlwars = alwarsForTemple(temple.refId)
   .map((c) => alwarByCode.get(c))
   .filter(Boolean);
 const mapUrl = `https://www.openstreetmap.org/?mlat=${temple.lat}&mlon=${temple.lng}#map=15/${temple.lat}/${temple.lng}`;
-const history = templeHistory[String(temple.refId)];
-const historyParas = history ? history.history.split(/\n{2,}|\n/).map((p) => p.trim()).filter(Boolean) : [];
-const extras = templeExtras[String(temple.refId)];
-const festivalParas = extras?.festivals ? extras.festivals.split(/\n{2,}|\n/).map((p) => p.trim()).filter(Boolean) : [];
-const timingParas = extras?.timings ? extras.timings.split(/\n{2,}|\n/).map((p) => p.trim()).filter(Boolean) : [];
+const rid = String(temple.refId);
+const historyParas = splitParas(templeHistory[rid]?.history);
+const historyParasTe = splitParas(templeHistoryTe[rid]?.history);
+const festivalParas = splitParas(templeExtras[rid]?.festivals);
+const festivalParasTe = splitParas(templeExtrasTe[rid]?.festivals);
+const timingParas = splitParas(templeExtras[rid]?.timings);
+const timingParasTe = splitParas(templeExtrasTe[rid]?.timings);
 const menuLabel: Record<string, string> = {
   HISTORY: "Sthala Puranam (Temple History)",
   ALWAR: "Mangalasasanam (Hymns of Praise)",
@@ -58,37 +65,35 @@ const menuLabel: Record<string, string> = {
       </div>
 
       <div>
-        <h1 style="margin-bottom:.2rem;">{en(temple.name)}</h1>
+        <h1 style="margin-bottom:.2rem;"><Tr v={temple.name} /></h1>
         <p class="ta muted" style="font-size:1.15rem; margin-top:0;">{temple.name.ta}</p>
-        {!temple.name.en && (
-          <p class="draft">English name awaiting translation — run the translation pipeline to populate.</p>
-        )}
-        <p><span class="pill">{en(temple.place)}</span> {region && <span class="pill">{en(region.name)}</span>}</p>
+        <p><span class="pill"><Tr v={temple.place} /></span> {region && <span class="pill"><Tr v={region.name} /></span>}</p>
 
         <section class="section">
-          <h2>Mangalasasanam</h2>
+          <h2><span class="l-en">Mangalasasanam</span><span class="l-te te">మంగళాశాసనం</span></h2>
           {singingAlwars.length ? (
             <>
-              <p class="muted">Alwars who sang the glories of this temple:</p>
+              <p class="muted"><span class="l-en">Alwars who sang the glories of this temple:</span><span class="l-te te">ఈ ఆలయ మహిమను గానం చేసిన ఆళ్వార్లు:</span></p>
               <ul class="clean">
                 {singingAlwars.map((a) => (
-                  <li><a href={url(`/alwar/${a!.code}`)}><Name value={a!.name} /></a></li>
+                  <li><a href={url(`/alwar/${a!.code}`)}><Tr v={a!.name} /></a></li>
                 ))}
               </ul>
             </>
           ) : (
-            <p class="muted">This is a celestial abode (not sung by the Alwars in earthly hymns).</p>
+            <p class="muted"><span class="l-en">This is a celestial abode (not sung by the Alwars in earthly hymns).</span><span class="l-te te">ఇది దివ్య (భూలోకేతర) ధామం — ఆళ్వార్ల భూలోక కీర్తనలలో గానం చేయబడలేదు.</span></p>
           )}
         </section>
 
         {historyParas.length > 0 && (
           <section class="section">
-            <h2>Sthala Puranam <span class="ta muted" style="font-size:1rem;">தல புராணம்</span></h2>
+            <h2><span class="l-en">Sthala Puranam</span><span class="l-te te">స్థల పురాణం</span> <span class="ta muted" style="font-size:1rem;">தல புராணம்</span></h2>
             <div class="panel">
-              {historyParas.map((p) => <p>{p}</p>)}
+              {historyParas.map((p) => <p class="l-en-b">{p}</p>)}
+              {(historyParasTe.length ? historyParasTe : historyParas).map((p) => <p class="l-te-b te">{p}</p>)}
               <p class="draft" style="margin-top:.6rem;">
-                AI-generated draft — a faithful summary under review; please verify against
-                authoritative temple sources before relying on details.
+                <span class="l-en">AI-generated draft — a faithful summary under review; please verify against authoritative temple sources before relying on details.</span>
+                <span class="l-te te">కృత్రిమ మేధ ముసాయిదా — సమీక్షలో ఉన్నది; వివరాల కోసం అధికారిక ఆలయ మూలాలను సరిచూసుకోండి.</span>
               </p>
             </div>
           </section>
@@ -96,20 +101,28 @@ const menuLabel: Record<string, string> = {
 
         {festivalParas.length > 0 && (
           <section class="section">
-            <h2>Festivals <span class="ta muted" style="font-size:1rem;">திருவிழாக்கள்</span></h2>
+            <h2><span class="l-en">Festivals</span><span class="l-te te">ఉత్సవాలు</span> <span class="ta muted" style="font-size:1rem;">திருவிழாக்கள்</span></h2>
             <div class="panel">
-              {festivalParas.map((p) => <p>{p}</p>)}
-              <p class="draft" style="margin-top:.6rem;">AI-generated draft — traditional festivals; dates vary each year, so confirm with the temple.</p>
+              {festivalParas.map((p) => <p class="l-en-b">{p}</p>)}
+              {(festivalParasTe.length ? festivalParasTe : festivalParas).map((p) => <p class="l-te-b te">{p}</p>)}
+              <p class="draft" style="margin-top:.6rem;">
+                <span class="l-en">AI-generated draft — traditional festivals; dates vary each year, so confirm with the temple.</span>
+                <span class="l-te te">కృత్రిమ మేధ ముసాయిదా — సాంప్రదాయ ఉత్సవాలు; తేదీలు మారతాయి, ఆలయంతో నిర్ధారించుకోండి.</span>
+              </p>
             </div>
           </section>
         )}
 
         {timingParas.length > 0 && (
           <section class="section">
-            <h2>Getting There <span class="ta muted" style="font-size:1rem;">நேரம் மற்றும் வழிகள்</span></h2>
+            <h2><span class="l-en">Getting There</span><span class="l-te te">చేరుకోవడం</span> <span class="ta muted" style="font-size:1rem;">நேரம் மற்றும் வழிகள்</span></h2>
             <div class="panel">
-              {timingParas.map((p) => <p>{p}</p>)}
-              <p class="draft" style="margin-top:.6rem;">AI-generated orientation — not official. Always verify current darshan timings and travel details with the temple before visiting.</p>
+              {timingParas.map((p) => <p class="l-en-b">{p}</p>)}
+              {(timingParasTe.length ? timingParasTe : timingParas).map((p) => <p class="l-te-b te">{p}</p>)}
+              <p class="draft" style="margin-top:.6rem;">
+                <span class="l-en">AI-generated orientation — not official. Always verify current darshan timings and travel details with the temple before visiting.</span>
+                <span class="l-te te">కృత్రిమ మేధ సూచన — అధికారికం కాదు. దర్శన సమయాలు, ప్రయాణ వివరాలను ఆలయంతో నిర్ధారించుకోండి.</span>
+              </p>
             </div>
           </section>
         )}

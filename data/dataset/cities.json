@@ -4,7 +4,9 @@
     "icon": "l_1",
     "name": {
       "ta": "திருச்சி",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుచ్చి",
+      "teTranslit": "తిరుచ్చి"
     },
     "templeCount": 5,
     "regionCode": 1
@@ -14,7 +16,9 @@
     "icon": "l_2",
     "name": {
       "ta": "தஞ்சாவூர்",
-      "review": "pending"
+      "review": "pending",
+      "te": "తంజావూరు",
+      "teTranslit": "తంజావూర్"
     },
     "templeCount": 13,
     "regionCode": 1
@@ -24,7 +28,9 @@
     "icon": "l_3",
     "name": {
       "ta": "திருவாரூர்",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరువారూర్",
+      "teTranslit": "తిరువారూర్"
     },
     "templeCount": 2,
     "regionCode": 1
@@ -34,7 +40,9 @@
     "icon": "l_4",
     "name": {
       "ta": "நாகப்பட்டினம்",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాగప్పట్టినం",
+      "teTranslit": "నాగప్పట్టినం"
     },
     "templeCount": 19,
     "regionCode": 1
@@ -44,7 +52,9 @@
     "icon": "l_5",
     "name": {
       "ta": "கடலூர்",
-      "review": "pending"
+      "review": "pending",
+      "te": "కడలూర్",
+      "teTranslit": "కడలూర్"
     },
     "templeCount": 2,
     "regionCode": 1
@@ -54,7 +64,9 @@
     "icon": "l_6",
     "name": {
       "ta": "விழுப்புரம்",
-      "review": "pending"
+      "review": "pending",
+      "te": "విழుప్పురం",
+      "teTranslit": "విழుప్పురం"
     },
     "templeCount": 1
   },
@@ -63,7 +75,9 @@
     "icon": "l_7",
     "name": {
       "ta": "காஞ்சிபுரம்",
-      "review": "pending"
+      "review": "pending",
+      "te": "కాంచీపురం",
+      "teTranslit": "కాంజిపురం"
     },
     "templeCount": 18,
     "regionCode": 3
@@ -73,7 +87,9 @@
     "icon": "l_8",
     "name": {
       "ta": "திருவள்ளூர்",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరువళ్ళూర్",
+      "teTranslit": "తిరువళ్ళూర్"
     },
     "templeCount": 2,
     "regionCode": 3
@@ -83,7 +99,9 @@
     "icon": "l_9",
     "name": {
       "ta": "சென்னை",
-      "review": "pending"
+      "review": "pending",
+      "te": "చెన్నై",
+      "teTranslit": "చెన్నై"
     },
     "templeCount": 1,
     "regionCode": 3
@@ -93,7 +111,9 @@
     "icon": "l_10",
     "name": {
       "ta": "வேலூர்",
-      "review": "pending"
+      "review": "pending",
+      "te": "వేలూరు",
+      "teTranslit": "వేలూర్"
     },
     "templeCount": 1,
     "regionCode": 3
@@ -103,7 +123,9 @@
     "icon": "l_11",
     "name": {
       "ta": "கேரளா",
-      "review": "pending"
+      "review": "pending",
+      "te": "కేరళ",
+      "teTranslit": "కేరళా"
     },
     "templeCount": 11,
     "regionCode": 4
@@ -113,7 +135,9 @@
     "icon": "l_12",
     "name": {
       "ta": "கன்னியாகுமரி",
-      "review": "pending"
+      "review": "pending",
+      "te": "కన్యాకుమారి",
+      "teTranslit": "కన్నియాకుమరి"
     },
     "templeCount": 2,
     "regionCode": 4
@@ -123,7 +147,9 @@
     "icon": "l_13",
     "name": {
       "ta": "திருநெல்வேலி",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరునెల్వేలి",
+      "teTranslit": "తిరునెల్వేలి"
     },
     "templeCount": 2,
     "regionCode": 5
@@ -133,7 +159,9 @@
     "icon": "l_24",
     "name": {
       "ta": "தூத்துக்குடி",
-      "review": "pending"
+      "review": "pending",
+      "te": "తూత్తుక్కుడి",
+      "teTranslit": "తూత్తుక్కుడి"
     },
     "templeCount": 8,
     "regionCode": 5
@@ -143,7 +171,9 @@
     "icon": "l_14",
     "name": {
       "ta": "விருதுநகர்",
-      "review": "pending"
+      "review": "pending",
+      "te": "విరుదునగర్",
+      "teTranslit": "విరుదునగర్"
     },
     "templeCount": 2,
     "regionCode": 5
@@ -153,7 +183,9 @@
     "icon": "l_15",
     "name": {
       "ta": "மதுரை",
-      "review": "pending"
+      "review": "pending",
+      "te": "మదురై",
+      "teTranslit": "మదురై"
     },
     "templeCount": 3,
     "regionCode": 5
@@ -163,7 +195,9 @@
     "icon": "l_16",
     "name": {
       "ta": "சிவகங்கை",
-      "review": "pending"
+      "review": "pending",
+      "te": "శివగంగై",
+      "teTranslit": "శివగంగై"
     },
     "templeCount": 1,
     "regionCode": 5
@@ -173,7 +207,9 @@
     "icon": "l_17",
     "name": {
       "ta": "இராமநாதபுரம்",
-      "review": "pending"
+      "review": "pending",
+      "te": "రామనాథపురం",
+      "teTranslit": "ఇరామనాదపురం"
     },
     "templeCount": 1,
     "regionCode": 5
@@ -183,7 +219,9 @@
     "icon": "l_18",
     "name": {
       "ta": "புதுக்கோட்டை",
-      "review": "pending"
+      "review": "pending",
+      "te": "పుదుక్కోట్టై",
+      "teTranslit": "పుదుక్కోట్టై"
     },
     "templeCount": 1,
     "regionCode": 5
@@ -193,7 +231,9 @@
     "icon": "l_19",
     "name": {
       "ta": "உத்திரபிரதேசம்",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఉత్తరప్రదేశ్",
+      "teTranslit": "ఉత్తిరపిరదేశం"
     },
     "templeCount": 4,
     "regionCode": 6
@@ -203,7 +243,9 @@
     "icon": "l_20",
     "name": {
       "ta": "உத்தரகாண்ட்",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఉత్తరాఖండ్",
+      "teTranslit": "ఉత్తరకాండ్"
     },
     "templeCount": 3,
     "regionCode": 6
@@ -213,7 +255,9 @@
     "icon": "l_21",
     "name": {
       "ta": "நேபாளம்",
-      "review": "pending"
+      "review": "pending",
+      "te": "నేపాల్",
+      "teTranslit": "నేపాళం"
     },
     "templeCount": 1,
     "regionCode": 6
@@ -223,7 +267,9 @@
     "icon": "l_22",
     "name": {
       "ta": "குஜராத்",
-      "review": "pending"
+      "review": "pending",
+      "te": "గుజరాత్",
+      "teTranslit": "గుజరాత్"
     },
     "templeCount": 1,
     "regionCode": 6
@@ -233,7 +279,9 @@
     "icon": "l_23",
     "name": {
       "ta": "ஆந்திரப்பிரதேசம்",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆంధ్రప్రదేశ్",
+      "teTranslit": "ఆందిరప్పిరదేశం"
     },
     "templeCount": 2,
     "regionCode": 6

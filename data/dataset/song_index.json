@@ -4,11 +4,15 @@
     "weight": 2,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_2",
     "code": 2
@@ -18,11 +22,15 @@
     "weight": 3,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_2",
     "code": 3
@@ -32,11 +40,15 @@
     "weight": 4,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_2",
     "code": 4
@@ -46,11 +58,15 @@
     "weight": 5,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_2",
     "code": 5
@@ -60,11 +76,15 @@
     "weight": 6,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_2",
     "code": 6
@@ -74,11 +94,15 @@
     "weight": 7,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_2",
     "code": 7
@@ -88,11 +112,15 @@
     "weight": 8,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_2",
     "code": 8
@@ -102,11 +130,15 @@
     "weight": 9,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_2",
     "code": 9
@@ -116,11 +148,15 @@
     "weight": 10,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_2",
     "code": 10
@@ -130,11 +166,15 @@
     "weight": 11,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_2",
     "code": 11
@@ -144,11 +184,15 @@
     "weight": 12,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_2",
     "code": 12
@@ -158,11 +202,15 @@
     "weight": 13,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_2",
     "code": 13
@@ -172,11 +220,15 @@
     "weight": 14,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_2",
     "code": 14
@@ -186,11 +238,15 @@
     "weight": 15,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_2",
     "code": 15
@@ -200,11 +256,15 @@
     "weight": 16,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_2",
     "code": 16
@@ -214,11 +274,15 @@
     "weight": 17,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_2",
     "code": 17
@@ -228,11 +292,15 @@
     "weight": 18,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_2",
     "code": 18
@@ -242,11 +310,15 @@
     "weight": 19,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_2",
     "code": 19
@@ -256,11 +328,15 @@
     "weight": 20,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_2",
     "code": 20
@@ -270,11 +346,15 @@
     "weight": 21,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_2",
     "code": 21
@@ -284,11 +364,15 @@
     "weight": 22,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_2",
     "code": 22
@@ -298,11 +382,15 @@
     "weight": 23,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_2",
     "code": 23
@@ -312,11 +400,15 @@
     "weight": 24,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_2",
     "code": 24
@@ -326,11 +418,15 @@
     "weight": 25,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_2",
     "code": 25
@@ -340,11 +436,15 @@
     "weight": 26,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_2",
     "code": 26
@@ -354,11 +454,15 @@
     "weight": 27,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_2",
     "code": 27
@@ -368,11 +472,15 @@
     "weight": 28,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_2",
     "code": 28
@@ -382,11 +490,15 @@
     "weight": 29,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_2",
     "code": 29
@@ -396,11 +508,15 @@
     "weight": 30,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_2",
     "code": 30
@@ -410,11 +526,15 @@
     "weight": 31,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_2",
     "code": 31
@@ -424,11 +544,15 @@
     "weight": 32,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_2",
     "code": 32
@@ -438,11 +562,15 @@
     "weight": 33,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_2",
     "code": 33
@@ -452,11 +580,15 @@
     "weight": 34,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_2",
     "code": 34
@@ -466,11 +598,15 @@
     "weight": 35,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_2",
     "code": 35
@@ -480,11 +616,15 @@
     "weight": 36,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_2",
     "code": 36
@@ -494,11 +634,15 @@
     "weight": 37,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_2",
     "code": 37
@@ -508,11 +652,15 @@
     "weight": 38,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_2",
     "code": 38
@@ -522,11 +670,15 @@
     "weight": 40,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_2",
     "code": 40
@@ -536,11 +688,15 @@
     "weight": 41,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_2",
     "code": 41
@@ -550,11 +706,15 @@
     "weight": 42,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_2",
     "code": 42
@@ -564,11 +724,15 @@
     "weight": 43,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_2",
     "code": 43
@@ -578,11 +742,15 @@
     "weight": 44,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_2",
     "code": 44
@@ -592,11 +760,15 @@
     "weight": 39,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_2",
     "code": 39
@@ -606,11 +778,15 @@
     "weight": 59,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 59
@@ -620,11 +796,15 @@
     "weight": 2,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 2
@@ -634,11 +814,15 @@
     "weight": 3,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 3
@@ -648,11 +832,15 @@
     "weight": 4,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 4
@@ -662,11 +850,15 @@
     "weight": 5,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 5
@@ -676,11 +868,15 @@
     "weight": 6,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 6
@@ -690,11 +886,15 @@
     "weight": 7,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 7
@@ -704,11 +904,15 @@
     "weight": 8,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 8
@@ -718,11 +922,15 @@
     "weight": 9,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 9
@@ -732,11 +940,15 @@
     "weight": 10,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 10
@@ -746,11 +958,15 @@
     "weight": 11,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 11
@@ -760,11 +976,15 @@
     "weight": 12,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 12
@@ -774,11 +994,15 @@
     "weight": 13,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 13
@@ -788,11 +1012,15 @@
     "weight": 14,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 14
@@ -802,11 +1030,15 @@
     "weight": 15,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 15
@@ -816,11 +1048,15 @@
     "weight": 16,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 16
@@ -830,11 +1066,15 @@
     "weight": 17,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 17
@@ -844,11 +1084,15 @@
     "weight": 18,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 18
@@ -858,11 +1102,15 @@
     "weight": 19,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 19
@@ -872,11 +1120,15 @@
     "weight": 20,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 20
@@ -886,11 +1138,15 @@
     "weight": 21,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 21
@@ -900,11 +1156,15 @@
     "weight": 22,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 22
@@ -914,11 +1174,15 @@
     "weight": 23,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 23
@@ -928,11 +1192,15 @@
     "weight": 24,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 24
@@ -942,11 +1210,15 @@
     "weight": 25,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 25
@@ -956,11 +1228,15 @@
     "weight": 26,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 26
@@ -970,11 +1246,15 @@
     "weight": 27,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 27
@@ -984,11 +1264,15 @@
     "weight": 28,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 28
@@ -998,11 +1282,15 @@
     "weight": 29,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 29
@@ -1012,11 +1300,15 @@
     "weight": 30,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 30
@@ -1026,11 +1318,15 @@
     "weight": 31,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 31
@@ -1040,11 +1336,15 @@
     "weight": 32,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 32
@@ -1054,11 +1354,15 @@
     "weight": 33,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 33
@@ -1068,11 +1372,15 @@
     "weight": 34,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 34
@@ -1082,11 +1390,15 @@
     "weight": 35,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 35
@@ -1096,11 +1408,15 @@
     "weight": 36,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 36
@@ -1110,11 +1426,15 @@
     "weight": 37,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 37
@@ -1124,11 +1444,15 @@
     "weight": 38,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 38
@@ -1138,11 +1462,15 @@
     "weight": 39,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 39
@@ -1152,11 +1480,15 @@
     "weight": 40,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 40
@@ -1166,11 +1498,15 @@
     "weight": 41,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 41
@@ -1180,11 +1516,15 @@
     "weight": 42,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 42
@@ -1194,11 +1534,15 @@
     "weight": 43,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 43
@@ -1208,11 +1552,15 @@
     "weight": 44,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 44
@@ -1222,11 +1570,15 @@
     "weight": 45,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 45
@@ -1236,11 +1588,15 @@
     "weight": 46,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 46
@@ -1250,11 +1606,15 @@
     "weight": 47,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 47
@@ -1264,11 +1624,15 @@
     "weight": 48,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 48
@@ -1278,11 +1642,15 @@
     "weight": 49,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 49
@@ -1292,11 +1660,15 @@
     "weight": 50,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 50
@@ -1306,11 +1678,15 @@
     "weight": 51,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 51
@@ -1320,11 +1696,15 @@
     "weight": 52,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 52
@@ -1334,11 +1714,15 @@
     "weight": 53,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 53
@@ -1348,11 +1732,15 @@
     "weight": 54,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 54
@@ -1362,11 +1750,15 @@
     "weight": 55,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 55
@@ -1376,11 +1768,15 @@
     "weight": 56,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 56
@@ -1390,11 +1786,15 @@
     "weight": 57,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 57
@@ -1404,11 +1804,15 @@
     "weight": 58,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 58
@@ -1418,11 +1822,15 @@
     "weight": 60,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 60
@@ -1432,11 +1840,15 @@
     "weight": 61,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 61
@@ -1446,11 +1858,15 @@
     "weight": 62,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 62
@@ -1460,11 +1876,15 @@
     "weight": 63,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 63
@@ -1474,11 +1894,15 @@
     "weight": 64,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 64
@@ -1488,11 +1912,15 @@
     "weight": 65,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 65
@@ -1502,11 +1930,15 @@
     "weight": 66,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 66
@@ -1516,11 +1948,15 @@
     "weight": 67,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 67
@@ -1530,11 +1966,15 @@
     "weight": 68,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 68
@@ -1544,11 +1984,15 @@
     "weight": 69,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 69
@@ -1558,11 +2002,15 @@
     "weight": 70,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 70
@@ -1572,11 +2020,15 @@
     "weight": 71,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 71
@@ -1586,11 +2038,15 @@
     "weight": 72,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 72
@@ -1600,11 +2056,15 @@
     "weight": 73,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 73
@@ -1614,11 +2074,15 @@
     "weight": 74,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 74
@@ -1628,11 +2092,15 @@
     "weight": 75,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 75
@@ -1642,11 +2110,15 @@
     "weight": 76,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 76
@@ -1656,11 +2128,15 @@
     "weight": 77,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 77
@@ -1670,11 +2146,15 @@
     "weight": 78,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 78
@@ -1684,11 +2164,15 @@
     "weight": 79,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 79
@@ -1698,11 +2182,15 @@
     "weight": 80,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 80
@@ -1712,11 +2200,15 @@
     "weight": 81,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 81
@@ -1726,11 +2218,15 @@
     "weight": 82,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 82
@@ -1740,11 +2236,15 @@
     "weight": 83,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 83
@@ -1754,11 +2254,15 @@
     "weight": 84,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 84
@@ -1768,11 +2272,15 @@
     "weight": 85,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 85
@@ -1782,11 +2290,15 @@
     "weight": 86,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 86
@@ -1796,11 +2308,15 @@
     "weight": 87,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 87
@@ -1810,11 +2326,15 @@
     "weight": 88,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 88
@@ -1824,11 +2344,15 @@
     "weight": 89,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 89
@@ -1838,11 +2362,15 @@
     "weight": 90,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 90
@@ -1852,11 +2380,15 @@
     "weight": 91,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 91
@@ -1866,11 +2398,15 @@
     "weight": 92,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 92
@@ -1880,11 +2416,15 @@
     "weight": 93,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 93
@@ -1894,11 +2434,15 @@
     "weight": 94,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 94
@@ -1908,11 +2452,15 @@
     "weight": 95,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 95
@@ -1922,11 +2470,15 @@
     "weight": 96,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 96
@@ -1936,11 +2488,15 @@
     "weight": 97,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 97
@@ -1950,11 +2506,15 @@
     "weight": 98,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 98
@@ -1964,11 +2524,15 @@
     "weight": 99,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_11",
     "code": 99
@@ -1978,11 +2542,15 @@
     "weight": 100,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_11",
     "code": 100
@@ -1992,11 +2560,15 @@
     "weight": 101,
     "title": {
       "ta": "பதினோராம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదకొండవ పత్తు",
+      "teTranslit": "పదినోరామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 101
@@ -2006,11 +2578,15 @@
     "weight": 102,
     "title": {
       "ta": "பதினோராம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదకొండవ పత్తు",
+      "teTranslit": "పదినోరామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_11",
     "code": 102
@@ -2020,11 +2596,15 @@
     "weight": 103,
     "title": {
       "ta": "பதினோராம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదకొండవ పత్తు",
+      "teTranslit": "పదినోరామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_11",
     "code": 103
@@ -2034,11 +2614,15 @@
     "weight": 104,
     "title": {
       "ta": "பதினோராம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదకొండవ పత్తు",
+      "teTranslit": "పదినోరామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_11",
     "code": 104
@@ -2048,11 +2632,15 @@
     "weight": 105,
     "title": {
       "ta": "பதினோராம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదకొండవ పత్తు",
+      "teTranslit": "పదినోరామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_11",
     "code": 105
@@ -2062,11 +2650,15 @@
     "weight": 106,
     "title": {
       "ta": "பதினோராம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదకొండవ పత్తు",
+      "teTranslit": "పదినోరామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_11",
     "code": 106
@@ -2076,11 +2668,15 @@
     "weight": 107,
     "title": {
       "ta": "பதினோராம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదకొండవ పత్తు",
+      "teTranslit": "పదినోరామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_11",
     "code": 107
@@ -2090,11 +2686,15 @@
     "weight": 108,
     "title": {
       "ta": "பதினோராம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదకొండవ పత్తు",
+      "teTranslit": "పదినోరామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_11",
     "code": 108
@@ -2104,11 +2704,15 @@
     "weight": 1,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_11",
     "code": 1
@@ -2118,11 +2722,15 @@
     "weight": 1,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 1
@@ -2132,11 +2740,15 @@
     "weight": 2,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 2
@@ -2146,11 +2758,15 @@
     "weight": 3,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 3
@@ -2160,11 +2776,15 @@
     "weight": 4,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 4
@@ -2174,11 +2794,15 @@
     "weight": 5,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 5
@@ -2188,11 +2812,15 @@
     "weight": 6,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 6
@@ -2202,11 +2830,15 @@
     "weight": 7,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 7
@@ -2216,11 +2848,15 @@
     "weight": 8,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 8
@@ -2230,11 +2866,15 @@
     "weight": 9,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 9
@@ -2244,11 +2884,15 @@
     "weight": 10,
     "title": {
       "ta": "முதற்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మొదటి పత్తు",
+      "teTranslit": "ముదర్పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 10
@@ -2258,11 +2902,15 @@
     "weight": 11,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 11
@@ -2272,11 +2920,15 @@
     "weight": 12,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 12
@@ -2286,11 +2938,15 @@
     "weight": 13,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 13
@@ -2300,11 +2956,15 @@
     "weight": 14,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 14
@@ -2314,11 +2974,15 @@
     "weight": 15,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 15
@@ -2328,11 +2992,15 @@
     "weight": 16,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 16
@@ -2342,11 +3010,15 @@
     "weight": 17,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 17
@@ -2356,11 +3028,15 @@
     "weight": 18,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 18
@@ -2370,11 +3046,15 @@
     "weight": 19,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 19
@@ -2384,11 +3064,15 @@
     "weight": 20,
     "title": {
       "ta": "இரண்டாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "రెండవ పత్తు",
+      "teTranslit": "ఇరండాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 20
@@ -2398,11 +3082,15 @@
     "weight": 21,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 21
@@ -2412,11 +3100,15 @@
     "weight": 22,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 22
@@ -2426,11 +3118,15 @@
     "weight": 23,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 23
@@ -2440,11 +3136,15 @@
     "weight": 24,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 24
@@ -2454,11 +3154,15 @@
     "weight": 25,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 25
@@ -2468,11 +3172,15 @@
     "weight": 26,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 26
@@ -2482,11 +3190,15 @@
     "weight": 28,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 28
@@ -2496,11 +3208,15 @@
     "weight": 29,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 29
@@ -2510,11 +3226,15 @@
     "weight": 30,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 30
@@ -2524,11 +3244,15 @@
     "weight": 31,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 31
@@ -2538,11 +3262,15 @@
     "weight": 32,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 32
@@ -2552,11 +3280,15 @@
     "weight": 33,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 33
@@ -2566,11 +3298,15 @@
     "weight": 34,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 34
@@ -2580,11 +3316,15 @@
     "weight": 35,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 35
@@ -2594,11 +3334,15 @@
     "weight": 36,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 36
@@ -2608,11 +3352,15 @@
     "weight": 37,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 37
@@ -2622,11 +3370,15 @@
     "weight": 38,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 38
@@ -2636,11 +3388,15 @@
     "weight": 39,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 39
@@ -2650,11 +3406,15 @@
     "weight": 40,
     "title": {
       "ta": "நான்காம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "నాలుగవ పత్తు",
+      "teTranslit": "నాన్గాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 40
@@ -2664,11 +3424,15 @@
     "weight": 41,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 41
@@ -2678,11 +3442,15 @@
     "weight": 42,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 42
@@ -2692,11 +3460,15 @@
     "weight": 43,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 43
@@ -2706,11 +3478,15 @@
     "weight": 44,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 44
@@ -2720,11 +3496,15 @@
     "weight": 45,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 45
@@ -2734,11 +3514,15 @@
     "weight": 46,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 46
@@ -2748,11 +3532,15 @@
     "weight": 47,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 47
@@ -2762,11 +3550,15 @@
     "weight": 48,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 48
@@ -2776,11 +3568,15 @@
     "weight": 49,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 49
@@ -2790,11 +3586,15 @@
     "weight": 50,
     "title": {
       "ta": "ஐந்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఐదవ పత్తు",
+      "teTranslit": "ఐందాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 50
@@ -2804,11 +3604,15 @@
     "weight": 51,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 51
@@ -2818,11 +3622,15 @@
     "weight": 52,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 52
@@ -2832,11 +3640,15 @@
     "weight": 53,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 53
@@ -2846,11 +3658,15 @@
     "weight": 54,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 54
@@ -2860,11 +3676,15 @@
     "weight": 55,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 55
@@ -2874,11 +3694,15 @@
     "weight": 56,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 56
@@ -2888,11 +3712,15 @@
     "weight": 57,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 57
@@ -2902,11 +3730,15 @@
     "weight": 58,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 58
@@ -2916,11 +3748,15 @@
     "weight": 59,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 59
@@ -2930,11 +3766,15 @@
     "weight": 60,
     "title": {
       "ta": "ஆறாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఆరవ పత్తు",
+      "teTranslit": "ఆరాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 60
@@ -2944,11 +3784,15 @@
     "weight": 61,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 61
@@ -2958,11 +3802,15 @@
     "weight": 62,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 62
@@ -2972,11 +3820,15 @@
     "weight": 63,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 63
@@ -2986,11 +3838,15 @@
     "weight": 64,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 64
@@ -3000,11 +3856,15 @@
     "weight": 65,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 65
@@ -3014,11 +3874,15 @@
     "weight": 66,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 66
@@ -3028,11 +3892,15 @@
     "weight": 67,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 67
@@ -3042,11 +3910,15 @@
     "weight": 68,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 68
@@ -3056,11 +3928,15 @@
     "weight": 69,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 69
@@ -3070,11 +3946,15 @@
     "weight": 70,
     "title": {
       "ta": "ஏழாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఏడవ పత్తు",
+      "teTranslit": "ఏழాంపత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 70
@@ -3084,11 +3964,15 @@
     "weight": 71,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 71
@@ -3098,11 +3982,15 @@
     "weight": 72,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 72
@@ -3112,11 +4000,15 @@
     "weight": 73,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 73
@@ -3126,11 +4018,15 @@
     "weight": 74,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 74
@@ -3140,11 +4036,15 @@
     "weight": 75,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 75
@@ -3154,11 +4054,15 @@
     "weight": 76,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 76
@@ -3168,11 +4072,15 @@
     "weight": 77,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 77
@@ -3182,11 +4090,15 @@
     "weight": 78,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 78
@@ -3196,11 +4108,15 @@
     "weight": 79,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 79
@@ -3210,11 +4126,15 @@
     "weight": 80,
     "title": {
       "ta": "எட்டாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "ఎనిమిదవ పత్తు",
+      "teTranslit": "ఎట్టామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 80
@@ -3224,11 +4144,15 @@
     "weight": 81,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 81
@@ -3238,11 +4162,15 @@
     "weight": 82,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 82
@@ -3252,11 +4180,15 @@
     "weight": 83,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 83
@@ -3266,11 +4198,15 @@
     "weight": 84,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 84
@@ -3280,11 +4216,15 @@
     "weight": 85,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 85
@@ -3294,11 +4234,15 @@
     "weight": 87,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 87
@@ -3308,11 +4252,15 @@
     "weight": 88,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 88
@@ -3322,11 +4270,15 @@
     "weight": 89,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 89
@@ -3336,11 +4288,15 @@
     "weight": 90,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 90
@@ -3350,11 +4306,15 @@
     "weight": 92,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 2",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 2",
+      "teTranslit": "తిరుమొழி - 2"
     },
     "fName": "dp_25",
     "code": 92
@@ -3364,11 +4324,15 @@
     "weight": 93,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 3",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 3",
+      "teTranslit": "తిరుమొழி - 3"
     },
     "fName": "dp_25",
     "code": 93
@@ -3378,11 +4342,15 @@
     "weight": 94,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 4",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 4",
+      "teTranslit": "తిరుమొழி - 4"
     },
     "fName": "dp_25",
     "code": 94
@@ -3392,11 +4360,15 @@
     "weight": 95,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 5",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 5",
+      "teTranslit": "తిరుమొழி - 5"
     },
     "fName": "dp_25",
     "code": 95
@@ -3406,11 +4378,15 @@
     "weight": 96,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 96
@@ -3420,11 +4396,15 @@
     "weight": 98,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 8",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 8",
+      "teTranslit": "తిరుమొழி - 8"
     },
     "fName": "dp_25",
     "code": 98
@@ -3434,11 +4414,15 @@
     "weight": 99,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 9",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 9",
+      "teTranslit": "తిరుమొழி - 9"
     },
     "fName": "dp_25",
     "code": 99
@@ -3448,11 +4432,15 @@
     "weight": 100,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 10",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 10",
+      "teTranslit": "తిరుమొழி - 10"
     },
     "fName": "dp_25",
     "code": 100
@@ -3462,11 +4450,15 @@
     "weight": 91,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 1",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 1",
+      "teTranslit": "తిరుమొழி - 1"
     },
     "fName": "dp_25",
     "code": 91
@@ -3476,11 +4468,15 @@
     "weight": 97,
     "title": {
       "ta": "பத்தாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "పదవ పత్తు",
+      "teTranslit": "పత్తామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 97
@@ -3490,11 +4486,15 @@
     "weight": 27,
     "title": {
       "ta": "மூன்றாம் பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "మూడవ పత్తు",
+      "teTranslit": "మూన్రాం పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 7",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 7",
+      "teTranslit": "తిరుమొழி - 7"
     },
     "fName": "dp_25",
     "code": 27
@@ -3504,11 +4504,15 @@
     "weight": 86,
     "title": {
       "ta": "ஒன்பதாம்பத்து",
-      "review": "pending"
+      "review": "pending",
+      "te": "తొమ్మిదవ పత్తు",
+      "teTranslit": "ఒన్బదామ్ పత్తు"
     },
     "subTitle": {
       "ta": "திருமொழி - 6",
-      "review": "pending"
+      "review": "pending",
+      "te": "తిరుమొழி - 6",
+      "teTranslit": "తిరుమొழி - 6"
     },
     "fName": "dp_25",
     "code": 86

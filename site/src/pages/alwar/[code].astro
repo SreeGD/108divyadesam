@@ -1,6 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
-import Name from "../../components/Name.astro";
+import Tr from "../../components/Tr.astro";
 import {
   alwars,
   templesForAlwar,
@@ -22,7 +22,7 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
 
 <Base title={en(alwar.name)} description={`${en(alwar.name)} — one of the twelve Alwar saints, composer of Divya Prabandham hymns to Vishnu.`}>
   <div class="wrap">
-    <p class="crumbs"><a href={url("/")}>Home</a> › <a href={url("/#alwars")}>Alwars</a> › {en(alwar.name)}</p>
+    <p class="crumbs"><a href={url("/")}>Home</a> › <a href={url("/#alwars")}>Alwars</a> › <Tr v={alwar.name} /></p>
 
     <div class="twocol">
       <div>
@@ -32,27 +32,26 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
         )}
         {avatara && (
           <div class="panel" style="margin-top:1rem;">
-            <div class="muted" style="font-size:.8rem; text-transform:uppercase; letter-spacing:.05em;">Birthplace</div>
-            <div><a href={url(`/temple/${avatara.refId}`)}>{en(avatara.place)}</a></div>
+            <div class="muted" style="font-size:.8rem; text-transform:uppercase; letter-spacing:.05em;"><span class="l-en">Birthplace</span><span class="l-te te">జన్మస్థలం</span></div>
+            <div><a href={url(`/temple/${avatara.refId}`)}><Tr v={avatara.place} /></a></div>
             <div class="ta muted">{avatara.place.ta}</div>
           </div>
         )}
       </div>
 
       <div>
-        <h1 style="margin-bottom:.2rem;">{en(alwar.name)}</h1>
+        <h1 style="margin-bottom:.2rem;"><Tr v={alwar.name} /></h1>
         <p class="ta muted" style="font-size:1.15rem; margin-top:0;">{alwar.name.ta}</p>
 
         {alwar.songs.length > 0 && (
           <section class="section">
-            <h2>Hymns Composed</h2>
+            <h2><span class="l-en">Hymns Composed</span><span class="l-te te">రచించిన కీర్తనలు</span></h2>
             <ul class="clean">
               {alwar.songs.map((s) => {
                 const song = s.fName ? songById.get(s.fName) : undefined;
                 return (
                   <li>
-                    {song ? <a href={url(`/song/${song.id}`)}><Name value={s.title} showTa={false} /></a>
-                          : <Name value={s.title} showTa={false} />}
+                    {song ? <a href={url(`/song/${song.id}`)}><Tr v={s.title} /></a> : <Tr v={s.title} />}
                     <span class="muted ta"> · {s.title.ta}</span>
                   </li>
                 );
@@ -62,13 +61,13 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
         )}
 
         <section class="section">
-          <h2>Temples Sung <span class="muted" style="font-size:1rem;">({sungTemples.length})</span></h2>
+          <h2><span class="l-en">Temples Sung</span><span class="l-te te">గానం చేసిన ఆలయాలు</span> <span class="muted" style="font-size:1rem;">({sungTemples.length})</span></h2>
           {sungTemples.length ? (
             <div class="grid cards">
               {sungTemples.map((t) => (
                 <a class="card" href={url(`/temple/${t!.refId}`)}>
                   <img src={url(t!.images.thumb.local)} alt={en(t!.place)} loading="lazy" />
-                  <div class="body"><div class="en" style="font-size:.95rem;">{en(t!.place)}</div></div>
+                  <div class="body"><div class="en" style="font-size:.95rem;"><Tr v={t!.place} /></div></div>
                 </a>
               ))}
             </div>

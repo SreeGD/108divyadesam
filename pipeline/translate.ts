@@ -31,6 +31,8 @@ const TEMPLE_SEED_FILE = join(ROOT, "pipeline/seed-temples.json");
 const VERSE_SEED_FILE = join(ROOT, "pipeline/seed-verses.json");
 const GEN_VERSE_FILE = join(ROOT, "data/cache/verse-translations.json");
 const GEN_NAMES_FILE = join(ROOT, "data/cache/name-translations.json");
+const TE_VERSE_FILE = join(ROOT, "data/cache/verse-telugu.json");
+const TE_NAMES_FILE = join(ROOT, "data/cache/name-telugu.json");
 
 const MODEL = process.env.MODEL ?? "claude-opus-4-8";
 const NAME_BATCH = 25;
@@ -40,7 +42,17 @@ const CONCURRENCY = 5;
 type Kind = "name" | "verse";
 interface Unit {
   // The live T/VerseText object to mutate in place.
-  obj: { ta: string; en?: string; translit?: string; meaning?: string; review: string; flag?: string };
+  obj: {
+    ta: string;
+    en?: string;
+    translit?: string;
+    meaning?: string;
+    te?: string;
+    teTranslit?: string;
+    teMeaning?: string;
+    review: string;
+    flag?: string;
+  };
   kind: Kind;
 }
 
@@ -210,6 +222,52 @@ function applyGeneratedNames(units: Unit[]): number {
   return n;
 }
 
+/** Apply Telugu verse fields (teTranslit = Telugu script, teMeaning = Telugu translation),
+ *  keyed by songId then verse index. */
+function applyTeluguVerses(): number {
+  if (!existsSync(TE_VERSE_FILE)) return 0;
+  const te: Record<string, Record<string, { teTranslit: string; teMeaning: string }>> = JSON.parse(
+    readFileSync(TE_VERSE_FILE, "utf-8"),
+  );
+  let n = 0;
+  for (const song of data.songs) {
+    const m = te[song.id];
+    if (!m) continue;
+    let i = 0;
+    for (const b of song.blocks) {
+      if (b.type === "verse" && b.text) {
+        const e = m[String(i)];
+        if (e?.teTranslit && e?.teMeaning) {
+          b.text.teTranslit = e.teTranslit;
+          b.text.teMeaning = e.teMeaning;
+          n++;
+        }
+        i++;
+      }
+    }
+  }
+  return n;
+}
+
+/** Apply Telugu name fields (te = Telugu name, teTranslit = Telugu-script form), keyed by Tamil. */
+function applyTeluguNames(units: Unit[]): number {
+  if (!existsSync(TE_NAMES_FILE)) return 0;
+  const map: Record<string, { te?: string; teTranslit?: string }> = JSON.parse(
+    readFileSync(TE_NAMES_FILE, "utf-8"),
+  );
+  let n = 0;
+  for (const u of units) {
+    if (u.kind !== "name") continue;
+    const m = map[u.obj.ta];
+    if (m?.te) {
+      u.obj.te = m.te;
+      if (m.teTranslit) u.obj.teTranslit = m.teTranslit;
+      n++;
+    }
+  }
+  return n;
+}
+
 // ---------- cache ----------
 function cacheKey(kind: Kind, ta: string): string {
   return createHash("sha256").update(`${kind}${ta}`).digest("hex").slice(0, 24);
@@ -346,6 +404,9 @@ async function main(): Promise<void> {
   if (autoVerses) console.log(`Applied ${autoVerses} machine-generated (auto) verse translations.`);
   const autoNames = applyGeneratedNames(units);
   if (autoNames) console.log(`Applied ${autoNames} machine-generated (auto) heading/name translations.`);
+  const teVerses = applyTeluguVerses();
+  const teNames = applyTeluguNames(units);
+  if (teVerses || teNames) console.log(`Applied Telugu: ${teVerses} verses, ${teNames} names.`);
 
   // Apply anything already cached.
   let fromCache = 0;

@@ -1,6 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import { songs, en, url } from "../data";
+import Tr from "../components/Tr.astro";
 
 // dp_* = Divya Prabandham (the canonical hymn book); mang_* = per-temple Mangalasasanam.
 const dp = songs.filter((s) => s.id.startsWith("dp_"));
@@ -27,7 +28,7 @@ const order = (arr: typeof songs) =>
       <h2>Divya Prabandham <span class="muted" style="font-size:1rem;">({dp.length} sections)</span></h2>
       <ul class="clean">
         {order(dp).map((s) => (
-          <li><a href={url(`/song/${s.id}`)}>{titleOf(s)}</a>
+          <li><a href={url(`/song/${s.id}`)}>{s.title ? <Tr v={s.title} /> : s.id}</a>
             {s.title?.en && <span class="muted ta"> · {s.title.ta}</span>}</li>
         ))}
       </ul>
@@ -38,7 +39,7 @@ const order = (arr: typeof songs) =>
       <p class="muted">Hymns of praise arranged by the temple they glorify.</p>
       <ul class="clean">
         {order(mang).map((s) => (
-          <li><a href={url(`/song/${s.id}`)}>{titleOf(s)}</a>
+          <li><a href={url(`/song/${s.id}`)}>{s.title ? <Tr v={s.title} /> : s.id}</a>
             {s.title?.en && <span class="muted ta"> · {s.title.ta}</span>}</li>
         ))}
       </ul>

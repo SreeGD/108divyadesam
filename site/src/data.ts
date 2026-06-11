@@ -11,6 +11,9 @@ export interface T {
   en?: string;
   translit?: string;
   meaning?: string;
+  te?: string;
+  teTranslit?: string;
+  teMeaning?: string;
   review: "pending" | "auto" | "verified";
   flag?: string;
 }
@@ -115,6 +118,19 @@ export const url = (p: string): string => `${BASE.replace(/\/$/, "")}/${p.replac
 
 /** Primary display string: English if available, else transliteration, else Tamil. */
 export const en = (t?: T): string => (t ? t.en || t.translit || t.ta : "");
+
+/** Telugu display string: Telugu name if available, else Telugu transliteration, else English/Tamil. */
+export const te = (t?: T): string => (t ? t.te || t.teTranslit || t.en || t.translit || t.ta : "");
+
+/** Telugu temple prose (history / festivals / timings), keyed by refId. */
+const THE_FILE = join(process.cwd(), "../data/cache/temple-history-te.json");
+export const templeHistoryTe: Record<string, { history: string }> = existsSync(THE_FILE)
+  ? JSON.parse(readFileSync(THE_FILE, "utf-8"))
+  : {};
+const TXE_FILE = join(process.cwd(), "../data/cache/temple-extras-te.json");
+export const templeExtrasTe: Record<string, { festivals: string; timings: string }> = existsSync(TXE_FILE)
+  ? JSON.parse(readFileSync(TXE_FILE, "utf-8"))
+  : {};
 
 /** A URL-safe English slug for SEO (falls back to id-based). */
 export const slug = (t: T | undefined, fallback: string): string => {

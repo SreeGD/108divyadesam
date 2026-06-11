@@ -21,3 +21,13 @@ data/cache/ft-manifest.json
 # Regenerable review report (run: pnpm review-report)
 data/review/
 data/cache/headings-input.json
+data/cache/te-input/
+data/cache/te-out/
+data/cache/te-manifest.json
+data/cache/ten-input/
+data/cache/ten-out/
+data/cache/ten-manifest.json
+data/cache/tep-input/
+data/cache/tep-out/
+data/cache/tep-manifest.json
+# NOT ignored: verse-telugu.json, name-telugu.json, temple-history-te.json, temple-extras-te.json

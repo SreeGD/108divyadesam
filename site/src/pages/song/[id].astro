@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { songs, en, url } from "../../data";
+import Tr from "../../components/Tr.astro";
 
 export function getStaticPaths() {
   return songs.map((s) => ({ params: { id: s.id }, props: { song: s } }));
@@ -12,13 +13,14 @@ const verseCount = song.blocks.filter((b) => b.type === "verse").length;
 <Base title={song.title ? en(song.title) : song.id} description={`Divya Prabandham hymn with Tamil text, transliteration, and English meaning.`}>
   <div class="wrap">
     <p class="crumbs"><a href={url("/")}>Home</a> › <a href={url("/prabandham")}>Hymns</a> › {song.title ? en(song.title) : song.id}</p>
-    <h1>{song.title ? en(song.title) : song.id}</h1>
+    <h1>{song.title ? <Tr v={song.title} /> : song.id}</h1>
     {song.title?.ta && <p class="ta muted" style="font-size:1.15rem;margin-top:0;">{song.title.ta}</p>}
     <p class="muted">{verseCount} verse{verseCount === 1 ? "" : "s"}</p>
 
     <div class="toolbar">
-      <button class="toggle" id="t-meaning" aria-pressed="true">Hide English meaning</button>
-      <button class="toggle" id="t-translit" aria-pressed="false">Show transliteration</button>
+      <span class="muted" style="font-size:.8rem;align-self:center;"><span class="l-en">Show:</span><span class="l-te te">చూపు:</span></span>
+      <button class="toggle" id="t-meaning" aria-pressed="true"><span class="l-en">Meaning</span><span class="l-te te">అర్థం</span></button>
+      <button class="toggle" id="t-translit" aria-pressed="false"><span class="l-en">Transliteration</span><span class="l-te te">లిప్యంతరీకరణ</span></button>
     </div>
 
     <div class="song">
@@ -26,25 +28,34 @@ const verseCount = song.blocks.filter((b) => b.type === "verse").length;
         if (b.type === "head")
           return (
             <h2 style="margin-top:1.6rem;">
-              {en(b.title)}
-              {b.title?.en && b.title?.ta && <span class="ta muted" style="font-size:1rem;"> · {b.title.ta}</span>}
+              <Tr v={b.title} />
+              {b.title?.ta && <span class="ta muted" style="font-size:1rem;"> · {b.title.ta}</span>}
             </h2>
           );
         if (b.type === "subHead")
           return (
             <h3 class="muted" style="margin:.8rem 0 .2rem;">
-              {en(b.title)}
-              {b.title?.en && b.title?.ta && <span class="ta"> · {b.title.ta}</span>}
+              <Tr v={b.title} />
+              {b.title?.ta && <span class="ta"> · {b.title.ta}</span>}
             </h3>
           );
         if (b.type === "verse" && b.text)
           return (
             <div class="verse">
-              {b.songNum && <div class="num">Pasuram {b.songNum}</div>}
+              {b.songNum && (
+                <div class="num"><span class="l-en">Pasuram</span><span class="l-te te">పాశురం</span> {b.songNum}</div>
+              )}
               <div class="ta">{b.text.ta}</div>
-              {b.text.translit && <div class="translit">{b.text.translit}</div>}
-              {b.text.meaning && <div class="meaning">{b.text.meaning}</div>}
-              {!b.text.meaning && <div class="meaning draft">English meaning awaiting translation.</div>}
+              {(b.text.translit || b.text.teTranslit) && (
+                <div class="translit">
+                  <span class="l-en">{b.text.translit}</span>
+                  <span class="l-te te">{b.text.teTranslit || b.text.translit}</span>
+                </div>
+              )}
+              <div class="meaning">
+                <span class="l-en">{b.text.meaning || "English meaning awaiting translation."}</span>
+                <span class="l-te te">{b.text.teMeaning || b.text.meaning || "తెలుగు అర్థం రాబోతోంది."}</span>
+              </div>
             </div>
           );
         if (b.type === "image" && b.image && "local" in b.image)
@@ -55,19 +66,16 @@ const verseCount = song.blocks.filter((b) => b.type === "verse").length;
   </div>
 
   <script is:inline>
-    // English meaning is shown by default; this button hides it.
+    // Meaning shown by default (pressed); transliteration hidden by default.
     const mBtn = document.getElementById("t-meaning");
     mBtn?.addEventListener("click", () => {
       const hidden = document.body.classList.toggle("hide-meaning");
       mBtn.setAttribute("aria-pressed", String(!hidden));
-      mBtn.textContent = hidden ? "Show English meaning" : "Hide English meaning";
     });
-    // Transliteration is hidden by default; this button shows it.
     const tBtn = document.getElementById("t-translit");
     tBtn?.addEventListener("click", () => {
       const on = document.body.classList.toggle("show-translit");
       tBtn.setAttribute("aria-pressed", String(on));
-      tBtn.textContent = on ? "Hide transliteration" : "Show transliteration";
     });
   </script>
 </Base>

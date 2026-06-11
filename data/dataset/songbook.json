@@ -5,7 +5,9 @@
       "ta": "திருப்பல்லாண்டு",
       "review": "verified",
       "en": "Thiruppallandu",
-      "translit": "Thiruppallaandu"
+      "translit": "Thiruppallaandu",
+      "te": "తిరుప్పల్లాండు",
+      "teTranslit": "తిరుప్పల్లాండు"
     },
     "fName": "dp_1",
     "isList": false,
@@ -18,7 +20,9 @@
       "ta": "பெரியாழ்வார் திருமொழி",
       "review": "verified",
       "en": "Periyalwar Thirumozhi",
-      "translit": "Periyazhwar Thirumozhi"
+      "translit": "Periyazhwar Thirumozhi",
+      "te": "పెరియాళ్వార్ తిరుమొழி",
+      "teTranslit": "పెరియాళ్వార్ తిరుమొழి"
     },
     "fName": "",
     "isList": true,
@@ -31,7 +35,9 @@
       "ta": "திருப்பாவை",
       "review": "verified",
       "en": "Thiruppavai",
-      "translit": "Thiruppaavai"
+      "translit": "Thiruppaavai",
+      "te": "తిరుప్పావై",
+      "teTranslit": "తిరుప్పావై"
     },
     "fName": "dp_3",
     "isList": false,
@@ -44,7 +50,9 @@
       "ta": "நாச்சியார் திருமொழி",
       "review": "verified",
       "en": "Nachiyar Thirumozhi",
-      "translit": "Naachiyaar Thirumozhi"
+      "translit": "Naachiyaar Thirumozhi",
+      "te": "నాచ్చియార్ తిరుమొழி",
+      "teTranslit": "నాచ్చియార్ తిరుమొழி"
     },
     "fName": "dp_4",
     "isList": false,
@@ -57,7 +65,9 @@
       "ta": "பெருமாள் திருமொழி",
       "review": "verified",
       "en": "Perumal Thirumozhi",
-      "translit": "Perumaal Thirumozhi"
+      "translit": "Perumaal Thirumozhi",
+      "te": "పెరుమాళ్ తిరుమొழி",
+      "teTranslit": "పెరుమాళ్ తిరుమొழி"
     },
     "fName": "dp_5",
     "isList": false,
@@ -70,7 +80,9 @@
       "ta": "திருச்சந்த விருத்தம்",
       "review": "verified",
       "en": "Thiruchchanda Viruttham",
-      "translit": "Thiruchchanda Viruttham"
+      "translit": "Thiruchchanda Viruttham",
+      "te": "తిరుచ్చంద విరుత్తం",
+      "teTranslit": "తిరుచ్చంద విరుత్తం"
     },
     "fName": "dp_6",
     "isList": false,
@@ -83,7 +95,9 @@
       "ta": "திருமாலை",
       "review": "verified",
       "en": "Thirumalai",
-      "translit": "Thirumaalai"
+      "translit": "Thirumaalai",
+      "te": "తిరుమాలై",
+      "teTranslit": "తిరుమాలై"
     },
     "fName": "dp_7",
     "isList": false,
@@ -96,7 +110,9 @@
       "ta": "திருப்பள்ளியெழுச்சி",
       "review": "verified",
       "en": "Thiruppalliyezhuchchi",
-      "translit": "Thiruppalliyezhuchchi"
+      "translit": "Thiruppalliyezhuchchi",
+      "te": "తిరుప్పళ్ళియెழుచ్చి",
+      "teTranslit": "తిరుప్పళ్ళియెழుచ్చి"
     },
     "fName": "dp_8",
     "isList": false,
@@ -109,7 +125,9 @@
       "ta": "அமலனாதிபிரான்",
       "review": "verified",
       "en": "Amalanadhipiran",
-      "translit": "Amalanaadhipiraan"
+      "translit": "Amalanaadhipiraan",
+      "te": "అమలనాదిపిరాన్",
+      "teTranslit": "అమలనాదిపిరాన్"
     },
     "fName": "dp_9",
     "isList": false,
@@ -122,7 +140,9 @@
       "ta": "கண்ணிநுண் சிறுதாம்பு",
       "review": "auto",
       "en": "Kanninun Siruthambu",
-      "translit": "Kanninun Siruthambu"
+      "translit": "Kanninun Siruthambu",
+      "te": "కణ్ణినుణ్ శిరుదాంబు",
+      "teTranslit": "కణ్ణినుణ్ శిరుదాంబు"
     },
     "fName": "dp_10",
     "isList": false,
@@ -135,7 +155,9 @@
       "ta": "பெரிய திருமொழி",
       "review": "verified",
       "en": "Periya Thirumozhi",
-      "translit": "Periya Thirumozhi"
+      "translit": "Periya Thirumozhi",
+      "te": "పెరియ తిరుమొழி",
+      "teTranslit": "పెరియ తిరుమొழி"
     },
     "fName": "",
     "isList": true,
@@ -148,7 +170,9 @@
       "ta": "திருக்குறுந்தாண்டகம்",
       "review": "verified",
       "en": "Thirukkurunthandakam",
-      "translit": "Thirukkurunthaandakam"
+      "translit": "Thirukkurunthaandakam",
+      "te": "తిరుక్కురుందాండగం",
+      "teTranslit": "తిరుక్కురుందాండగం"
     },
     "fName": "dp_12",
     "isList": false,
@@ -161,7 +185,9 @@
       "ta": "திருநெடுந்தாண்டகம்",
       "review": "verified",
       "en": "Thirunedunthandakam",
-      "translit": "Thirunedunthaandakam"
+      "translit": "Thirunedunthaandakam",
+      "te": "తిరునెదుందాండగం",
+      "teTranslit": "తిరునెదుందాండగం"
     },
     "fName": "dp_13",
     "isList": false,
@@ -174,7 +200,9 @@
       "ta": "முதல் திருவந்தாதி",
       "review": "verified",
       "en": "Mudhal Thiruvandhadhi",
-      "translit": "Mudhal Thiruvandhaadhi"
+      "translit": "Mudhal Thiruvandhaadhi",
+      "te": "మొదటి తిరువందాది",
+      "teTranslit": "ముదల్ తిరువందాది"
     },
     "fName": "dp_14",
     "isList": false,
@@ -187,7 +215,9 @@
       "ta": "இரண்டாம் திருவந்தாதி",
       "review": "verified",
       "en": "Irandam Thiruvandhadhi",
-      "translit": "Irandaam Thiruvandhaadhi"
+      "translit": "Irandaam Thiruvandhaadhi",
+      "te": "రెండవ తిరువందాది",
+      "teTranslit": "ఇరండాం తిరువందాది"
     },
     "fName": "dp_15",
     "isList": false,
@@ -200,7 +230,9 @@
       "ta": "மூன்றாம் திருவந்தாதி",
       "review": "verified",
       "en": "Moondram Thiruvandhadhi",
-      "translit": "Moondraam Thiruvandhaadhi"
+      "translit": "Moondraam Thiruvandhaadhi",
+      "te": "మూడవ తిరువందాది",
+      "teTranslit": "మూన్రాం తిరువందాది"
     },
     "fName": "dp_16",
     "isList": false,
@@ -213,7 +245,9 @@
       "ta": "நான்முகன் திருவந்தாதி",
       "review": "verified",
       "en": "Naanmugan Thiruvandhadhi",
-      "translit": "Naanmugan Thiruvandhaadhi"
+      "translit": "Naanmugan Thiruvandhaadhi",
+      "te": "నాన్ముగన్ తిరువందాది",
+      "teTranslit": "నాన్ముగన్ తిరువందాది"
     },
     "fName": "dp_17",
     "isList": false,
@@ -226,7 +260,9 @@
       "ta": "திருவிருத்தம்",
       "review": "verified",
       "en": "Thiruviruttham",
-      "translit": "Thiruviruttham"
+      "translit": "Thiruviruttham",
+      "te": "తిరువిరుత్తం",
+      "teTranslit": "తిరువిరుత్తం"
     },
     "fName": "dp_18",
     "isList": false,
@@ -239,7 +275,9 @@
       "ta": "திருவாசிரியம்",
       "review": "verified",
       "en": "Thiruvasiriyam",
-      "translit": "Thiruvaasiriyam"
+      "translit": "Thiruvaasiriyam",
+      "te": "తిరువాశిరియం",
+      "teTranslit": "తిరువాశిరియం"
     },
     "fName": "dp_19",
     "isList": false,
@@ -252,7 +290,9 @@
       "ta": "பெரிய திருவந்தாதி",
       "review": "verified",
       "en": "Periya Thiruvandhadhi",
-      "translit": "Periya Thiruvandhaadhi"
+      "translit": "Periya Thiruvandhaadhi",
+      "te": "పెరియ తిరువందాది",
+      "teTranslit": "పెరియ తిరువందాది"
     },
     "fName": "dp_20",
     "isList": false,
@@ -265,7 +305,9 @@
       "ta": "திருவெழு கூற்றிருக்கை",
       "review": "auto",
       "en": "Thiruvezhukutrirukkai",
-      "translit": "Thiruvezhu Kutrirukkai"
+      "translit": "Thiruvezhu Kutrirukkai",
+      "te": "తిరువెழు కూట్రిరుక్కై",
+      "teTranslit": "తిరువెழు కూట్రిరుక్కై"
     },
     "fName": "dp_21",
     "isList": false,
@@ -278,7 +320,9 @@
       "ta": "சிறிய திருமடல்",
       "review": "auto",
       "en": "Siriya Thirumadal",
-      "translit": "Siriya Thirumadal"
+      "translit": "Siriya Thirumadal",
+      "te": "శిరియ తిరుమడల్",
+      "teTranslit": "శిరియ తిరుమడల్"
     },
     "fName": "dp_22",
     "isList": false,
@@ -291,7 +335,9 @@
       "ta": "பெரிய திருமடல்",
       "review": "auto",
       "en": "Periya Thirumadal",
-      "translit": "Periya Thirumadal"
+      "translit": "Periya Thirumadal",
+      "te": "పెరియ తిరుమడల్",
+      "teTranslit": "పెరియ తిరుమడల్"
     },
     "fName": "dp_23",
     "isList": false,
@@ -302,7 +348,9 @@
     "code": 24,
     "name": {
       "ta": "இராமாநுச நூற்றந்தாதி",
-      "review": "pending"
+      "review": "pending",
+      "te": "రామానుజ నూట్రందాది",
+      "teTranslit": "ఇరామానుచ నూట్రందాది"
     },
     "fName": "dp_24",
     "isList": false,
@@ -315,7 +363,9 @@
       "ta": "திருவாய்மொழி",
       "review": "verified",
       "en": "Thiruvaymozhi",
-      "translit": "Thiruvaaymozhi"
+      "translit": "Thiruvaaymozhi",
+      "te": "తిరువాయ్‌మొழி",
+      "teTranslit": "తిరువాయ్‌మొழி"
     },
     "fName": "",
     "isList": true,
