@@ -20,3 +20,4 @@ data/cache/ft-manifest.json
 
 # Regenerable review report (run: pnpm review-report)
 data/review/
+data/cache/headings-input.json

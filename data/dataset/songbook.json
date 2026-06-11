@@ -120,7 +120,9 @@
     "code": 10,
     "name": {
       "ta": "கண்ணிநுண் சிறுதாம்பு",
-      "review": "pending"
+      "review": "auto",
+      "en": "Kanninun Siruthambu",
+      "translit": "Kanninun Siruthambu"
     },
     "fName": "dp_10",
     "isList": false,
@@ -261,7 +263,9 @@
     "code": 21,
     "name": {
       "ta": "திருவெழு கூற்றிருக்கை",
-      "review": "pending"
+      "review": "auto",
+      "en": "Thiruvezhukutrirukkai",
+      "translit": "Thiruvezhu Kutrirukkai"
     },
     "fName": "dp_21",
     "isList": false,
@@ -272,7 +276,9 @@
     "code": 22,
     "name": {
       "ta": "சிறிய திருமடல்",
-      "review": "pending"
+      "review": "auto",
+      "en": "Siriya Thirumadal",
+      "translit": "Siriya Thirumadal"
     },
     "fName": "dp_22",
     "isList": false,
@@ -283,7 +289,9 @@
     "code": 23,
     "name": {
       "ta": "பெரிய திருமடல்",
-      "review": "pending"
+      "review": "auto",
+      "en": "Periya Thirumadal",
+      "translit": "Periya Thirumadal"
     },
     "fName": "dp_23",
     "isList": false,

@@ -30,6 +30,7 @@ const SEED_FILE = join(ROOT, "pipeline/seed-translations.json");
 const TEMPLE_SEED_FILE = join(ROOT, "pipeline/seed-temples.json");
 const VERSE_SEED_FILE = join(ROOT, "pipeline/seed-verses.json");
 const GEN_VERSE_FILE = join(ROOT, "data/cache/verse-translations.json");
+const GEN_NAMES_FILE = join(ROOT, "data/cache/name-translations.json");
 
 const MODEL = process.env.MODEL ?? "claude-opus-4-8";
 const NAME_BATCH = 25;
@@ -188,6 +189,27 @@ function applyGeneratedVerses(): number {
   return n;
 }
 
+/** Apply machine-generated name/heading translations (review:"auto"), keyed by Tamil
+ *  string. Used for the song section headings translated separately. */
+function applyGeneratedNames(units: Unit[]): number {
+  if (!existsSync(GEN_NAMES_FILE)) return 0;
+  const map: Record<string, { en?: string; translit?: string }> = JSON.parse(
+    readFileSync(GEN_NAMES_FILE, "utf-8"),
+  );
+  let n = 0;
+  for (const u of units) {
+    if (u.kind !== "name" || u.obj.review === "verified") continue;
+    const m = map[u.obj.ta];
+    if (m?.en) {
+      u.obj.en = m.en;
+      if (m.translit) u.obj.translit = m.translit;
+      u.obj.review = "auto";
+      n++;
+    }
+  }
+  return n;
+}
+
 // ---------- cache ----------
 function cacheKey(kind: Kind, ta: string): string {
   return createHash("sha256").update(`${kind}${ta}`).digest("hex").slice(0, 24);
@@ -322,6 +344,8 @@ async function main(): Promise<void> {
   const seeded = applySeed(units) + applyTempleSeed() + applyVerseSeed();
   const autoVerses = applyGeneratedVerses();
   if (autoVerses) console.log(`Applied ${autoVerses} machine-generated (auto) verse translations.`);
+  const autoNames = applyGeneratedNames(units);
+  if (autoNames) console.log(`Applied ${autoNames} machine-generated (auto) heading/name translations.`);
 
   // Apply anything already cached.
   let fromCache = 0;
