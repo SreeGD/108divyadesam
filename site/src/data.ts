@@ -94,6 +94,11 @@ export const alwarsForTemple = (refId: number): number[] =>
 export const templesForAlwar = (code: number): number[] =>
   alwarTempleMap.filter((l) => l.alwarCode === code).map((l) => l.templeRefId);
 
+/** Prefix an internal page/asset path with the configured base (for GitHub Pages
+ *  project sites served under /<repo>/). Pass paths like "/temple/1" or "/img/..". */
+const BASE = import.meta.env.BASE_URL || "/";
+export const url = (p: string): string => `${BASE.replace(/\/$/, "")}/${p.replace(/^\//, "")}`;
+
 /** Primary display string: English if available, else transliteration, else Tamil. */
 export const en = (t?: T): string => (t ? t.en || t.translit || t.ta : "");
 

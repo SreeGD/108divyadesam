@@ -1,12 +1,12 @@
 ---
 import Base from "../layouts/Base.astro";
-import { temples, alwars, regions, songs } from "../data";
+import { temples, alwars, regions, songs, url } from "../data";
 const verses = songs.reduce((n, s) => n + s.blocks.filter((b) => b.type === "verse").length, 0);
 ---
 
 <Base title="About this project" description="About the bilingual 108 Divya Desam guide and how it was made.">
   <div class="wrap">
-    <p class="crumbs"><a href="/">Home</a> › About</p>
+    <p class="crumbs"><a href={url("/")}>Home</a> › About</p>
     <h1>About this guide</h1>
     <div style="max-width:46rem;">
       <p>

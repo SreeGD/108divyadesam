@@ -7,6 +7,7 @@ import {
   alwarsForTemple,
   alwarByCode,
   en,
+  url,
 } from "../../data";
 
 export function getStaticPaths() {
@@ -29,15 +30,15 @@ const menuLabel: Record<string, string> = {
 <Base title={en(temple.name)} description={`${en(temple.name)}, ${en(temple.place)} — one of the 108 Divya Desam temples of Vishnu.`}>
   <div class="wrap">
     <p class="crumbs">
-      <a href="/">Home</a>
-      {region && <> › <a href={`/region/${region.code}`}>{en(region.name)}</a></>}
+      <a href={url("/")}>Home</a>
+      {region && <> › <a href={url(`/region/${region.code}`)}>{en(region.name)}</a></>}
       › {en(temple.place)}
     </p>
 
     <div class="twocol">
       <div>
         <img
-          src={temple.images.zoom.local}
+          src={url(temple.images.zoom.local)}
           alt={en(temple.name)}
           style="width:100%; border-radius:12px; border:1px solid var(--line);"
         />
@@ -64,7 +65,7 @@ const menuLabel: Record<string, string> = {
               <p class="muted">Alwars who sang the glories of this temple:</p>
               <ul class="clean">
                 {singingAlwars.map((a) => (
-                  <li><a href={`/alwar/${a!.code}`}><Name value={a!.name} /></a></li>
+                  <li><a href={url(`/alwar/${a!.code}`)}><Name value={a!.name} /></a></li>
                 ))}
               </ul>
             </>

@@ -1,6 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
-import { songs, en } from "../data";
+import { songs, en, url } from "../data";
 
 // dp_* = Divya Prabandham (the canonical hymn book); mang_* = per-temple Mangalasasanam.
 const dp = songs.filter((s) => s.id.startsWith("dp_"));
@@ -16,7 +16,7 @@ const order = (arr: typeof songs) =>
 
 <Base title="Naalayira Divya Prabandham — Hymns" description="The 4,000 sacred Tamil verses of the Alwars: browse the Divya Prabandham hymns with Tamil text, transliteration, and English meaning.">
   <div class="wrap">
-    <p class="crumbs"><a href="/">Home</a> › Hymns</p>
+    <p class="crumbs"><a href={url("/")}>Home</a> › Hymns</p>
     <h1>Naalayira Divya Prabandham</h1>
     <p style="max-width:46rem;">
       The collected 4,000 Tamil verses of the twelve Alwars. Each hymn is presented with the
@@ -27,7 +27,7 @@ const order = (arr: typeof songs) =>
       <h2>Divya Prabandham <span class="muted" style="font-size:1rem;">({dp.length} sections)</span></h2>
       <ul class="clean">
         {order(dp).map((s) => (
-          <li><a href={`/song/${s.id}`}>{titleOf(s)}</a>
+          <li><a href={url(`/song/${s.id}`)}>{titleOf(s)}</a>
             {s.title?.en && <span class="muted ta"> · {s.title.ta}</span>}</li>
         ))}
       </ul>
@@ -38,7 +38,7 @@ const order = (arr: typeof songs) =>
       <p class="muted">Hymns of praise arranged by the temple they glorify.</p>
       <ul class="clean">
         {order(mang).map((s) => (
-          <li><a href={`/song/${s.id}`}>{titleOf(s)}</a>
+          <li><a href={url(`/song/${s.id}`)}>{titleOf(s)}</a>
             {s.title?.en && <span class="muted ta"> · {s.title.ta}</span>}</li>
         ))}
       </ul>

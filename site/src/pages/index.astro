@@ -1,6 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
-import { regions, alwars, temples, en, slug } from "../data";
+import { regions, alwars, temples, en, slug, url } from "../data";
 const totalTemples = temples.length;
 ---
 
@@ -24,7 +24,7 @@ const totalTemples = temples.length;
       <p class="muted">The temples are grouped into the traditional regions (<span class="ta">நாடு</span>, <em>nadu</em>) of the sacred geography.</p>
       <div class="grid cards" style="margin-top:1rem;">
         {regions.map((r) => (
-          <a class="card" href={`/region/${r.code}`}>
+          <a class="card" href={url(`/region/${r.code}`)}>
             <div class="body">
               <div class="en">{en(r.name)}</div>
               <div class="sub muted ta">{r.name.ta}</div>
@@ -40,8 +40,8 @@ const totalTemples = temples.length;
       <p class="muted">The Alwars (<span class="ta">ஆழ்வார்கள்</span>) were poet-saints immersed in devotion to Vishnu, whose 4,000 Tamil verses form the Divya Prabandham.</p>
       <div class="grid cards" style="margin-top:1rem;">
         {alwars.map((a) => (
-          <a class="card" href={`/alwar/${a.code}`}>
-            {a.image && <img src={a.image.local} alt={en(a.name)} loading="lazy" />}
+          <a class="card" href={url(`/alwar/${a.code}`)}>
+            {a.image && <img src={url(a.image.local)} alt={en(a.name)} loading="lazy" />}
             <div class="body">
               <div class="en">{en(a.name)}</div>
               <div class="sub muted ta">{a.name.ta}</div>

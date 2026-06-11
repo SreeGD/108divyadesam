@@ -7,6 +7,7 @@ import {
   templeById,
   songById,
   en,
+  url,
 } from "../../data";
 
 export function getStaticPaths() {
@@ -21,18 +22,18 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
 
 <Base title={en(alwar.name)} description={`${en(alwar.name)} — one of the twelve Alwar saints, composer of Divya Prabandham hymns to Vishnu.`}>
   <div class="wrap">
-    <p class="crumbs"><a href="/">Home</a> › <a href="/#alwars">Alwars</a> › {en(alwar.name)}</p>
+    <p class="crumbs"><a href={url("/")}>Home</a> › <a href={url("/#alwars")}>Alwars</a> › {en(alwar.name)}</p>
 
     <div class="twocol">
       <div>
         {alwar.image && (
-          <img src={alwar.image.local} alt={en(alwar.name)}
+          <img src={url(alwar.image.local)} alt={en(alwar.name)}
             style="width:100%; border-radius:12px; border:1px solid var(--line);" />
         )}
         {avatara && (
           <div class="panel" style="margin-top:1rem;">
             <div class="muted" style="font-size:.8rem; text-transform:uppercase; letter-spacing:.05em;">Birthplace</div>
-            <div><a href={`/temple/${avatara.refId}`}>{en(avatara.place)}</a></div>
+            <div><a href={url(`/temple/${avatara.refId}`)}>{en(avatara.place)}</a></div>
             <div class="ta muted">{avatara.place.ta}</div>
           </div>
         )}
@@ -50,7 +51,7 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
                 const song = s.fName ? songById.get(s.fName) : undefined;
                 return (
                   <li>
-                    {song ? <a href={`/song/${song.id}`}><Name value={s.title} showTa={false} /></a>
+                    {song ? <a href={url(`/song/${song.id}`)}><Name value={s.title} showTa={false} /></a>
                           : <Name value={s.title} showTa={false} />}
                     <span class="muted ta"> · {s.title.ta}</span>
                   </li>
@@ -65,8 +66,8 @@ const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthal
           {sungTemples.length ? (
             <div class="grid cards">
               {sungTemples.map((t) => (
-                <a class="card" href={`/temple/${t!.refId}`}>
-                  <img src={t!.images.thumb.local} alt={en(t!.place)} loading="lazy" />
+                <a class="card" href={url(`/temple/${t!.refId}`)}>
+                  <img src={url(t!.images.thumb.local)} alt={en(t!.place)} loading="lazy" />
                   <div class="body"><div class="en" style="font-size:.95rem;">{en(t!.place)}</div></div>
                 </a>
               ))}

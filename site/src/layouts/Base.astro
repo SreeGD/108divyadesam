@@ -4,6 +4,7 @@ interface Props {
   description?: string;
   taTitle?: string;
 }
+import { url } from "../data";
 const { title, description, taTitle } = Astro.props;
 const desc =
   description ??
@@ -111,12 +112,12 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
   <body>
     <header class="site">
       <div class="wrap">
-        <a class="brand" href="/">108 <b>Divya Desam</b></a>
+        <a class="brand" href={url("/")}>108 <b>Divya Desam</b></a>
         <nav>
-          <a href="/#regions">Regions</a>
-          <a href="/#alwars">Alwars</a>
-          <a href="/prabandham">Hymns</a>
-          <a href="/about">About</a>
+          <a href={url("/#regions")}>Regions</a>
+          <a href={url("/#alwars")}>Alwars</a>
+          <a href={url("/prabandham")}>Hymns</a>
+          <a href={url("/about")}>About</a>
         </nav>
       </div>
     </header>

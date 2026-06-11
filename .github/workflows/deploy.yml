@@ -29,10 +29,12 @@ jobs:
           cache-dependency-path: site/pnpm-lock.yaml
       - name: Build site
         working-directory: site
-        # SITE_URL drives canonical + sitemap. For a project page the base is /<repo>/;
-        # set it to your Pages URL (or custom domain) via repo Variables → SITE_URL.
+        # Defaults to the project-page URL + base path (https://<owner>.github.io/<repo>/).
+        # For a custom domain or user/org page, set repo Variables (Settings → Secrets and
+        # variables → Actions → Variables): SITE_URL=https://yourdomain  and  BASE_PATH=/
         env:
-          SITE_URL: ${{ vars.SITE_URL }}
+          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+          BASE_PATH: ${{ vars.BASE_PATH || format('/{0}/', github.event.repository.name) }}
         run: |
           pnpm install --no-frozen-lockfile
           pnpm build
