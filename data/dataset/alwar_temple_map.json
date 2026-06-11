@@ -1,0 +1,1012 @@
+[
+  {
+    "alwarCode": 1,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 1,
+    "templeRefId": 42,
+    "weight": 42
+  },
+  {
+    "alwarCode": 1,
+    "templeRefId": 51,
+    "weight": 51
+  },
+  {
+    "alwarCode": 1,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 12,
+    "weight": 12
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 20,
+    "weight": 20
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 42,
+    "weight": 42
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 43,
+    "weight": 43
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 48,
+    "weight": 48
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 61,
+    "weight": 61
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 63,
+    "weight": 63
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 89,
+    "weight": 89
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 91,
+    "weight": 91
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 93,
+    "weight": 93
+  },
+  {
+    "alwarCode": 2,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 12,
+    "weight": 12
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 13,
+    "weight": 13
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 43,
+    "weight": 43
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 44,
+    "weight": 44
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 46,
+    "weight": 46
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 48,
+    "weight": 48
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 51,
+    "weight": 51
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 60,
+    "weight": 60
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 64,
+    "weight": 64
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 91,
+    "weight": 91
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 93,
+    "weight": 93
+  },
+  {
+    "alwarCode": 3,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 5,
+    "weight": 5
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 6,
+    "weight": 6
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 9,
+    "weight": 9
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 12,
+    "weight": 12
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 48,
+    "weight": 48
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 50,
+    "weight": 50
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 51,
+    "weight": 51
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 59,
+    "weight": 59
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 60,
+    "weight": 60
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 78,
+    "weight": 78
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 90,
+    "weight": 90
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 93,
+    "weight": 93
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 104,
+    "weight": 104
+  },
+  {
+    "alwarCode": 4,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 6,
+    "weight": 6
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 12,
+    "weight": 12
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 13,
+    "weight": 13
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 17,
+    "weight": 17
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 20,
+    "weight": 20
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 51,
+    "weight": 51
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 65,
+    "weight": 65
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 67,
+    "weight": 67
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 68,
+    "weight": 68
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 69,
+    "weight": 69
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 70,
+    "weight": 70
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 71,
+    "weight": 71
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 72,
+    "weight": 72
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 73,
+    "weight": 73
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 74,
+    "weight": 74
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 75,
+    "weight": 75
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 76,
+    "weight": 76
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 77,
+    "weight": 77
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 78,
+    "weight": 78
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 79,
+    "weight": 79
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 80,
+    "weight": 80
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 81,
+    "weight": 81
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 82,
+    "weight": 82
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 83,
+    "weight": 83
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 84,
+    "weight": 84
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 85,
+    "weight": 85
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 86,
+    "weight": 86
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 87,
+    "weight": 87
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 91,
+    "weight": 91
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 92,
+    "weight": 92
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 96,
+    "weight": 96
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 102,
+    "weight": 102
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 104,
+    "weight": 104
+  },
+  {
+    "alwarCode": 5,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 7,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 7,
+    "templeRefId": 17,
+    "weight": 17
+  },
+  {
+    "alwarCode": 7,
+    "templeRefId": 34,
+    "weight": 34
+  },
+  {
+    "alwarCode": 7,
+    "templeRefId": 40,
+    "weight": 40
+  },
+  {
+    "alwarCode": 7,
+    "templeRefId": 66,
+    "weight": 66
+  },
+  {
+    "alwarCode": 7,
+    "templeRefId": 96,
+    "weight": 96
+  },
+  {
+    "alwarCode": 7,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 4,
+    "weight": 4
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 6,
+    "weight": 6
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 12,
+    "weight": 12
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 17,
+    "weight": 17
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 78,
+    "weight": 78
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 88,
+    "weight": 88
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 91,
+    "weight": 91
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 93,
+    "weight": 93
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 96,
+    "weight": 96
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 99,
+    "weight": 99
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 102,
+    "weight": 102
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 103,
+    "weight": 103
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 104,
+    "weight": 104
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 12,
+    "weight": 12
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 17,
+    "weight": 17
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 88,
+    "weight": 88
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 91,
+    "weight": 91
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 102,
+    "weight": 102
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 103,
+    "weight": 103
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 104,
+    "weight": 104
+  },
+  {
+    "alwarCode": 9,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 10,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 10,
+    "templeRefId": 96,
+    "weight": 96
+  },
+  {
+    "alwarCode": 10,
+    "templeRefId": 102,
+    "weight": 102
+  },
+  {
+    "alwarCode": 11,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 11,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 1,
+    "weight": 1
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 2,
+    "weight": 2
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 3,
+    "weight": 3
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 4,
+    "weight": 4
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 6,
+    "weight": 6
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 7,
+    "weight": 7
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 8,
+    "weight": 8
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 10,
+    "weight": 10
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 12,
+    "weight": 12
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 13,
+    "weight": 13
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 14,
+    "weight": 14
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 15,
+    "weight": 15
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 16,
+    "weight": 16
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 17,
+    "weight": 17
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 18,
+    "weight": 18
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 19,
+    "weight": 19
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 20,
+    "weight": 20
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 21,
+    "weight": 21
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 22,
+    "weight": 22
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 23,
+    "weight": 23
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 24,
+    "weight": 24
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 25,
+    "weight": 25
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 26,
+    "weight": 26
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 27,
+    "weight": 27
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 28,
+    "weight": 28
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 29,
+    "weight": 29
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 30,
+    "weight": 30
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 31,
+    "weight": 31
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 32,
+    "weight": 32
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 33,
+    "weight": 33
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 34,
+    "weight": 34
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 35,
+    "weight": 35
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 36,
+    "weight": 36
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 37,
+    "weight": 37
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 38,
+    "weight": 38
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 39,
+    "weight": 39
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 40,
+    "weight": 40
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 41,
+    "weight": 41
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 42,
+    "weight": 42
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 43,
+    "weight": 43
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 44,
+    "weight": 44
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 45,
+    "weight": 45
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 47,
+    "weight": 47
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 48,
+    "weight": 48
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 49,
+    "weight": 49
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 50,
+    "weight": 50
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 51,
+    "weight": 51
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 52,
+    "weight": 52
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 53,
+    "weight": 53
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 54,
+    "weight": 54
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 55,
+    "weight": 55
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 56,
+    "weight": 56
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 57,
+    "weight": 57
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 58,
+    "weight": 58
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 59,
+    "weight": 59
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 60,
+    "weight": 60
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 61,
+    "weight": 61
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 62,
+    "weight": 62
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 63,
+    "weight": 63
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 64,
+    "weight": 64
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 65,
+    "weight": 65
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 69,
+    "weight": 69
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 78,
+    "weight": 78
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 89,
+    "weight": 89
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 90,
+    "weight": 90
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 91,
+    "weight": 91
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 93,
+    "weight": 93
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 94,
+    "weight": 94
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 95,
+    "weight": 95
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 96,
+    "weight": 96
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 97,
+    "weight": 97
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 98,
+    "weight": 98
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 100,
+    "weight": 100
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 101,
+    "weight": 101
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 102,
+    "weight": 102
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 103,
+    "weight": 103
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 104,
+    "weight": 104
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 105,
+    "weight": 105
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 106,
+    "weight": 106
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 100,
+    "weight": 100
+  },
+  {
+    "alwarCode": 8,
+    "templeRefId": 101,
+    "weight": 101
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 11,
+    "weight": 55
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 46,
+    "weight": 55
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 68,
+    "weight": 54
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 70,
+    "weight": 54
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 72,
+    "weight": 54
+  },
+  {
+    "alwarCode": 12,
+    "templeRefId": 92,
+    "weight": 90
+  }
+]

@@ -1,0 +1,108 @@
+// Loads the normalized bilingual dataset (built by the pipeline) for the site.
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+
+// astro dev/build run with cwd = site/, so the dataset is one level up.
+const DATASET = process.env.DATASET_DIR ?? join(process.cwd(), "../data/dataset");
+const load = <T>(name: string): T => JSON.parse(readFileSync(join(DATASET, name), "utf-8")) as T;
+
+export interface T {
+  ta: string;
+  en?: string;
+  translit?: string;
+  meaning?: string;
+  review: "pending" | "auto" | "verified";
+  flag?: string;
+}
+export interface ImageRef {
+  id: string;
+  category: string;
+  variant: string;
+  path: string;
+  local: string;
+}
+export interface Region {
+  code: number;
+  icon: string;
+  name: T;
+  templeCount: number;
+}
+export interface Temple {
+  refId: number;
+  regionCode: number;
+  cityCode: number;
+  name: T;
+  place: T;
+  lat: number;
+  lng: number;
+  weight: number;
+  images: { thumb: ImageRef; zoom: ImageRef };
+  menu: { code: string; caption: T }[];
+}
+export interface Alwar {
+  code: number;
+  icon: string;
+  name: T;
+  avataraSthalamTempleId?: number;
+  image?: ImageRef;
+  songs: { title: T; subTitle?: T; fName?: string; code?: number }[];
+}
+export interface AlwarTempleLink {
+  alwarCode: number;
+  templeRefId: number;
+  weight: number;
+}
+export interface SongBlock {
+  type: "head" | "subHead" | "verse" | "image";
+  title?: T;
+  subTitle?: T;
+  align?: string;
+  songNum?: string;
+  text?: T;
+  image?: ImageRef | { rawUrl: string };
+  caption?: T;
+}
+export interface Song {
+  id: string;
+  sourceFile: string;
+  title?: T;
+  subTitle?: T;
+  blocks: SongBlock[];
+}
+
+export const regions = load<Region[]>("regions.json").sort((a, b) => a.code - b.code);
+export const temples = load<Temple[]>("temples.json").sort((a, b) => b.weight - a.weight);
+export const alwars = load<Alwar[]>("alwars.json").sort((a, b) => a.code - b.code);
+export const alwarTempleMap = load<AlwarTempleLink[]>("alwar_temple_map.json");
+export const songs = load<Song[]>("songs.json");
+
+export const templeById = new Map(temples.map((t) => [t.refId, t]));
+export const regionByCode = new Map(regions.map((r) => [r.code, r]));
+export const alwarByCode = new Map(alwars.map((a) => [a.code, a]));
+export const songById = new Map(songs.map((s) => [s.id, s]));
+
+export const templesByRegion = (code: number) =>
+  temples.filter((t) => t.regionCode === code).sort((a, b) => b.weight - a.weight);
+
+/** Alwar codes that sang mangalasasanam for a temple. */
+export const alwarsForTemple = (refId: number): number[] =>
+  [...new Set(alwarTempleMap.filter((l) => l.templeRefId === refId).map((l) => l.alwarCode))].sort(
+    (a, b) => a - b,
+  );
+
+/** Temple refIds an Alwar sang. */
+export const templesForAlwar = (code: number): number[] =>
+  alwarTempleMap.filter((l) => l.alwarCode === code).map((l) => l.templeRefId);
+
+/** Primary display string: English if available, else transliteration, else Tamil. */
+export const en = (t?: T): string => (t ? t.en || t.translit || t.ta : "");
+
+/** A URL-safe English slug for SEO (falls back to id-based). */
+export const slug = (t: T | undefined, fallback: string): string => {
+  const base = t?.en || t?.translit || "";
+  const s = base
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+  return s || fallback;
+};

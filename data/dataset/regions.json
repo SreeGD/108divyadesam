@@ -1,0 +1,79 @@
+[
+  {
+    "code": 1,
+    "icon": "s_1",
+    "name": {
+      "ta": "சோழநாடு",
+      "review": "verified",
+      "en": "Chola Nadu",
+      "translit": "Chozha Nadu"
+    },
+    "templeCount": 40
+  },
+  {
+    "code": 2,
+    "icon": "s_2",
+    "name": {
+      "ta": "நடுநாடு",
+      "review": "verified",
+      "en": "Nadu Nadu (Central Region)",
+      "translit": "Nadu Nadu"
+    },
+    "templeCount": 2
+  },
+  {
+    "code": 3,
+    "icon": "s_3",
+    "name": {
+      "ta": "தொண்டைநாடு",
+      "review": "verified",
+      "en": "Thondai Nadu",
+      "translit": "Thondai Nadu"
+    },
+    "templeCount": 22
+  },
+  {
+    "code": 4,
+    "icon": "s_4",
+    "name": {
+      "ta": "மலைநாடு",
+      "review": "verified",
+      "en": "Malai Nadu (Kerala Region)",
+      "translit": "Malai Nadu"
+    },
+    "templeCount": 13
+  },
+  {
+    "code": 5,
+    "icon": "s_5",
+    "name": {
+      "ta": "பாண்டியநாடு",
+      "review": "verified",
+      "en": "Pandya Nadu",
+      "translit": "Pandiya Nadu"
+    },
+    "templeCount": 18
+  },
+  {
+    "code": 6,
+    "icon": "s_6",
+    "name": {
+      "ta": "வடநாடு",
+      "review": "verified",
+      "en": "Vada Nadu (Northern Region)",
+      "translit": "Vada Nadu"
+    },
+    "templeCount": 11
+  },
+  {
+    "code": 7,
+    "icon": "s_7",
+    "name": {
+      "ta": "திருநாடு",
+      "review": "verified",
+      "en": "Thiru Nadu (The Celestial Realm)",
+      "translit": "Thiru Nadu"
+    },
+    "templeCount": 2
+  }
+]

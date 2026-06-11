@@ -1,0 +1,18 @@
+# Netlify deploy config for the 108 Divya Desam bilingual site.
+# The Astro site lives in site/ and reads the committed dataset at ../data/dataset.
+
+[build]
+  base = "site"
+  command = "pnpm install --frozen-lockfile=false && pnpm build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # Override per-site in Netlify UI/CLI to your real URL (used for canonical + sitemap):
+  SITE_URL = "https://108divyadesam.netlify.app"
+
+# Long-cache the immutable webp temple/Alwar images.
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

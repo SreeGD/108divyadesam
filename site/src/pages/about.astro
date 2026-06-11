@@ -1,0 +1,41 @@
+---
+import Base from "../layouts/Base.astro";
+import { temples, alwars, regions, songs } from "../data";
+const verses = songs.reduce((n, s) => n + s.blocks.filter((b) => b.type === "verse").length, 0);
+---
+
+<Base title="About this project" description="About the bilingual 108 Divya Desam guide and how it was made.">
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › About</p>
+    <h1>About this guide</h1>
+    <div style="max-width:46rem;">
+      <p>
+        The <strong>108 Divya Desam</strong> are the sacred abodes of Sriman Narayana (Vishnu)
+        celebrated in the <em>Naalayira Divya Prabandham</em> — the 4,000 Tamil verses composed by
+        the twelve Alwar saints between roughly the 6th and 9th centuries CE. For centuries this
+        treasure has lived primarily in Tamil. This guide aims to open it to readers everywhere.
+      </p>
+      <p>
+        Every name, place, and verse is shown in the original Tamil alongside an English
+        rendering — a Roman transliteration so the sounds can be read and chanted, and an English
+        meaning so the sense can be understood.
+      </p>
+
+      <h2>What's here</h2>
+      <ul>
+        <li><strong>{temples.length}</strong> Divya Desam temples across <strong>{regions.length}</strong> regions</li>
+        <li>The <strong>{alwars.length}</strong> Alwar saints, their birthplaces, and the temples they sang</li>
+        <li><strong>{verses.toLocaleString()}</strong> verses from the Divya Prabandham and Mangalasasanam</li>
+      </ul>
+
+      <h2>A note on the translations</h2>
+      <p class="muted">
+        Temple, place, and Alwar names and the menu structure are verified. The English
+        transliterations and verse meanings are machine-assisted first drafts produced with
+        scholarly care but still under review — items not yet rendered into English are marked
+        <span class="draft">(draft)</span>. The Tamil source is always preserved as the authority.
+        Corrections from devotees and scholars are warmly welcomed.
+      </p>
+    </div>
+  </div>
+</Base>

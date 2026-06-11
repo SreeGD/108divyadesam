@@ -1,0 +1,317 @@
+[
+  {
+    "code": 1,
+    "name": {
+      "ta": "திருப்பல்லாண்டு",
+      "review": "verified",
+      "en": "Thiruppallandu",
+      "translit": "Thiruppallaandu"
+    },
+    "fName": "dp_1",
+    "isList": false,
+    "icon": "a_8",
+    "sIndex": "1 - 12"
+  },
+  {
+    "code": 2,
+    "name": {
+      "ta": "பெரியாழ்வார் திருமொழி",
+      "review": "verified",
+      "en": "Periyalwar Thirumozhi",
+      "translit": "Periyazhwar Thirumozhi"
+    },
+    "fName": "",
+    "isList": true,
+    "icon": "a_8",
+    "sIndex": "13 - 473"
+  },
+  {
+    "code": 3,
+    "name": {
+      "ta": "திருப்பாவை",
+      "review": "verified",
+      "en": "Thiruppavai",
+      "translit": "Thiruppaavai"
+    },
+    "fName": "dp_3",
+    "isList": false,
+    "icon": "a_9",
+    "sIndex": "474 - 503"
+  },
+  {
+    "code": 4,
+    "name": {
+      "ta": "நாச்சியார் திருமொழி",
+      "review": "verified",
+      "en": "Nachiyar Thirumozhi",
+      "translit": "Naachiyaar Thirumozhi"
+    },
+    "fName": "dp_4",
+    "isList": false,
+    "icon": "a_9",
+    "sIndex": "504 - 646"
+  },
+  {
+    "code": 5,
+    "name": {
+      "ta": "பெருமாள் திருமொழி",
+      "review": "verified",
+      "en": "Perumal Thirumozhi",
+      "translit": "Perumaal Thirumozhi"
+    },
+    "fName": "dp_5",
+    "isList": false,
+    "icon": "a_7",
+    "sIndex": "647 - 751"
+  },
+  {
+    "code": 6,
+    "name": {
+      "ta": "திருச்சந்த விருத்தம்",
+      "review": "verified",
+      "en": "Thiruchchanda Viruttham",
+      "translit": "Thiruchchanda Viruttham"
+    },
+    "fName": "dp_6",
+    "isList": false,
+    "icon": "a_4",
+    "sIndex": "752 - 871"
+  },
+  {
+    "code": 7,
+    "name": {
+      "ta": "திருமாலை",
+      "review": "verified",
+      "en": "Thirumalai",
+      "translit": "Thirumaalai"
+    },
+    "fName": "dp_7",
+    "isList": false,
+    "icon": "a_10",
+    "sIndex": "872 - 916"
+  },
+  {
+    "code": 8,
+    "name": {
+      "ta": "திருப்பள்ளியெழுச்சி",
+      "review": "verified",
+      "en": "Thiruppalliyezhuchchi",
+      "translit": "Thiruppalliyezhuchchi"
+    },
+    "fName": "dp_8",
+    "isList": false,
+    "icon": "a_10",
+    "sIndex": "917 - 926"
+  },
+  {
+    "code": 9,
+    "name": {
+      "ta": "அமலனாதிபிரான்",
+      "review": "verified",
+      "en": "Amalanadhipiran",
+      "translit": "Amalanaadhipiraan"
+    },
+    "fName": "dp_9",
+    "isList": false,
+    "icon": "a_11",
+    "sIndex": "927 - 936"
+  },
+  {
+    "code": 10,
+    "name": {
+      "ta": "கண்ணிநுண் சிறுதாம்பு",
+      "review": "pending"
+    },
+    "fName": "dp_10",
+    "isList": false,
+    "icon": "a_6",
+    "sIndex": "937 - 947"
+  },
+  {
+    "code": 11,
+    "name": {
+      "ta": "பெரிய திருமொழி",
+      "review": "verified",
+      "en": "Periya Thirumozhi",
+      "translit": "Periya Thirumozhi"
+    },
+    "fName": "",
+    "isList": true,
+    "icon": "a_12",
+    "sIndex": "948 - 2031"
+  },
+  {
+    "code": 12,
+    "name": {
+      "ta": "திருக்குறுந்தாண்டகம்",
+      "review": "verified",
+      "en": "Thirukkurunthandakam",
+      "translit": "Thirukkurunthaandakam"
+    },
+    "fName": "dp_12",
+    "isList": false,
+    "icon": "a_12",
+    "sIndex": "2032 - 2051"
+  },
+  {
+    "code": 13,
+    "name": {
+      "ta": "திருநெடுந்தாண்டகம்",
+      "review": "verified",
+      "en": "Thirunedunthandakam",
+      "translit": "Thirunedunthaandakam"
+    },
+    "fName": "dp_13",
+    "isList": false,
+    "icon": "a_12",
+    "sIndex": "2052 - 2081"
+  },
+  {
+    "code": 14,
+    "name": {
+      "ta": "முதல் திருவந்தாதி",
+      "review": "verified",
+      "en": "Mudhal Thiruvandhadhi",
+      "translit": "Mudhal Thiruvandhaadhi"
+    },
+    "fName": "dp_14",
+    "isList": false,
+    "icon": "a_1",
+    "sIndex": "2082 - 2181"
+  },
+  {
+    "code": 15,
+    "name": {
+      "ta": "இரண்டாம் திருவந்தாதி",
+      "review": "verified",
+      "en": "Irandam Thiruvandhadhi",
+      "translit": "Irandaam Thiruvandhaadhi"
+    },
+    "fName": "dp_15",
+    "isList": false,
+    "icon": "a_2",
+    "sIndex": "2182 - 2281"
+  },
+  {
+    "code": 16,
+    "name": {
+      "ta": "மூன்றாம் திருவந்தாதி",
+      "review": "verified",
+      "en": "Moondram Thiruvandhadhi",
+      "translit": "Moondraam Thiruvandhaadhi"
+    },
+    "fName": "dp_16",
+    "isList": false,
+    "icon": "a_3",
+    "sIndex": "2282 - 2381"
+  },
+  {
+    "code": 17,
+    "name": {
+      "ta": "நான்முகன் திருவந்தாதி",
+      "review": "verified",
+      "en": "Naanmugan Thiruvandhadhi",
+      "translit": "Naanmugan Thiruvandhaadhi"
+    },
+    "fName": "dp_17",
+    "isList": false,
+    "icon": "a_4",
+    "sIndex": "2382 - 2477"
+  },
+  {
+    "code": 18,
+    "name": {
+      "ta": "திருவிருத்தம்",
+      "review": "verified",
+      "en": "Thiruviruttham",
+      "translit": "Thiruviruttham"
+    },
+    "fName": "dp_18",
+    "isList": false,
+    "icon": "a_5",
+    "sIndex": "2478 - 2577"
+  },
+  {
+    "code": 19,
+    "name": {
+      "ta": "திருவாசிரியம்",
+      "review": "verified",
+      "en": "Thiruvasiriyam",
+      "translit": "Thiruvaasiriyam"
+    },
+    "fName": "dp_19",
+    "isList": false,
+    "icon": "a_5",
+    "sIndex": "2578 - 2584"
+  },
+  {
+    "code": 20,
+    "name": {
+      "ta": "பெரிய திருவந்தாதி",
+      "review": "verified",
+      "en": "Periya Thiruvandhadhi",
+      "translit": "Periya Thiruvandhaadhi"
+    },
+    "fName": "dp_20",
+    "isList": false,
+    "icon": "a_5",
+    "sIndex": "2585 - 2671"
+  },
+  {
+    "code": 21,
+    "name": {
+      "ta": "திருவெழு கூற்றிருக்கை",
+      "review": "pending"
+    },
+    "fName": "dp_21",
+    "isList": false,
+    "icon": "a_12",
+    "sIndex": "2672 - 2672"
+  },
+  {
+    "code": 22,
+    "name": {
+      "ta": "சிறிய திருமடல்",
+      "review": "pending"
+    },
+    "fName": "dp_22",
+    "isList": false,
+    "icon": "a_12",
+    "sIndex": "2673 - 2710"
+  },
+  {
+    "code": 23,
+    "name": {
+      "ta": "பெரிய திருமடல்",
+      "review": "pending"
+    },
+    "fName": "dp_23",
+    "isList": false,
+    "icon": "a_12",
+    "sIndex": "2711 - 2790"
+  },
+  {
+    "code": 24,
+    "name": {
+      "ta": "இராமாநுச நூற்றந்தாதி",
+      "review": "pending"
+    },
+    "fName": "dp_24",
+    "isList": false,
+    "icon": "a_13",
+    "sIndex": "2791 - 2898"
+  },
+  {
+    "code": 25,
+    "name": {
+      "ta": "திருவாய்மொழி",
+      "review": "verified",
+      "en": "Thiruvaymozhi",
+      "translit": "Thiruvaaymozhi"
+    },
+    "fName": "",
+    "isList": true,
+    "icon": "a_5",
+    "sIndex": "2899 - 4000"
+  }
+]

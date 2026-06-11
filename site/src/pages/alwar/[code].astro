@@ -1,0 +1,81 @@
+---
+import Base from "../../layouts/Base.astro";
+import Name from "../../components/Name.astro";
+import {
+  alwars,
+  templesForAlwar,
+  templeById,
+  songById,
+  en,
+} from "../../data";
+
+export function getStaticPaths() {
+  return alwars.map((a) => ({ params: { code: String(a.code) }, props: { alwar: a } }));
+}
+const { alwar } = Astro.props;
+const sungTemples = [...new Set(templesForAlwar(alwar.code))]
+  .map((id) => templeById.get(id))
+  .filter(Boolean);
+const avatara = alwar.avataraSthalamTempleId ? templeById.get(alwar.avataraSthalamTempleId) : undefined;
+---
+
+<Base title={en(alwar.name)} description={`${en(alwar.name)} — one of the twelve Alwar saints, composer of Divya Prabandham hymns to Vishnu.`}>
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › <a href="/#alwars">Alwars</a> › {en(alwar.name)}</p>
+
+    <div class="twocol">
+      <div>
+        {alwar.image && (
+          <img src={alwar.image.local} alt={en(alwar.name)}
+            style="width:100%; border-radius:12px; border:1px solid var(--line);" />
+        )}
+        {avatara && (
+          <div class="panel" style="margin-top:1rem;">
+            <div class="muted" style="font-size:.8rem; text-transform:uppercase; letter-spacing:.05em;">Birthplace</div>
+            <div><a href={`/temple/${avatara.refId}`}>{en(avatara.place)}</a></div>
+            <div class="ta muted">{avatara.place.ta}</div>
+          </div>
+        )}
+      </div>
+
+      <div>
+        <h1 style="margin-bottom:.2rem;">{en(alwar.name)}</h1>
+        <p class="ta muted" style="font-size:1.15rem; margin-top:0;">{alwar.name.ta}</p>
+
+        {alwar.songs.length > 0 && (
+          <section class="section">
+            <h2>Hymns Composed</h2>
+            <ul class="clean">
+              {alwar.songs.map((s) => {
+                const song = s.fName ? songById.get(s.fName) : undefined;
+                return (
+                  <li>
+                    {song ? <a href={`/song/${song.id}`}><Name value={s.title} showTa={false} /></a>
+                          : <Name value={s.title} showTa={false} />}
+                    <span class="muted ta"> · {s.title.ta}</span>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        )}
+
+        <section class="section">
+          <h2>Temples Sung <span class="muted" style="font-size:1rem;">({sungTemples.length})</span></h2>
+          {sungTemples.length ? (
+            <div class="grid cards">
+              {sungTemples.map((t) => (
+                <a class="card" href={`/temple/${t!.refId}`}>
+                  <img src={t!.images.thumb.local} alt={en(t!.place)} loading="lazy" />
+                  <div class="body"><div class="en" style="font-size:.95rem;">{en(t!.place)}</div></div>
+                </a>
+              ))}
+            </div>
+          ) : (
+            <p class="muted">This Alwar's verses are devoted to the Lord and his guru rather than to specific temples.</p>
+          )}
+        </section>
+      </div>
+    </div>
+  </div>
+</Base>

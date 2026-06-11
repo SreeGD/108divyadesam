@@ -1,0 +1,47 @@
+---
+import Base from "../layouts/Base.astro";
+import { songs, en } from "../data";
+
+// dp_* = Divya Prabandham (the canonical hymn book); mang_* = per-temple Mangalasasanam.
+const dp = songs.filter((s) => s.id.startsWith("dp_"));
+const mang = songs.filter((s) => s.id.startsWith("mang_"));
+const titleOf = (s: (typeof songs)[number]) => (s.title ? en(s.title) : s.id);
+const order = (arr: typeof songs) =>
+  [...arr].sort((a, b) => {
+    const na = Number(a.id.split("_")[1]);
+    const nb = Number(b.id.split("_")[1]);
+    return na - nb;
+  });
+---
+
+<Base title="Naalayira Divya Prabandham — Hymns" description="The 4,000 sacred Tamil verses of the Alwars: browse the Divya Prabandham hymns with Tamil text, transliteration, and English meaning.">
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › Hymns</p>
+    <h1>Naalayira Divya Prabandham</h1>
+    <p style="max-width:46rem;">
+      The collected 4,000 Tamil verses of the twelve Alwars. Each hymn is presented with the
+      original Tamil, a Roman transliteration, and an English meaning.
+    </p>
+
+    <section class="section">
+      <h2>Divya Prabandham <span class="muted" style="font-size:1rem;">({dp.length} sections)</span></h2>
+      <ul class="clean">
+        {order(dp).map((s) => (
+          <li><a href={`/song/${s.id}`}>{titleOf(s)}</a>
+            {s.title?.en && <span class="muted ta"> · {s.title.ta}</span>}</li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Mangalasasanam <span class="muted" style="font-size:1rem;">({mang.length} sets)</span></h2>
+      <p class="muted">Hymns of praise arranged by the temple they glorify.</p>
+      <ul class="clean">
+        {order(mang).map((s) => (
+          <li><a href={`/song/${s.id}`}>{titleOf(s)}</a>
+            {s.title?.en && <span class="muted ta"> · {s.title.ta}</span>}</li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</Base>

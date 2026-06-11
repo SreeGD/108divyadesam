@@ -1,0 +1,701 @@
+{
+  "_note": "Hand-curated verse translations (translit + English meaning), keyed by song id. Each array aligns to the verse blocks of that song in order. Applied by translate.ts (review:verified). Grows incrementally, hymn by hymn.",
+
+  "dp_1": [
+    {
+      "translit": "Minnaar thadamadhil soozh Villiputhoor endrorukaal\nsonnaar kazharkamalam soodinom - munnaaL\nkizhiyaruthaan endruraithom keezhmaiyinil serumva\nzhiyaruthom nenjame vandhu",
+      "meaning": "Having once uttered the name of Villiputhur, girt by vast glittering ramparts, we have crowned ourselves with the lotus-feet of Periyalwar. We have declared him the one who long ago cut open the prize-purse in the Pandya court. O heart, by saying this we have severed the path that leads to baseness."
+    },
+    {
+      "translit": "Paandiyan kondaada Battarpiraan vandhaarendru\neendiya sangam eduthootha\nvendiya vedangaL odhi viraindhu kizhi aruthaan\npaadhangaL yaamudaiya patru",
+      "meaning": "As the Pandya king rejoiced and the gathered assembly blew their conches proclaiming that Battarpiran (Periyalwar) had come, he chanted the necessary Vedas and swiftly cut open the prize-purse, winning the debate. His feet alone are our refuge."
+    },
+    {
+      "translit": "Pallaandu pallaandu pallaayi raththaandu palakodi nooraayiram\nmallaanda thiNthoL maNivaNNaa! un sevvadi sevvi thirukkaappu",
+      "meaning": "Many years, many years, many thousands of years, many millions and hundreds of thousands of years! O sapphire-hued Lord, whose strong shoulders vanquished the wrestlers — may auspicious protection rest upon your beautiful red feet."
+    },
+    {
+      "translit": "Adiyo modumnin nodum pirivindri aayiram pallaandu\nvadivaai ninvala maarbinil vaazhginra mangaiyum pallaandu\nvadivaar sodhi valaththurai yumsuda raazhiyum pallaandu\npadaipor pukku muzhangumap paanchasanniyamum pallaande",
+      "meaning": "May we, your servants, live inseparably with you for a thousand years. May Lakshmi who dwells on your beautiful right chest live long; may the radiant discus on your right hand live long; and may the conch Panchajanya, which roars as it enters battle, live long."
+    },
+    {
+      "translit": "Vaazhaat pattunin reerullee rel vandhu maNNum maNamumkoNmin\nkoozhaat pattunin reergaLai engaL kuzhuvinil pugudhalottom\nezhaat kaalum pazhippilom naangaL iraakkadhar vaazh ilangai\npaazhaa laagap padaiporu thaanukkup pallaandu kooruthame",
+      "meaning": "If you live truly devoted to him, come and receive the land and its fragrance — his service. But we will not admit into our fellowship those who serve merely for the sake of food. Blameless for seven generations, let us sing 'Pallandu' to the Lord who waged war and laid waste Lanka, the demons' abode."
+    },
+    {
+      "translit": "Edu nilaththil iduvadhan munnamvandhu engaL kuzhaampugundhu\nkoodu manamudai yeergaL varambozhi vandhuollaik koodumino\nnaadum nagaramum nankari yanamo naaraya naayavendru\npaadu manamudaip paththarul leervandhu pallaandu koorumine",
+      "meaning": "Before the leaf of fate is cast upon the earth, come and enter our assembly. You who wish to join, throw off every limit and unite with us swiftly. So that the whole land and city may know, you devotees whose hearts long to sing 'Namo Narayanaya' — come and chant 'Pallandu'."
+    },
+    {
+      "translit": "ANdak kulaththuk kadhipathi yaagi asura riraakkadharai\niNdaik kulaththai eduthuk kaLaindha irudeeke santhanakku\nthoNdak kulaththilul leervan thaditozhudhu aayira naamamsolli\npaNdaik kulaththaith thavirndhupal laandupal laayirath thaaNdenmine",
+      "meaning": "To Hrishikesha, lord of all the worlds, who uprooted and cast away the clustered hordes of asuras and demons — you who belong to the lineage of servitude, come, worship his feet, recite his thousand names, cast off your old lowly lineage, and proclaim, 'Many years, many thousands of years!'"
+    },
+    {
+      "translit": "Endhai thandhai thandhaitham mooththappan ezhpadi kaalthodangi\nvandhu vazhivazhi aatcheyhin romthiru voNath thiruvizhavil\nandhiyam podhi lariyuru vaagi ariyai yazhiththavanai\npandhanai theerappal laandupal laayirath thaandendru paaduthame",
+      "meaning": "From our father, grandfather, great-grandfather, and back through seven generations, we have served him in unbroken succession. On the sacred Sravana (Thiruvonam) festival, that our bondage may end, let us sing 'Many years, many thousands of years!' to him who, at dusk, took the form of the man-lion and destroyed the foe Hiranya."
+    },
+    {
+      "translit": "Theeyir poliginra senjuda raazhi thigazhthiruch chakkaraththin\nkoyir poriyaale otruNdu nindru kudikudi aatcheyhinrom\nmaayap porupadai vaaNanai aayiran thoLum pozhiguruthi\npaayach chuzhatriya aazhival laanukkup pallaandu kooruthume",
+      "meaning": "Sealed with the mark of the sacred discus that gleams like blazing fire, we stand and serve him household by household. Let us sing 'Pallandu' to the mighty wielder of the discus, who whirled it so that the thousand arms of Banasura poured forth blood."
+    },
+    {
+      "translit": "Neyyidai nallathor sorum niyadhamum aththaaNich chevagamum\nkaiyadaik kaayum kazhuththukkup pooNodu kaadhukkuk kuNdalamum\nmeyyida nallathor saandhamum thanduennai veLLuyi raakkavalla\npaiyudai naagap pagaikkodi yaanukkup pallaandu kooruvane",
+      "meaning": "To him who bears the Garuda banner — the foe of the hooded serpents — who gave me fine ghee-rice, constant intimate service, betel for the hand, ornaments for the neck, earrings for the ears, and fragrant sandal-paste for the body, and who made my soul pure: to him I will sing 'Pallandu'."
+    },
+    {
+      "translit": "Uduththuk kalaindhanin peethaga vaadai yuduthuk kalaththadhuNdu\nthoduththa thuzhaaymalar soodik kalaindhana soodumith thoNdargaLom\nviduththa thisaikkaru mamthiruth thiththiru voNath thiruvizhavil\npaduththapain naagaNaip paLLikoN daanukkup pallaandu kooruthume",
+      "meaning": "We servants wear the golden silk you have worn and laid aside, eat the food left in your vessel, and adorn ourselves with the tulasi garlands you have worn and removed. Carrying out the duties you assign in every direction, on the sacred Sravana festival let us sing 'Pallandu' to him who reclines upon the fresh-hooded serpent Adisesha."
+    },
+    {
+      "translit": "EnnaaL emperu maanun thanakkadi yomendru ezhuththuppatta\nannaaLe adiyongaL adikkudil veedupetru uyndhadhu kaaN\nsennaaL thotrith thirumadhu raiyuL silai kuniththu aindhalaiya\npainnaa gaththalai paayndhava ne unnaip pallaandu kooruthume",
+      "meaning": "O our Lord, the very day we were enrolled as your servants, on that very day our humble households were liberated and saved — behold! O you who appeared on an auspicious day, bent the bow in sacred Mathura, and leapt upon the five-hooded serpent Kaliya — to you we sing 'Pallandu'."
+    },
+    {
+      "translit": "Alvazhak kondrumil laaaNi kottiyar konabhi maanathungan\nselvanaip polath thirumaa lenaanum unakkup pazhavadiyen\nnalvagai yaalnamo naaraa yaNaavendru naamam palaparavi\npalvagaiyaalum pavithira neunnaip pallaandu kooruvane",
+      "meaning": "Like the noble lord of Kottiyur — free of all unrighteousness, proud only in his devotion — O Thirumal, I too am your age-old servant. Rightly reciting your many names and saying 'Namo Narayanaya', in every way, O purifier, I will sing 'Pallandu' to you."
+    },
+    {
+      "translit": "PallaaN dendru pavithira naipparamettiyai saarngamennum\nvillaaN daanthannai villiputhoorvittu siththan virumbiyasol\nnallaaN dendru navindruraip paarnamo naaraa yaNaayavendru\npallaaN dumparamaathmanaich choozhndhirun dheththuvar pallaande",
+      "meaning": "These are the loving words of Vishnuchittan (Periyalwar) of Villiputhur, singing 'Pallandu' to the pure One, the Supreme, the wielder of the Sarnga bow. Those who recite them well as an auspicious hymn, saying 'Namo Narayanaya', shall forever surround the Supreme Self and worship him for endless years."
+    }
+  ],
+
+  "dp_2": [
+    {
+      "translit": "VaNNa maadangaL soozh thirukkottiyoor\nkaNNan kesavan nambi piranthinil\neNNey suNNam ethirethir thoovida\nkaNNan mutram kalandhu aLaraayitre",
+      "meaning": "When Lord Kannan (Krishna), Kesava, was born in Thirukkottiyur ringed by colourful mansions, the people threw oil and fragrant powder upon one another in joy, until Kannan's courtyard, all churned and trampled, turned to slush."
+    },
+    {
+      "translit": "Oduvaar vizhuvaar ugandhu aalippaar\nnaaduvaar nambiraan engutraan enbaar\npaaduvaargaLum palparai kotta nindru\naaduvaargaLum aayitru aaypaadiye",
+      "meaning": "Some run, some fall, some shout for joy; some search about, asking 'Where is our Lord?'. With many drums beating, some stand and sing while others dance — such has Gokulam, the cowherds' village, become."
+    },
+    {
+      "translit": "Penich cheerudaip piLLai piranthinil\nkaaNath thaam puguvaar pukkup podhuvaar\naaNoppaar ivan nerillai kaaN thiru\nvoNaththaan ulagaaLum enbaargaLe",
+      "meaning": "At the birth of this cherished, glorious child, people throng in to see him and then stream out again. 'There is no man to equal him; behold, none is his match,' they say — 'this child born under the Sravana star shall rule the world.'"
+    },
+    {
+      "translit": "Uriyai mutraththu uruttinindru aaduvaar\nnaRuney paal thayir nandraagath thoovuvaar\nseRimen koondhal avizhath thiLaiththu engum\naRivazhindhanar aaypaadi aayare",
+      "meaning": "They roll the hanging pot-slings across the courtyard and dance; they sprinkle fragrant ghee, milk and curd in abundance; their thick soft tresses loosen as they revel — everywhere the cowherds of Gokulam lose themselves, carried beyond their senses with joy."
+    },
+    {
+      "translit": "KoNda thaaL uri kolak kodumazhu\nthaNdinar paRi olaich chayanaththar\nviNda mullai arumbanna pallinar\naNdar miNdip pugundhu ney aadinaar",
+      "meaning": "Bearing curved staffs and looped slings, carrying axes and clubs, with their rough palm-leaf mats and teeth like budding jasmine, the cowherds came crowding in and bathed one another in ghee."
+    },
+    {
+      "translit": "Kaiyum kaalum nimirthuk kadaaraneer\npaiya aattip pasunjiRu manjaLaal\naiya naa vazhithaaLukku angaandhida\nvaiyam ezhum kaNdaaL piLLai vaayuLe",
+      "meaning": "Straightening his little hands and feet and bathing him gently in warm water from the cauldron, Yashoda cleansed his tongue with fresh tender turmeric; and when the babe opened his mouth wide, she beheld all seven worlds within it."
+    },
+    {
+      "translit": "Vaayul vaiyagam kaNda mada nallaar\naayar puthiran allan arun theyvam\npaaya seerudaip paNbudaip baalakan\nmaayan endru magizhndhanar maathare",
+      "meaning": "The gentle women who saw the worlds within his mouth rejoiced, saying: 'He is no mere cowherd's son, but the rare Supreme God — this child of boundless glory and grace is the wondrous Mayan (Vishnu) himself.'"
+    },
+    {
+      "translit": "Paththu naaLum kadandha irandaa naaL\neththisaiyum sayamaram kodiththu\nmaththa maa malai thaangiya maindhanai\nuththaanam seydhu ugandhanar aayare",
+      "meaning": "On the twelfth day, the ten days having passed, the cowherds raised festive victory-poles and banners in every direction, and joyfully performed the cradle rite for the mighty child who would one day lift the great Govardhana mountain."
+    },
+    {
+      "translit": "Kidakkil thottil kizhiya uthaiththidum\neduthuk koLLil marungai iRuththidum\nodukkip pulgil udharaththe paaindhidum\nmidukku ilaamaiyaal naan melindhen nangaai",
+      "meaning": "When laid down he kicks hard enough to tear the cradle; when picked up he wrenches at one's waist; when held close he lunges at the belly — O dear lady, for want of strength to manage him, I have quite worn myself out!"
+    },
+    {
+      "translit": "Sennel aar vayal soozh thirukkottiyoor\nmannu naaraNan nambi piranthamai\nminnu nool vittusiththan viritha ip\npannu paadal vallaarkku illai paavame",
+      "meaning": "Thus has Vishnuchittan (Periyalwar), wearer of the shining sacred thread, sung in full of the birth of the eternal Lord Narayana at Thirukkottiyur, girt by fields of ripe red paddy. For those who can master these well-wrought verses, there shall be no sin."
+    },
+    {
+      "translit": "Seethak kadaluL amudhanna devaki\nkodhaik kuzhalaaL asodhaikkup poththandha\npedhaik kuzhavi pidiththuch chuvaiththuNNum\npaadhak kamalangaL kaaNeere pavaLavaayeer vandhu kaaNeere",
+      "meaning": "The innocent babe whom Devaki — nectar-like, risen from the cool ocean — handed over to the garland-tressed Yashoda: behold the lotus feet that this child grasps and sucks with relish! O coral-lipped women, come and behold!"
+    },
+    {
+      "translit": "Muththum maNiyum vayiramum nanponnum\nthaththip padhiththuth thalaippeydhaaR pol engum\npaththu viralum maNivaNNan paadhangaL\noththittu irundhavaa kaaNeere oNNudhaleer vandhu kaaNeere",
+      "meaning": "Like pearls, gems, diamonds and fine gold scattered and inlaid together everywhere — behold how the ten toes and the feet of the sapphire-hued one are matched in beauty! O bright-browed women, come and behold!"
+    },
+    {
+      "translit": "PaNaiththoL iLavaaychchi paal paaindha kongai\naNaiththaara uNdu kidandha ip piLLai\niNaikkaalil veLLith thaLai nindru ilangum\nkaNaikkaal irundhavaa kaaNeere kaarigaiyeer vandhu kaaNeere",
+      "meaning": "This child, who lay nestling and drinking deep at the milk-flowing breast of the strong-shouldered young cowherd-mother — behold how his rounded calves are, with silver anklets shining on his paired feet! O lovely women, come and behold!"
+    },
+    {
+      "translit": "Uzhandhaal naRuney orodhadaa vuNNa\nizhandhaaL erivinaal eerththu ezhil maththin\npazhandhaambaal ochchap payaththaal thavazhndhaan\nmuzhandhaaL irundhavaa kaaNeere mugizhmulaiyeer vandhu kaaNeere",
+      "meaning": "When Yashoda, who had toiled at the churn, lost her temper because he ate up a whole pot of fragrant ghee, and brandished at him the old rope of the lovely churn — behold the knees on which he crawled away in fear! O budding-breasted women, come and behold!"
+    },
+    {
+      "translit": "PiRangiya peychchi mulaisuvaith thuNdittu\nuRanguvaan pole kidandha ip piLLai\nmaRangoL iraNiyan maarbaimun keeNdaan\nkuRangu kaLaivandhu kaaNeere kuvimulaiyeer vandhu kaaNeere",
+      "meaning": "This child, who sucked dry the breast of the splendid demoness (Putana) and then lay as if asleep — he who long ago tore open the chest of the wrathful Hiranya — behold his little thighs! O firm-breasted women, come and behold!"
+    },
+    {
+      "translit": "Maththak kaLitru vasudevar thammudai\nsiththam piriyaadha devaki than vayitril\naththaththin paththaa naaL thondriya achchudhan\nmuththam irundhavaa kaaNeere mugizhnagaiyeer vandhu kaaNeere",
+      "meaning": "Achyuta, who appeared on the tenth day of the asterism Hasta in the womb of Devaki — she who never parted from the heart of Vasudeva, lord of rutting elephants — behold his little pearl-teeth! O bud-smiling women, come and behold!"
+    },
+    {
+      "translit": "Irungai madhakaLiru eerkkindra avanai\nparungip paRiththukkoNdu odu paraman than\nnerungu pavaLamum nernaaNum muththum\nmarungum irundhavaa kaaNeere vaaNudhaleer vandhu kaaNeere",
+      "meaning": "The Supreme One who snatched away and ran off with the calf from the great rutting tusker that was dragging it — behold his waist, set with close-strung coral, the trim waist-cord, and pearls! O bright-browed women, come and behold!"
+    },
+    {
+      "translit": "Vandha madhalaik kuzhaaththai valiseydhu\nthandhak kaLirupol thaane viLaiyaadum\nnandhan madhalaikku nandru mazhagiya\nundhi irundhavaa kaaNeere oLiyizhaiyeer vandhu kaaNeere",
+      "meaning": "Nanda's little son, who bullies the band of children that come, and then plays on by himself like a tusked elephant — behold how very lovely his navel is! O bright-jewelled women, come and behold!"
+    },
+    {
+      "translit": "Adhirum kadalniRa vaNNanai aaychchi\nmadhura mulaiyootti vanjiththu vaiththu\npadhaRap padaame pazhandhaambaal aarththa\nudharam irundhavaa kaaNeere oLivaLaiyeer vandhu kaaNeere",
+      "meaning": "The cowherd-mother, having coaxed the roaring-ocean-hued one by suckling him with sweet milk, then bound him with the old churning-rope so he might not struggle free: behold his belly so bound! O bright-bangled women, come and behold!"
+    },
+    {
+      "translit": "Perumaa uralil piNippuNdu irundhuangu\nirumaa marudham iRuththa ip piLLai\ngurumaa maNippooN kulaavith thigazhum\nthirumaarbu irundhavaa kaaNeere seyizhaiyeer vandhu kaaNeere",
+      "meaning": "This child, who though bound to the great mortar broke down the two huge marudam trees — behold his sacred chest, resplendent and graced with great lustrous jewelled ornaments! O fine-jewelled women, come and behold!"
+    },
+    {
+      "translit": "NaaLgaLor naalaindhu thingaL aLavile\nthaaLai nimirththuch chakadaththaich chaadippoy\nvaaLkoL vaLaiyeyitru aaruyir vavvinaan\nthoLgaL irundhavaa kaaNeere surikuzhaleer vandhu kaaNeere",
+      "meaning": "Within just a few months, he stretched out his foot and kicked over the cart, and seized away the precious life of the demoness of sword-sharp curved fangs (Putana) — behold his shoulders! O curly-tressed women, come and behold!"
+    },
+    {
+      "translit": "Maiththadang kaNNi yasodhai vaLarkkindra\nseyththalai neela niRaththuch chiRuppiLLai\nneyththalai nemiyum sangum nilaaviya\nkaiththalangaL vandhu kaaNeere kanankuzhaiyeer vandhu kaaNeere",
+      "meaning": "The little dark-blue-hued child whom wide-collyrium-eyed Yashoda rears — behold his palms, on which gleam the oil-bright discus and the conch! O heavy-earringed women, come and behold!"
+    },
+    {
+      "translit": "VaNdamar poonguzhal aaychchi maganaagak\nkoNdu vaLarkkindra kovalak kuttaRku\naNdamum naadum adanga vizhungiya\nkaNdam irundhavaa kaaNeere kaarigaiyeer vandhu kaaNeere",
+      "meaning": "To the little cowherd-boy whom the bee-swarmed, flower-tressed cowherd-mother takes for her own son and rears — behold the throat that swallowed up the whole cosmos and all the worlds! O lovely women, come and behold!"
+    },
+    {
+      "translit": "Endhondai vaaychchingam vaavendreduthukkoNdu\nandhondai vaayamu dhaadhariththu aaychchiyar\nthamdhondai vaayaal tharukkip parugum ich\nchendhondai vaay vandhu kaaNeere seyizhaiyeer vandhu kaaNeere",
+      "meaning": "'Come, my coral-lipped lion-cub!' — so saying, the cowherd-women take him up and, cherishing the nectar of his red kovai-fruit lips, drink it proudly with their own lips: behold this red coral mouth! O fine-jewelled women, come and behold!"
+    },
+    {
+      "translit": "Nokki yasodhai nuNukkiya manjaLaal\nnaakku vazhiththu neeraattum in nambikku\nvaakkum nayanamum vaayum muRuvalum\nmookkum irundhavaa kaaNeere moykuzhaleer vandhu kaaNeere",
+      "meaning": "To this perfect child whom Yashoda watches over, cleansing his tongue with fine turmeric as she bathes him — behold his speech, his eyes, his mouth, his smile, and his nose! O thick-tressed women, come and behold!"
+    },
+    {
+      "translit": "ViNkoL amarargaL vedhanai theeramun\nmaNkoL vasudevar thammaganaay vandhu\nthiNkoL asurarai theya vaLargindraan\nkaNgaL irundhavaa kaaNeere kanavaLaiyeer vandhu kaaNeere",
+      "meaning": "He who, to end the anguish of the sky-dwelling celestials, came as the son of earth-born Vasudeva and grows up to waste away the mighty asuras — behold his eyes! O dense-bangled women, come and behold!"
+    },
+    {
+      "translit": "Paruvam nirambaame paarellaam uyya\nthiruvin vadivokkum devaki petra\nuruvu kariya oLimaNi vaNNan\npuruvam irundhavaa kaaNeere pooNmulaiyeer vandhu kaaNeere",
+      "meaning": "The dark-formed, lustrous-gem-hued one whom Devaki — fair as Lakshmi's own form — bore, though not yet of full age, that all the earth might be saved — behold his eyebrows! O ornament-breasted women, come and behold!"
+    },
+    {
+      "translit": "MaNNum malaiyum kadalum ulagezhum\nuNNun thiRaththu magizhndhuNNum piLLaikku\nvaNNam ezhilkoL magarak kuzhaiyivai\nthiNNam irundhavaa kaaNeere seyizhaiyeer vandhu kaaNeere",
+      "meaning": "To the child who gladly swallows the earth, the mountains, the seas and all seven worlds — behold these beautifully-hued makara (fish-shaped) ear-ornaments, set firm! O fine-jewelled women, come and behold!"
+    },
+    {
+      "translit": "Muttrilum thoodhaiyum munkaimmel poovaiyum\nsittril izhaiththuth thiritharu vorgaLai\npatrip paRiththukkoNdu odum paraman than\nnetri irundhavaa kaaNeere nerizhaiyeer vandhu kaaNeere",
+      "meaning": "The Supreme One who snatches and runs off with the little baskets, the toy pots, and the mynah-birds from the forearms of the children who wander building toy houses — behold his forehead! O fine-jewelled women, come and behold!"
+    },
+    {
+      "translit": "Azhagiya paimponnin kolangaik koNdu\nkazhalgaL sadhangai kalandhu engu maarppa\nmazhakandrinangaL maRiththuth thirivaan\nkuzhalgaL irundhavaa kaaNeere kuvimulaiyeer vandhu kaaNeere",
+      "meaning": "Taking a lovely staff of fresh gold in his hand, his anklets and little bells jingling all around, he roams turning back the herds of young calves — behold how his curling locks are! O firm-breasted women, come and behold!"
+    },
+    {
+      "translit": "Suruppaar kuzhali yasodhai munsonna\nthiruppaadha kesaththaith thenputhuvaip pattan\nviruppaal uraiththa irubadhodu ondrum\nuraippaarpoy vaikundhath ondruvar thaame",
+      "meaning": "These twenty-one verses, lovingly composed by the lord of southern Puduvai (Periyalwar) on the sacred form from foot to hair that bee-tressed Yashoda first described — those who recite them shall go and unite with Vaikuntha."
+    },
+    {
+      "translit": "MaaNikkam katti vayiram idaikatti\naaNippon naalseydha vaNNach chiRuththottil\npeNi unakkup biraman vidudhandhaan\nmaaNik kuRaLane thaalelo! Vaiyam aLandhaane thaalelo!",
+      "meaning": "Set with rubies and bordered with diamonds, a pretty little coloured cradle wrought of pure gold — lovingly Brahma has sent it for you. O gem-like dwarf (Vamana), thaalelo (sleep, my child)! O you who measured the worlds, thaalelo!"
+    },
+    {
+      "translit": "Udaiyaar kanamaNiyodu oNmaa thuLampoo\nidaiviravik koththa ezhilthezhki nodu\nvidaiyeRu kaabaali eesan vidudhandhaan;\nudaiyaay azhel azhel thaalelo! Ulagam aLandhaane thaalelo!",
+      "meaning": "A lovely waist-band of rich heavy gems strung interspersed with bright pomegranate-flowers — Lord Shiva, the bull-riding Kapali, has sent it. O my master, weep not, weep not, thaalelo! O you who measured the worlds, thaalelo!"
+    },
+    {
+      "translit": "Endham piraanaar ezhilthiru maarvarkku\nsandha mazhagiya thaamaraith thaaLarkku,\nindhiran thaanum ezhiludaik kiNkiNi\nthandhu uvanaay nindraan thaalelo! Thaamaraik kaNNane thaalelo!",
+      "meaning": "For my Lord of the beautiful sacred chest, with feet graceful as lovely lotuses, Indra himself has given beautiful jingling anklets and stands by in service. Thaalelo! O lotus-eyed one, thaalelo!"
+    },
+    {
+      "translit": "Sangin valampuriyum sevadik kiNkiNiyum\nangaich charivaLaiyum naaNum araiththodarum\nangaN visumbil amarargaL poththandhaar,\nsengaN karumugile! Thaalelo! Devaki singame thaalelo!",
+      "meaning": "A right-spiralled conch, anklets for the red feet, bangles for the lovely hands, a waist-cord and a waist-chain — the celestials of the wide bright sky have brought these. O red-eyed dark cloud, thaalelo! O lion-cub of Devaki, thaalelo!"
+    },
+    {
+      "translit": "Ezhilaar thirumaarvukku eRku mivaiyendru\nazhagiya aimpadaiyum aaramum koNdu\nvazhuvil kodaiyaan vaichchiravaNan\nthozhudhu uvanaay nindraan thaalelo! Thoomani vaNNane thaalelo!",
+      "meaning": "'These befit his beautiful sacred chest' — so saying, Kubera (Vaishravana) of flawless generosity, bearing a lovely five-weapons amulet and a garland, worships and stands by. Thaalelo! O pure-sapphire-hued one, thaalelo!"
+    },
+    {
+      "translit": "Odhak kadalin oLimuththi naaramum\nsaadhip pavaLamum sandhach charivaLaiyum\nmaadhakka vendru varuNan vidudhandhaan\nsodhich chudarmudiyaay thaalelo! Sundharath thoLane thaalelo!",
+      "meaning": "A garland of lustrous pearls from the surging sea, fine coral, and graceful bangles — 'let these adorn him,' said Varuna, and sent them. O you of the radiant gleaming crown, thaalelo! O one of beautiful shoulders, thaalelo!"
+    },
+    {
+      "translit": "Kaanaar naRundhuzhaay kaiseydha kaNNiyum\nvaanaar sezhunjolaik kaRpagaththin vaasigaiyum\nthenaar malarmel thirumangai poththandhaaL\nkone! Azhel azhel thaalelo! Kudandhaik kidandhaane thaalelo!",
+      "meaning": "A garland crafted of fragrant forest-tulasi, and a wreath from the karpaka tree of the rich heavenly groves — Lakshmi, who dwells on the honeyed lotus, has brought them. O king, weep not, weep not, thaalelo! O you who recline at Kudanthai (Kumbakonam), thaalelo!"
+    },
+    {
+      "translit": "Kachchodu poRsurikai kaambu kanakavaLai\nuchchi maNichchutti oNthaaL niraip poRpoo\nachchudhanukku endru avaniyaaL poththandhaaL\nnachchumulai uNdaay thaalelo naaraayaNaa azhel thaalelo!",
+      "meaning": "A bodice, a golden dagger with its haft, gold bangles, a jewelled head-ornament, and a row of bright golden flowers for the feet — 'these are for Achyuta,' said the Earth-goddess, and brought them. O you who drank the poison-breast of Putana, thaalelo! O Narayana, weep not, thaalelo!"
+    },
+    {
+      "translit": "Meythimirum naanap podiyodu manjaLum\nseyya thadangaNNukku anjanamum sindhuramum\nveyya kalaippaagi koNdu uvaLaay nindraaL\nayyaa azhel azhel thaalelo! Arangath aNaiyaane thaalelo!",
+      "meaning": "Fragrant musk-powder that thrills the body, and turmeric, kohl for the lovely wide eyes, and vermilion — the goddess of the fierce arts bears these and stands by. O sir, weep not, weep not, thaalelo! O you who recline at Srirangam, thaalelo!"
+    },
+    {
+      "translit": "Vanjanaiyaal vandha peychchi mulai uNda\nanjana vaNNanai aaychchi thaalaattiya\nsenjol maRaiyavar ser puthuvaip pattan sol\nenjaamai vallavarkku illai idarthaane",
+      "meaning": "These are the words of the lord of Puduvai — home of the Vedic brahmins of true speech — on Yashoda's lullaby to the collyrium-hued one who drank the breast of the deceitful demoness Putana. For those who can master them without omission, there shall be no sorrow."
+    },
+    {
+      "translit": "Thanmugath thuchchutti thoongath thoongath thavazhndhupoy\nponmugak kiNkiNi yaarppap puzhudhi yaLaigindraan\nenmagan govindhan kooththinai iLa maamadhee\nninmugam kaNNuLa vaagil nee inge nokkippo",
+      "meaning": "With the jewel-pendant on his brow swinging to and fro, he crawls along, his golden anklets ringing, and plays in the dust. O young great moon, if you have eyes in your face to see, look this way and behold the dance of my son Govinda before you pass on!"
+    },
+    {
+      "translit": "EnsiRuk kuttan enako rinnamudhu empiraan\nthansiRuk kaigaLaal kaattik kaatti yazhaikkindran\nanjanavaNNanodu aadalaada uRudhiyel\nmanjil maRaiyaadhe maamadhee magizhndhodivaa",
+      "meaning": "My little one — my own sweet nectar, my Lord — beckons you again and again with his little hands. O great moon, if you mean to come and play with the collyrium-hued one, do not hide behind the clouds; come running, gladly!"
+    },
+    {
+      "translit": "Suttrum olivattam soozhndhu sodhi parandhengum\neththanai seyyilum enmagan mugam nerovvaay\nviththagan vengada vaaNan unnai viLikkindra\nkaiththalam novaame ambuli kadi thodivaa",
+      "meaning": "Though a halo of light surrounds you and your radiance spreads everywhere, do whatever you may, you can never match my son's face. The wondrous Lord of Venkatam is calling you — O moon, come quickly, lest his little hand ache from beckoning!"
+    },
+    {
+      "translit": "Sakkarak kaiyan thadangaNNaal malara vizhiththu\nokkalai melirundhu unnaiye suttik kaattumkaaN\nthakka thaRidhiyel sandhiraa salam seyyaadhe\nmakkat peRaadha malada nallaiyel vaakaNdaay",
+      "meaning": "The discus-handed one, opening wide his lovely eyes, seated on his mother's hip, keeps pointing you out. O moon, if you have any sense, play no tricks; unless you are as barren as one who bears no children, come!"
+    },
+    {
+      "translit": "Azhagiya vaayil amudha ooral theLivuRa\nmazhalai muttraadha iLanjollaal unnaik koogindraan\nkuzhagan sireedharan koovak koova nee podhiyel\npuzhaiyila aagaadhe ninsevi pugar maa madhee",
+      "meaning": "From his lovely mouth, the clear nectar welling up, in lisping baby-words not yet fully formed he calls you. O bright great moon, if you go away even as the playful Sridhara calls and calls, your ears will prove to be of no use!"
+    },
+    {
+      "translit": "ThaNdodu sakkaram saarngamendhum thadakkaiyan\nkaNthuyil koLLakkarudhik kottaavi koLgindraan\nuNda mulaippaal aRaakaNdaay uRangaavidil\nviNdanil manniya maamadhee virain thodivaa",
+      "meaning": "The broad-handed one who bears mace, discus and the Sarnga bow, now minded to sleep, is yawning. See — the breast-milk he drank is not yet digested; if he does not sleep he will be unwell. O great moon set firm in the sky, come swiftly!"
+    },
+    {
+      "translit": "Baalakan endru paribavam seyyel paNdu or naaL\naalin ilai vaLarndha siRukkan avan ivan\nmel ezhap paayndhu pidiththukkoLLum veguLumel\nmaalai madhiyaadhe maa madhee magizhndhu odi vaa",
+      "meaning": "Do not slight him as a mere child: this is that very little one who long ago lay floating on a banyan leaf. If he is angered, he will spring up and seize hold of you. O great moon, do not disregard Tirumal — come gladly, running!"
+    },
+    {
+      "translit": "SiRiyanendru enniLanj chingaththai igazhelkaNdaay\nsiRumaiyin vaarththaiyai maavaliyidaich chendrukeL\nsiRumaip pizhaikoLLil neeyum un thevaikkuriyaikaaN\nniRaima dhee nedu maalviraindhu unnaik koovugindran",
+      "meaning": "Do not despise my young lion as 'a small one' — see! Go and ask Mahabali about the matter of his smallness (how the dwarf grew to span the worlds). If you commit the error of scorning his smallness, you too will answer to your own deity. O full moon, Tirumal is calling you in haste!"
+    },
+    {
+      "translit": "Thaazhiyil veNNey thadangai aara vizhungiya\npezhai vayitru empiraan kaNdaay unnaik koogindraan\naazhikoNdu unnai eRiyum aiyuRavu illai kaaN\nvaazha uRudhiyel maa madhee magizhndhu odi vaa",
+      "meaning": "Behold — my Lord of the capacious belly, who swallowed pots of butter by the handful, is calling you. There is no doubt: he may fling his discus at you if you delay. O great moon, if you wish to live, come gladly, running!"
+    },
+    {
+      "translit": "Maiththadang kaNNi yasodhai thanmaganukku ivai\noththana solli uraiththa maatram oLipuththoor\nviththagan vittusiththan viriththa thamizh ivai\neththanaiyum solla vallavarkku idar illaiye",
+      "meaning": "These are the fitting words wide-collyrium-eyed Yashoda spoke to her son — the Tamil verses elaborated by the wise Vishnuchittan (Periyalwar) of radiant Puduvai. For those who can recite even some of them, there shall be no distress."
+    },
+    {
+      "translit": "Uyya ulagupadaith thuNda maNivayiraa\noozhithor oozhipala aalin ilaiyadhanmel\npaiya uyogudhuyil koNda paramparane\npangaya neeLnayanaththu anjana meniyane\nseyyavaL ninnagalam semame nakkarudhich\nchelvupo limagarak kaadhu thigazhndhilaga\naiyaena kkorukaal aaduka sengeerai\naayargaL poreRe aaduka aadukave",
+      "meaning": "O gem-bellied one who created the worlds for their salvation and then swallowed them; Supreme of the supreme, who through aeon after aeon gently took your yogic sleep upon a banyan leaf; O collyrium-hued one of long lotus-eyes — Lakshmi rests upon your chest, deeming it her refuge, while the fish-shaped earrings of fortune gleam radiant. O father, for me just once do the sengeerai (baby's sway-dance); O bull among the cowherds, dance, dance!"
+    },
+    {
+      "translit": "KoLari yinnuruvang koNdu avuNanudalam\nkurudhi kuzhambiyezhak koorugi raalkudaivaay\nmeeLa avanmaganai meymmai koLakkarudhi\nmelai yamararpadhi mikku veguNduvara\nkaaLanan megamavai kallodu kaalpozhiyak\nkarudhi varaikkudaiyaak kaaligaL kaappavane\naaLaena kkorukaal aaduka sengeerai\naayargaL poreRe aaduka aadukave",
+      "meaning": "O you who, taking the form of the fierce man-lion, scooped open the demon Hiranya's body with sharp claws till his blood gushed and clotted; and who, minded to make his son Prahlada truly your own — when the enraged king of the celestials (Indra) came and the dark clouds rained stones and wind — raised the mountain as an umbrella and shielded the cattle. To make me your servant, for me just once do the sengeerai; O bull among the cowherds, dance, dance!"
+    },
+    {
+      "translit": "Nammudai naayagane naanmaRai yinporuLe\nnaabiyuL naRkamala naanmuga nukkorukaal\nthammanai yaanavane tharaNi thalamuzhudhum\nthaaragai yinnulagum thadavi adhanpuRamum\nvimma vaLarndhavane vezhamum ezhvidaiyum\nviraviya velaidhanuL vendru varumavane\nammaena kkorukaal aaduka sengeerai\naayargaL poreRe aaduka aadukave",
+      "meaning": "O our Lord, very meaning of the four Vedas; you who were once like a mother to four-faced Brahma, born from the good lotus in your navel; you who grew vast, spanning all the earth, the starry worlds and beyond; you who came victorious — taming the elephant and the seven bulls — from the dense ocean. O dear one, for me just once do the sengeerai; O bull among the cowherds, dance, dance!"
+    },
+    {
+      "translit": "Vaanavar thaammagizha vansaka damuruLa\nvanjamu laippeyin nanjamadhu uNdavane\nkaanaka valviLavin kaayudhi rakkarudhik\nkandradhu koNdeRiyum karuniRa enkandre\nthenuka num muranum thiNthiRal vennarakan\nenbavar thaammadiyach cheruvadha rachchellum\naanai enakkorukaal aaduka sengeerai\naayargaL poreRe aaduka aadukave",
+      "meaning": "O you who, that the celestials might rejoice, made the cruel cart (Sakatasura) roll over and drank the poison of the deceitful breast-demoness Putana; my dark-hued calf, who flung the calf-demon to bring down the fruits of the wild wood-apple tree; O elephant among heroes who go into battle so that Dhenuka, Mura and the fiercely strong vile Naraka fall dead — for me just once do the sengeerai; O bull among the cowherds, dance, dance!"
+    },
+    {
+      "translit": "Maththala vumthayirum vaarkuzhal nanmadavaar\nvaiththana neykaLavaal vaarivizhungi orungu\noththa iNaimarudham unniya vandhavarai\nooru karaththinodum undhiya vendhiraloy\nmuththini LamuRuval mutra varuvadhanmun\nmunna mugaththaNiyaar moykuzhalgaL alaiya\naththa enakkorukaal aaduka sengeerai\naayargaL poreRe aaduka aadukave",
+      "meaning": "O you of fierce might, who by stealth gulped down the churned butter and curd the fine long-tressed women had set aside, and who, when tied to the mortar, pushed apart with your hip the two matched marudam trees that meant to fall on you — before your young pearl-smile fully blooms, while the fragrant thick curls dangle over your face, O father, for me just once do the sengeerai; O bull among the cowherds, dance, dance!"
+    },
+    {
+      "translit": "Kaaya malarniRavaa karumugil poluruvaa\nkaanaka maamaduvil kaaliya nuchchiyile\nthooya nadampayilum sundhara ensiRuvaa\nthunga madhakkariyin kombu paRiththavane\naaya maRindhuporu vaanedhir vandhamallai\nandhara mindriyazhith thaadiya thaaLiNaiyaay\naaya enakkorukaal aaduka sengeerai\naayargaL poreRe aaduka aadukave",
+      "meaning": "O you hued like the kaaya blossom, your form like a dark cloud; my handsome little one who danced your pure dance upon the head of Kaliya in the great forest pool; you who plucked off the tusk of the lofty rutting elephant; O you whose paired feet, knowing their craft, destroyed without respite the wrestlers who came to fight — for me just once do the sengeerai; O bull among the cowherds, dance, dance!"
+    },
+    {
+      "translit": "Thuppudai yayaargaLtham solvazhu vaadhuorukaal\nthooya karunguzhalnal thogai mayilanaiya\nnappinai thanthiRamaa nalvidai yezhaviya\nnalla thiraludaiya naadhanum aanavane\nthappina piLLaigaLaith thanamigu sodhipugath\nthaniyoru therkadavith thaayodu koottiyaen\nappa enakkorukaal aaduka sengeerai\naayargaL poreRe aaduka aadukave",
+      "meaning": "O you who, at the cowherds' word, became the mighty lord by subduing without fail the seven fine bulls for the sake of Nappinnai — pure dark-tressed, lovely as a rich-plumed peacock; my father, who drove a single chariot to bring back the lost children (Sandipani's sons) into the supreme effulgence and restore them to their mother — for me just once do the sengeerai; O bull among the cowherds, dance, dance!"
+    },
+    {
+      "translit": "Unnaiyum okkalaiyil koNdu thamilmaruvi\nunnodu thangaLkaruththaayina seydhuvarum\nkanniya rummagizhak kaNdavar kaNkuLirak\nkatravar thetrivarap petra enakkaruLi\nmannu kurungudiyaay veLLaRai yaay madhiLsoozh\nsolai malaikkarase kaNNa puraththamudhe\nennavalam kaLaivaay aaduka sengeerai\nezhulagum mudaiyaay aaduka aadukave",
+      "meaning": "O Lord enshrined at lasting Kurungudi, at Thiruvellarai, king of rampart-ringed Azhagarmalai, nectar of Thirukkannapuram — gracing me, the mother who bore you, while the maidens take you on their hips and dote as they please, while onlookers' eyes are cooled and the learned throng to see — relieve my sorrow and do the sengeerai; O you who own the seven worlds, dance, dance!"
+    },
+    {
+      "translit": "Paalodu neythayiroN saandhodu saNpagamum\npangayam nallakarup pooramum naaRivara\nkola naRumpavaLach chendhuvar vaayinidaik\nkomaLa veLLimuLaip polsila pallilaga\nneela niRaththazhagaa raimpadai yinnaduve\nninkani vaayamudham itru muRindhuvizha\nelu maRaipporuLe aaduka sengeerai\nezhulagum mudaiyaay aaduka aadukave",
+      "meaning": "While milk, ghee, curd, fine sandal, champak, lotus and good camphor breathe their fragrance about you; while a few teeth like tender silver shoots gleam within your lovely fragrant-coral red mouth; O beautiful blue-hued one, amid the five weapons, as the nectar of your ripe-fruit lips spills over — O fitting meaning of the Veda, do the sengeerai; O you who own the seven worlds, dance, dance!"
+    },
+    {
+      "translit": "Sengama lakkazhalil sittridhazh polviralil\nserthiga zhaazhigaLum kiNkiNi yumaraiyil\nthangiya ponvadamum thaaLanan maadhuLaiyin\npoovodu ponmaNiyum modhira mumkiRiyum\nmangala aimpadaiyum tholvaLai yumkuzhaiyum\nmakaramum vaaLigaLum suttiyum oththilaga\nengaL kudikkarase aaduka sengeerai\nezhulagum mudaiyaay aaduka aadukave",
+      "meaning": "On the red-lotus feet and the toes like little petals, gleaming rings and jingling anklets; at the waist a golden cord; a pomegranate-flower ornament and golden gem at the feet; rings and a toy-rattle; the auspicious five-weapons amulet; arm-bands and earrings; the fish-ornaments, the bright crescent-jewels and the head-pendant all shining together — O king of our clan, do the sengeerai; O you who own the seven worlds, dance, dance!"
+    },
+    {
+      "translit": "Annamum meenuruvum aaLari yumkuRaLum\naamaiyu maanavane aayargaL naayagane\nenava lamkaLaivaay aaduka sengeerai\nezhulagum mudaiyaay aaduka vaadukavendru\nanna nadaimadavaaL asodhai yugandhaparisu\naana pugazhpputhuvaip patta nuraiththathamizh\ninnisai maalaigaLip paththumval laarulagil\neNdisaiyum pugazhmikku inbam adhu eydhuvare",
+      "meaning": "'O you who became the swan, the fish, the man-lion, the dwarf and the tortoise; O chief of the cowherds — relieve my sorrow and do the sengeerai; O you who own the seven worlds, dance, dance!' — so swan-gaited Yashoda rejoiced. Those who master these ten garlands of sweet Tamil music, composed by the renowned lord of Puduvai, shall win fame in all eight directions and attain that bliss."
+    },
+    {
+      "translit": "MaaNikkak kiNkiNi yaarppa marunginmel\naaNippon naalseydha aaypon nudaimaNi\npeNip pavaLavaay muththilanga paNdu\nkaaNikoNda kaigaLaal sappaani\nkarunguzhal kuttane sappaani",
+      "meaning": "While the ruby anklets jingle and the choice jewels set in pure gold gleam at your waist, and pearls shine cherished in your coral mouth — clap your hands, the hands that once claimed and measured the worlds! Clap, O dark-curled little one, clap your hands (sappani)!"
+    },
+    {
+      "translit": "Ponnarai naaNodu maaNikkak kiNkiNi\nthannarai yaadath thanichchutti thaazhndhaada\nennarai melnin rizhindhuungaL aayartham\nmannarai melkottaay sappaani\nmaayavane kottaay sappaani",
+      "meaning": "As the golden waist-cord and the ruby anklets sway at your waist and the single head-jewel dangles and swings — coming down from my lap, clap your hands upon the lap of the king of your cowherds! Clap, O wondrous one, clap your hands!"
+    },
+    {
+      "translit": "Panmani muththu in pavaLam padhiththanna\nenmani vaNNan ilangupoR Roottinmel\nninmani vaaymuth thilanganin nammaidhan\nammani melkottaay sappaani\naazhiyang kaiyane sappaani",
+      "meaning": "O my sapphire-hued one, like many gems, pearls and sweet coral inlaid together — while the pearls of your jewel-mouth gleam upon your shining golden ear-ornaments, clap your hands upon your mother's jewel! Clap, O you of the discus-bearing lovely hand, clap your hands!"
+    },
+    {
+      "translit": "Thoonilaa muttraththe pondhu viLaiyaada\nvaanilaa ambulee sandhiraa vaavendru\nneenilaa ninpuga zhaanindra aayartham\nkonilaa vakkottaay sappaani\nkudandhaik kidandhaane sappaani",
+      "meaning": "As you come into the moonlit courtyard to play, calling 'O sky-moon, O Ambuli, O Chandra, come!' — while you, the moon of the cowherds who stand singing your praise, shine — clap your hands so the cowherd-king may rejoice! Clap, O you who recline at Kudanthai (Kumbakonam), clap your hands!"
+    },
+    {
+      "translit": "Puttiyil serum puzhudhiyum koNduvandhu\natti yamukki agampuk kaRiyaame\nchatti thayirum thadaavinil veNNeyumuN\npattikkan rekottaay sappaani\npaRpanaa paakottaay sappaani",
+      "meaning": "Bringing in slush and dust on your little body, smearing and dabbing it about, and slipping into the house unseen to eat up the curd in the pot and the butter in the jar — clap your hands, O unruly little calf! Clap, O Padmanabha, clap your hands!"
+    },
+    {
+      "translit": "Thaariththu nootruvar thandhaisol koLLaadhu\nporuththu vandhu pugundhavar maNNaaLa\npaariththa mannar padappanj chavarkkuandru\ntheruyththa kaigaLaal sappaani\ndevaki singame sappaani",
+      "meaning": "When the hundred Kauravas, heedless of their father's word, came warring and intent to rule the land — so that those arrayed kings might fall, for the sake of the five Pandavas you once drove the chariot. Clap those very hands! Clap, O lion-cub of Devaki, clap your hands!"
+    },
+    {
+      "translit": "Parandhittu nindra padukadal thannai\nirandhitta kaimmel eRidhirai modha\nkarandhittu nindra kadalaik kalanga\nsarandhotta kaigaLaal sappaani\nsaarngavih kaiyane sappaani",
+      "meaning": "When the wide outspread sea, though entreated, dashed its rising waves upon your hand (the sea-god refusing to yield) — to make that concealing ocean churn in turmoil, you fitted an arrow to the Sarnga bow. Clap those hands! Clap, O you of the Sarnga-bow hand, clap your hands!"
+    },
+    {
+      "translit": "Kurakkinath thaale kuraikadal thannai\nnerukki aNaikatti neeLnee rilangai\narakkar aviya adugaNai yaale\nnerukkiya kaigaLaal sappaani\nnemiyang kaiyane sappaani",
+      "meaning": "With the host of monkeys you dammed and bridged the roaring sea, and with deadly arrows you pressed hard so that the demons of sea-girt Lanka perished. Clap those hands! Clap, O you of the discus-bearing hand, clap your hands!"
+    },
+    {
+      "translit": "ALandhitta thooNai avandhatta aange\nvaLarndhittu vaaLugirch chinga vuruvaay\nuLandhot tiraNiyan oNmaar vakalam\npiLandhitta kaigaLaal sappaani\npeymulai yuNdaane sappaani",
+      "meaning": "Striking apart the appointed pillar, rising up there and then as the man-lion of sword-sharp claws, you reached into his heart and split open the broad gleaming chest of Hiranya — clap those hands! Clap, O you who drank the breast of the demoness Putana, clap your hands!"
+    },
+    {
+      "translit": "Adaindhittu amarargaL aazhkadal thannai\nmidaindhittu mandharam maththaaga naatti\nvadamsutri vaasuki vankayi Raakk\nkadaindhitta kaigaLaal sappaani\nkaarmugil vaNNane sappaani",
+      "meaning": "When the celestials came to you, you planted Mount Mandara as the churning-rod in the deep sea, wound Vasuki as the strong rope, and churned it — clap those hands! Clap, O dark-cloud-hued one, clap your hands!"
+    },
+    {
+      "translit": "Aatkollath thondriya aayarthang kovinai\nnaatkamazh poompozhil villiput thoorppattan\nvetkaiyi naal sonna sappaani eeraindhum\nvetkaiyi naalsollu vaarvinai pome",
+      "meaning": "These ten 'sappani' verses, sung with loving longing by the lord of Villiputhur of day-fragrant flower-groves, on the king of the cowherds who appeared to take us into his service — the karma of those who recite them with longing shall depart."
+    },
+    {
+      "translit": "Thodarsang kiligai salaarpilaa rennath thoonguponmaNi olippa\npadumum madhappunal sora vaaraNam paiyanindru oorvadhupol\nudangoodik kiNkiNi yaaravaa rippa udaimaNi paRaikaranga\nthadandhaa LiNaikoNdu saaranga paaNi thaLarnadai nadavaano",
+      "meaning": "As the linked chain jangles 'salaar-pilaar' and the hanging golden bells chime — like a rutting elephant moving slowly with its three-fold ichor flowing — with his anklets all jingling together and his waist-bells drumming, on his two broad feet, will the Sarnga-bearer toddle his faltering little walk?"
+    },
+    {
+      "translit": "Sekka ridainunik kombil thondrum siRupiRai muLaipola\nnakka senduvar vaayththiNNai meedhe naLirveNpal muLaiyilaga\nakku vadamuduththu aamaith thaali pooNda anandha sayanan\nthakka maamaNi vaNNan vaasudevan thaLarnadai nadavaano",
+      "meaning": "Like a slender new crescent on the tip of a bough amid the red twilight, cool white milk-teeth gleam on the ledge of his moist red lips; wearing a string of conch-beads and a tortoise-shaped pendant — Ananta-sayana, the fitting great-sapphire-hued Vasudeva, will he toddle his faltering walk?"
+    },
+    {
+      "translit": "Minnuk kodiyum orveN thingaLum soozhpari vedamumaay\npinnal thulangum arasilaiyum peethagach chittraadai yodum\nminnil polindha thorkaar mugilpolak kazhuththinil kaaRai yodum\nthannil polindha irudee kesan thaLarnadai nadavaano",
+      "meaning": "Like a lightning-streak, a lone white moon and a surrounding halo; with a shining plaited pipal-leaf ornament and a little yellow silk garment; like a dark cloud lit by lightning, a collar at his throat — Hrishikesha, resplendent in himself, will he toddle his faltering walk?"
+    },
+    {
+      "translit": "Kannar kudamthiRan thaaloth thoorik kaNagaNa siriththuvandhu\nmunvandhu nindru muththam tharumen mugilvaNNan thirumaarvan\nthannaip petreRkuth thanvaa yamudham thandhu ennaith thaLirppikkindraan\nthannetru maatralar thalaigaL meedhe thaLarnadai nadavaano",
+      "meaning": "Welling over as if a pot of sugarcane-syrup were opened, laughing 'kana-kana', my cloud-hued one of the sacred chest comes, stands before me, and gives a kiss; giving me — who bore him — the nectar of his own mouth, he makes me blossom anew. Upon the heads of his vanquished foes, will he toddle his faltering walk?"
+    },
+    {
+      "translit": "Munnalor veLLip perumalaik kuttan modumodu viraindhoda\npinnaith thodarndhathor karumalaik kuttan peyarndhadi yiduvadhupol\npanni yulagam paraviyo vaappugazhp paladhe vanennum\nthannambi yodap pinkoodach chelvaan thaLarnadai nadavaano",
+      "meaning": "As if a calf of a great silver mountain rushed swiftly ahead and a calf of a dark mountain followed, shifting its feet behind — going after his elder brother Balarama, whom all the world praises endlessly, keeping up close behind, will he toddle his faltering walk?"
+    },
+    {
+      "translit": "Orukaa lilsangu orukaalil sakkaram uLLadi poRiththamaindha\nirukaa lumkoNdu angangu ezhudhinaaRpol ilachchinai padanadandhu\nperugaa nindra inbaveL Laththinmel pinnaiyum peydhupeydhu\nkarugaarkkadalvaNNan kaamar thaadhai thaLarnadai nadavaano",
+      "meaning": "With a conch marked on one sole and a discus on the other, his two feet impressing their stamp as though signing here and there — pouring wave upon wave onto the ever-swelling flood of bliss — the dark-ocean-hued one, the lovely Father of Manmatha, will he toddle his faltering walk?"
+    },
+    {
+      "translit": "Padarpang kayamalar vaay negizhap panipadu siRudhuLipol\nidangoN dasev vaayoori yoori itritru veezhanindru\nkadunjek kazhuththin maNikkural pol udaimaNi kaNagaNena\nthadandhaa LiNaikoNdu saarnga paaNi thaLarnadai nadavaano",
+      "meaning": "As his spreading lotus-mouth loosens, like cool falling droplets the saliva of his red mouth wells and wells and drips down bit by bit; while his waist-bells ring 'kana-kana' like the deep gem-toned bell on a fierce ox's neck — on his two broad feet, will the Sarnga-bearer toddle his faltering walk?"
+    },
+    {
+      "translit": "Pakkam karunjiRup paaRai meedhe aruvigaL pagarndhanaiya\nakku vadamizhindh eRith thaazha aNiyalgul pudaipeyara\nmakka Lulaginil peydhaRi yaadha maNikkuzhavi yuruvin\nthakka maamaNi vaNNan vaasudevan thaLarnadai nadavaano",
+      "meaning": "Like cascades pouring down the side of a small dark rock, his string of conch-beads slips down and dangles, and his pretty waist sways from side to side; in the form of a jewel-like infant such as was never born among the people of the world, the fitting great-sapphire-hued Vasudeva, will he toddle his faltering walk?"
+    },
+    {
+      "translit": "VeNpuzhudhi melpeydhu koNda aLaindhathor vezhaththin karungandrupol\ntheNpuzhudhi yaadith thirivik kiraman siRupugar padaviyarththu\noNpodhalar kamalach chiRukkaa luraiththu ondrum novaame\nthaNpodhu koNda thavisin meedhe thaLarnadai nadavaano",
+      "meaning": "Like a dark elephant-calf that has wallowed and heaped white dust upon itself, Trivikrama plays in the clear dust, faintly speckled and sweating; that his little blossom-lotus feet might not be hurt at all — upon a cool flower-strewn mat, will he toddle his faltering walk?"
+    },
+    {
+      "translit": "Thiraineerch chandhira maNda lampol sengaNmaal kesavan than\nthiruneer mugaththuth thulangu sutti thigazhndhengum pudaipeyara\nperuneerth thiraiyezhu gangai yilum periyadhor theerthapalam\ntharuneer siRuchchaNNam thuLLam sorath thaLarnadai nadavaano",
+      "meaning": "Like the moon's orb on the wave-tossed waters, the head-jewel gleaming on the sacred dewy face of red-eyed Tirumal, Kesava, shimmers and sways everywhere; as the trickling water of his little mouth — bestowing a sacred merit greater than the great wave-swelling Ganga — spills in droplets, will he toddle his faltering walk?"
+    },
+    {
+      "translit": "Aayar kulaththinil vandhu thondriya anjana vaNNanthannai\nthaayar magizha onnaar thaLarath thaLarnadai nadandhadhanai\nveyar pugazhvittu siththan seeraal viriththana uraikkavallaar\nmaayan maNivaN Nanthaal paNiyum makkaLaip peruvaargaLe",
+      "meaning": "On the collyrium-hued one who appeared in the cowherds' clan, who toddled his faltering walk so his mothers rejoiced and his foes grew faint — those who can recite these verses, elaborated with excellence by Vishnuchittan whom the cowherds praise, shall obtain children who bow at the feet of the wondrous sapphire-hued Lord."
+    },
+    {
+      "translit": "Ponniyal kiNkiNi sutti puRamkatti\nthanniya losai salanjala nendrida\nminniyal megam viraindhedhir vandhaaRpol\nennidaikkottaraa achcho vachcho\nemperu maanvaaraa achcho vachcho",
+      "meaning": "With golden anklets and a head-jewel and a band tied behind, their sound jingling 'salan-jalan' — like a lightning-laced cloud rushing swiftly to meet me — come tumbling into my arms, achcho, achcho (come, let me embrace you)! O my Lord, come, achcho, achcho!"
+    },
+    {
+      "translit": "Sengama lappoovil thenuNNum vaNdepol\npangigaL vandhuun pavaLavaay moyppa\nsanguvil vaaLthaNdu sakkara mendhiya\nangaika laalevandhu achcho vachcho\naarath thazhuvaavandhu achcho vachcho",
+      "meaning": "As your curls come swarming over your coral mouth like bees sipping honey from a red lotus — with your lovely hands that bear conch, bow, sword, mace and discus, come, achcho, achcho! Come and embrace me close, achcho, achcho!"
+    },
+    {
+      "translit": "Panjavar thoodhanaayp paaratham kaiseydhu\nnanjumizh naagam kidandhanaR poygaipukku\nanjap paNaththinmel paaynditt aruLseydha\nanjana vaNNane achcho vachcho\naayar perumaane achcho vachcho",
+      "meaning": "O you who, as envoy of the five Pandavas, brought about the Bharata war; who entered the fair pool where the poison-spewing serpent lay and, leaping terribly upon its hoods, danced and showed your grace — O collyrium-hued one, come, achcho, achcho! O Lord of the cowherds, achcho, achcho!"
+    },
+    {
+      "translit": "NaaRiya saandham namakkiRai nalgenna\ntheRi avaLum thiruvudam bilpoosa\nooriya kooninai uLLe yodungaandru\neRa vuruvinaay achcho vachcho\nemperu maanvaaraa achcho vachcho",
+      "meaning": "When the hunchbacked woman (Kubja) was asked, 'Give us a little of your fragrant sandal-paste,' and she gladly smeared it on your sacred body — O you who that day straightened her, drawing her swollen hump inward so she rose erect — come, achcho, achcho! O my Lord, come, achcho, achcho!"
+    },
+    {
+      "translit": "Kazhalmannar soozhak kadhirpol viLangi\nezhalutru meeNde irundhuunnai nokkum\nsuzhalaip peridhudaith thuchcho dhananai\nazhala vizhiththaane achcho vachcho\naazhiyang kaiyane achcho vachcho",
+      "meaning": "Surrounded by anklet-wearing kings, shining like the sun — O you who burned with a fiery glance the deeply scheming, vain-natured foe who half-rose and sat down again, eyeing you — come, achcho, achcho! O you of the discus-bearing lovely hand, achcho, achcho!"
+    },
+    {
+      "translit": "Porokkap paNniip poomip poRaitheerppaan\ntherokka voorndhaay sezhundhaar visayaRkaay\nkaarokkum menik karumberung kaNNane\naarath thazhuvaavandhu achcho vachcho\naayargaL poreRe achcho vachcho",
+      "meaning": "To rid this earth of its burden, you waged the war and drove the chariot for the rich-garlanded Vijaya (Arjuna) — O great dark Krishna of cloud-like form — come and embrace me close, achcho, achcho! O bull among the cowherds, achcho, achcho!"
+    }
+  ],
+
+  "dp_3": [
+    {
+      "translit": "Anna vayal puthuvai aaNdaaL arangarkup\npannu thiruppaavai thiruppadhigam — innisaiyaal\npaadik koduthaaNaR paamaalai poomaalai\nsoodik koduthaaLaich chol",
+      "meaning": "Speak of Andal of Puduvai (Srivilliputhur) of swan-filled fields, who composed for Lord Ranganatha the sacred Thiruppavai hymn, singing it in sweet melody as a garland of verse — she who also offered him the flower-garland she had first worn herself."
+    },
+    {
+      "translit": "Soodik koduththa sudark kodiye, tholpaavai\npaadi aruLavalla pal vaLaiyaai —\nnaadi nee vengadavaRku ennai vidhi endra immaatram\nnaang kadavaa vaNName nalgu",
+      "meaning": "O radiant creeper-like one who gave the garland after wearing it, O many-bangled lady able to sing the ancient Pavai! Grant that we may never transgress the words you spoke — 'Sought and decreed me to the Lord of Venkatam.'"
+    },
+    {
+      "translit": "Maargazhith thingaL madhiniRaindha nannaaLaal\nneeraadap podhuveer podhumino nerizhaiyeer\nseermalgum aaypaadich chelvach chiRumeergaaL\nkoorvel kodunthozhilan nandhagopan kumaran\neraarndha kaNNi yasodhai iLamsingam\nkaarmeni sengaN kadhirmadhiyam polmugaththaan\nnaaraayaNane namakke paRai tharuvaan\npaaror pugazhap padindhelor empaavaai",
+      "meaning": "In the month of Margazhi, on this fine full-moon day, come, all who wish to bathe! O richly adorned, prosperous young girls of flourishing Gokulam — Narayana himself, the son of Nandagopa of the sharp spear and fearsome deeds, the young lion of lovely-eyed Yashoda, dark-hued, red-eyed, his face like the radiant moon, will grant us our boon. Come and undertake the vow, that all the world may praise us, O our Paavai."
+    },
+    {
+      "translit": "Vaiyaththu vaazhveergaaL naamumnam paavaikkuch\ncheyyum girisaigaL keLeero paaRkadaluL\npaiyath thuyindra paramanadipaadi\nneyyuNNom paaluNNom naatkaale neeraadi\nmaiyittu ezhudhom malarittu naammudiyom\nseyyaa thanaseyyom theekkuRaLaich chendrodhom\naiyamum pichchaiyum aandhanaiyum kaigaatti\nuyyumaaR eNNi ugandhelor empaavaai",
+      "meaning": "O you who dwell in this world, hear the observances we keep for our Paavai vow. Singing the feet of the Supreme who gently reclines on the ocean of milk, we shall not eat ghee or milk; we shall bathe at dawn, wear no collyrium, deck our hair with no flowers; we shall do no forbidden deed, speak no cruel slander, but give alms and charity freely — thinking only of our deliverance, let us rejoice, O our Paavai."
+    },
+    {
+      "translit": "Ongi ulagaLandha uthaman perpaadi\nnaangaLnam paavaikkuch chaatrinee raadinaal\ntheenginri naadellaam thingaLmum maaraipeydhu\nongu peRumsen neloodu kayalugaLap\npoonguvaLaip podhil poRivaNdu kaNpaduppath\nthengaadhe pukkirundhu seerththa mulaipatri\nvaanga kudam niRaikkum vaLLal perumpasukkaL\nneengaadha selvam niRaindhelor empaavaai",
+      "meaning": "If we sing the name of the Supreme One who grew tall and measured the worlds and bathe in dedication for our vow, then without any harm the whole land will have rain thrice a month. Amid the tall ripening red paddy the carp will leap, spotted bees will sleep in the kuvalai blossoms, and the great generous cows, their rich udders grasped, will fill the pots to the brim — undiminishing wealth will fill the land, O our Paavai."
+    },
+    {
+      "translit": "Aazhi mazhaikkaNNaa ondrunee kaigaravel\naazhiuL pukku mugandhukodu aarththueRi\noozhi mudhalvan uruvampol meykaRuthup\npaazhiyam thoLudaip paRpanaaban kaiyil\naazhi polminni valampuri pol nindru\nadhirndhu thaazhaadhe saarnga mudhaiththa saramazhaipol\nvaazha ulaginil peydidaai naangaLum\nmaargazhi neeraada magizhndhelor empaavaai",
+      "meaning": "O rain-laden cloud, deep as the ocean, withhold nothing! Plunge into the sea, draw up its waters and rise roaring; grow dark like the form of the Lord, first cause of the aeons; flash like the discus in mighty-shouldered Padmanabha's hand, sound like his right-spiralled conch, and pour down without delay like the arrow-shower loosed from his Sarnga bow — so that the world may thrive and we too may joyfully bathe in Margazhi, O our Paavai."
+    },
+    {
+      "translit": "Maayanai mannu vadamadhurai maindhanaith\nthooya peruneer yamunaith thuRaivanai\naayar kulaththinil thondrum aNiviLakkaith\nthaayaik kudalviLakkam seydha thaamodharanaith\nthooyomaay vandhunaam thoomalarthoo viththozhudhu\nvaayinaal paadi manaththinaal sindhikkap\npoya pizhaiyum pugudharuvaan nindranavum\ntheeyinil thoosaagum seppelor empaavaai",
+      "meaning": "The wondrous Lord, the youth of northern Mathura, the lord of the pure deep Yamuna's banks, the lovely lamp born in the cowherd clan, Damodara who brought lustre to his mother's womb — if we come pure, scatter fresh flowers, worship, sing with our lips and meditate with our minds, then our past sins and the wrongs yet to come will turn to ash in the fire. Declare this, O our Paavai."
+    },
+    {
+      "translit": "PuLLum silambinakaaN puLLaraiyan koyilil\nveLLai viLisangin perasvam kettilaiyo\npiLLaai ezhundhiraai peymulai nanjuNdu\nkaLLach chakadam kalakkazhiyak kaalochchi\nveLLaththaravil thuyilamarndha viththinai\nuLLaththuk koNdu munivargaLum yogigaLum\nmeLLa ezhundhang ariendra perasvam\nuLLam pugundhu kuLirndhelor empaavaai",
+      "meaning": "The birds are chirping — did you not hear, in the temple of the Lord of birds, the great blast of the white summoning conch? O girl, arise! The sages and yogis, holding in their hearts the Primal Seed who drank the poisoned breast of Putana, kicked over the deceitful cart, and reclines on the serpent in the flood, are gently rising and uttering 'Hari, Hari' — let that great sound enter and cool your heart. Arise, O our Paavai."
+    },
+    {
+      "translit": "Keesukeesu endruengum aanaichaaththan kalandhu\npesina pechcharavam kettilaiyo peyppeNNe\nkaasum piRappum kalakalappak kaiperthu\nvaasa naRumkuzhal aaychchiyar maththinaal\nosai paduththa thayirasvam kettilaiyo\nnaayagap peNpiLLaai naaraayaNanmoorthi\nkesavanaip paadavumnee kette kidaththiyo\ndesa mudaiyaai thiRavelor empaavaai",
+      "meaning": "Everywhere the bharadvaja birds chatter 'keechu keechu' — did you not hear that babble, O foolish girl? Did you not hear the sound of curd being churned by the fragrant-tressed cowherd women, their coins and ornaments jangling as their arms work the churn? O leader among us, even as we sing of Narayana the Lord, of Kesava, will you lie there merely listening? O radiant one, open the door, O our Paavai."
+    },
+    {
+      "translit": "Keezhvaanam veLLendru erumai siRuveedu\nmeyvaan parandhanakaaN mikkuLLa piLLaigaLum\npovaanpo kindraaraip pogaamalkaaththuunnaik\nkoovuvaan vandhunindrom kodhugalam udaiya\npaavaai ezhundhiraai paadip paRaikoNdu\nmaavaay piLandhaanai mallarai maattiya\ndevaadhi devanaich chendrunaam sevithaal\naavaavendru aaraayndhu aruLelor empaavaai",
+      "meaning": "The eastern sky is whitening; the buffaloes spread out to graze in the early morning. Holding back the other girls who were already setting off, we have come and stand calling you, O joyous maiden — arise! Singing, let us win our boon. If we go and worship the God of gods, who split the horse-demon's jaws and slew the wrestlers, he will graciously consider our wish and bless us. Arise, O our Paavai."
+    },
+    {
+      "translit": "Thoomani maadaththu suttrum viLakkeriyath\nthoomam kamazhath thuyilaNaimel kaNvaLarum\nmaamaan magaLe maNikkadhavam thaazhthiRavaai\nmaameer avaLai ezhuppeero unmagaLthaan\noomaiyo andri sevido ananthalo\nemap perundhuyil mandhirap pattaaLo\nmaamaayan maadhavan vaikundhan endrendru\nnaaman palavum navindrelor empaavaai",
+      "meaning": "O daughter of my uncle, asleep on a soft bed in a jewelled mansion where lamps burn all around and incense wafts — open the gem-studded door! Aunt, will you not wake her? Is your daughter dumb, or deaf, or weary, or has she fallen under a charmed deep sleep? Chanting his many names — the great Mayan, Madhava, the Lord of Vaikuntha — let us wake her. Arise, O our Paavai."
+    },
+    {
+      "translit": "Notruch chuvarkkam puguginra ammanaai\nmaatramum thaaraaro vaasal thiRavaadhaar\nnaatrath thuzhaaymudi naaraayaNan nammaal\npotrap paRaitharum puNNiyanaal\npaNduorunaaL kootraththin vaayveezhndha\nkumba karuNanum thotrum unakke\nperundhuyilthaan thandhaano aatra\nananthal udaiyaai arungalame\nthetramaay vandhu thiRavelor empaavaai",
+      "meaning": "O lady who by your austerities are entering heaven — you who will not open the door, will you not even answer? Narayana of the fragrant tulasi-crown, the meritorious One whom we praise, grants the boon. Has even Kumbhakarna, who long ago fell into the jaws of death, surrendered his great sleep to you, that you slumber so deep? O rare jewel sunk in heavy sleep, come clearly awake and open the door, O our Paavai."
+    },
+    {
+      "translit": "Katruk kaRavaik kaNangaL palakaRandhu\nsettraar thiRalazhiyach chendru seruchcheyyum\nkuttamondrillaadha kovalarththam porkodiye\nputruaravu algul punamayile podharaai\nsuttraththu thozhimaar ellaarum vandhunin\nmuttram pugundhu mugilvaNNan perpaada\nsittraadhe pesaadhe selvapeN daattinee\nettrukku uRangum poruLelor empaavaai",
+      "meaning": "O golden creeper of the blameless cowherds who milk herds of young cows and march to battle to break their foes' strength — O forest-peahen with a slender waist, come forth! All your companions and friends have entered your courtyard, singing the name of the cloud-hued Lord. O prosperous girl, without stirring or speaking, what reason have you still to sleep? Arise, O our Paavai."
+    },
+    {
+      "translit": "KanaiththuiLam katrerumai kandrukku irangi\nninaiththu mulaivazhiye nindrupaal sora\nnanaiththuillam seraakkum naRchelvan thangaai\npaniththalai veezhanin vaasaR kadaipatrich\nchinaththinaal thenilangaik komaanaich chetra\nmanaththukku iniyaanaip paadavumnee vaaythiRavaai\niniththaan ezhundhiraai eedhenna perurakkam\nanaiththuillath thaarum aRindhelor empaavaai",
+      "meaning": "O younger sister of the rich cowherd whose young buffalo, lowing in tenderness for its calf, lets its milk flow until the house turns to slush — though we stand at your doorstep with dew falling on our heads, singing of the Lord dear to our hearts who in wrath destroyed the king of southern Lanka, you will not open your mouth. Wake now! What is this deep sleep? All the households know. Arise, O our Paavai."
+    },
+    {
+      "translit": "PuLLinvaay keeNdaanaip pollaa arakkanaik\nkiLLik kaLaindhaanaik keerththimai paadippoyp\npiLLaigaL ellaarum paavaik kaLampukkaar\nveLLi ezhundhu viyaazham uRangitru\npuLLum silambinakaaN podharik kaNNinaai\nkuLLak kuLirak kudaindhunee raadaadhe\npaLLik kidaththiyo paavaainee nannaaLaal\nkaLLam thavirndhu kalandhelor empaavaai",
+      "meaning": "Singing the glory of him who split the crane-demon's beak and who plucked off and destroyed the wicked demon Ravana, all the other girls have already reached the place of our vow. Venus has risen, Jupiter has set, the birds are chirping — O doe-eyed girl, instead of bathing in the cool refreshing water, will you lie abed? On this auspicious day, give up your guile and join us. Arise, O our Paavai."
+    },
+    {
+      "translit": "UngaL puzhakkadaith thottaththu vaaviyuL\nsengazhuneer vaaynegizhndhu aambalvaay koombinakaaN\nsengaR podikkoorai veNpal thavaththavar\nthangaL thirukkoyil sangiduvaan podhandraar\nengaLai munnam ezhuppuvaan vaaypesum\nnangaai ezhundhiraai naaNaadhaai naavudaiyaai\nsangodu sakkaram endhum thadakkaiyan\npangayak kaNNaanaip paadelor empaavaai",
+      "meaning": "In the pond of your backyard garden the red lily has opened and the white waterlily has folded — look! The ascetics in ochre robes with white teeth have gone to their temple to sound the conch. O lady who promised to wake us first — arise, you shameless one with the ready tongue! Let us sing of the lotus-eyed Lord whose broad hands bear the conch and discus. Arise, O our Paavai."
+    },
+    {
+      "translit": "Elle iLamkiLiye innam uRanguthiyo\nsilendru azhaiyenmin nangaiyeer podharugindren\nvallaiun katturaigaL paNdeun vaayaRidhum\nvalleergaL neengaLe naanedhaan aayiduga\nollainee podhaai unakkenna verudaiyai\nellaarum pondhaaro pondhaarpondhu eNNikkoL\nvallaanai kondraanai maatraarai maatrazhikka\nvallaanai maayanaip paadelor empaavaai",
+      "meaning": "(Outside:) 'Hey, young parrot, are you still asleep?' (Inside:) 'Don't call so sharply, ladies; I am coming.' 'We know your glib words and your tongue of old.' 'You are the clever ones; let me be the foolish one.' 'Come quickly — what makes you so special? Have all arrived?' 'They have; come and count.' Let us sing of the wondrous Lord who slew the mighty elephant and can undo the strength of foes. Arise, O our Paavai."
+    },
+    {
+      "translit": "Naayaga naaynindra nandhago panudaiya\nkoyilkaap paane kodiththondrum\nthoraNa vaayilkaap paane maNikkadhavam thaaLthiRavaai\naayar siRumiya romukku aRaipaRai\nmaayan maNivaNNan nennale vaaynerndhaan\nthooyomaay vandhom thuyilezhap paaduva\nvaayaalmun nammunnam maatraadhe ammaanee\nneya nilaikkadhavam neekkelor empaavaai",
+      "meaning": "O guardian of the temple of Nandagopa our chief, O keeper of the banner-flying ornamental gateway, draw back the bolt of the jewelled door! The wondrous sapphire-hued Lord promised us cowherd-girls our boon only yesterday. We have come pure to sing him awake, so do not refuse us at the very outset, good sir — open the lovingly-fastened door. Arise, O our Paavai."
+    },
+    {
+      "translit": "Amparame thaNNeere sore aRamseyyum\nemperumaan nandhago paalaa ezhundhiraai\nkombanaarkku ellaam kozhundhe kulaviLakke\nemperu maatti yasodhaai aRivuRaai\namparam oodaaRuththu ongi ulaguaLandha\numbarko maane uRangaadhu ezhundhiraai\nsempoR kazhaladich chelvaa baladhevaa\numbiyum neeyun uRangelor empaavaai",
+      "meaning": "O Nandagopa our lord, who give cloth, water, and food in charity — arise! O Yashoda our lady, tender shoot and lamp of the clan of graceful women — awake! O Lord of the celestials who pierced the sky and grew to measure the worlds — sleep not, arise! O prosperous Baladeva of golden anklets — may you and your brother not sleep. Arise, O our Paavai."
+    },
+    {
+      "translit": "Undhu madhagaLitran odaadha thoLvaliyan\nnandhago paalan marumagaLe nappinnaai\nkandham kamazhum kuzhali kadaithiRavaai\nvandhuengum kozhi azhaiththanakaaN maadhavip\npandhalmel palkaal kuyilinangaL koovinakaaN\npandhuaar viraliun maiththunan perpaadach\nchendhaa maraikkaiyaal seeraar vaLaiolippa\nvandhu thiRavaai magizhndhelor empaavaai",
+      "meaning": "O Nappinnai, daughter-in-law of Nandagopa — lord of rutting elephants and unyielding strength — O fragrant-tressed one, open the door! Everywhere the cocks are crowing; on the jasmine bower the cuckoo-flocks call again and again. O lady with a ball in your flower-soft fingers, that we may sing your husband's name, come with your lotus-red hands, your fine bangles jingling, and joyfully open the door. Arise, O our Paavai."
+    },
+    {
+      "translit": "Kuththu viLakkeriya kottukkaal kattilmel\nmeththendra panja sayanaththin meleRik\nkoththalar poongkuzhal nappinai kongaimel\nvaiththuk kidandha malarmaarbaa vaaythiRavaai\nmaiththadam kaNNinaai neeun maNaaLanai\neththanai podhum thuyilezha ottaaykaaN\neththanaiyelum pirivuaatra killaayaal\nthaththuvam andru thagavelor empaavaai",
+      "meaning": "O broad, flower-garlanded Lord who reclines on the soft five-fold bed upon the legged cot, where the standing lamp burns, your head upon the breast of flower-tressed Nappinnai — speak to us! And you, dark wide-eyed Nappinnai, will not let your consort wake even a moment, unable to bear the briefest parting from him — that is neither right nor seemly. Arise, O our Paavai."
+    },
+    {
+      "translit": "Muppaththu moovar amararkku munsendru\nkappam thavirkkum kaliye thuyilezhaai\nseppam udaiyaai thiRaludaiyaai settraarkku\nveppam kodukkum vimalaa thuyilezhaai\nseppenna menmulaich chevvaaych chiRumarungul\nnappinai nangaai thiruve thuyilezhaai\nukkamum thattoLiyum thandhuun maNaaLanai\nippodhe emmai neeraattelor empaavaai",
+      "meaning": "O valiant One who goes before the thirty-three crore gods and removes their fear — awake! O upright, mighty, flawless One who brings dread to your foes — awake! O lovely Nappinnai of soft cup-like breasts, red lips, and slender waist — Goddess Lakshmi herself — awake! Give us the fan and the mirror for the rite, and let your consort have us bathe even now (grant us your grace). Arise, O our Paavai."
+    },
+    {
+      "translit": "Etra kalangaL ethirpongi meedhaLippa\nmaatraadhe paalsoriyum vaLLal perumpasukkaL\naatrap padaiththaan magane aRivuRaai\nootram udaiyaai periyaai ulaginil\nthotramaay nindra sudare thuyilezhaai\nmaatraar unakku valitholaindhuun vaasaRkaN\naatraadhu vandhuun adipaNiyu maapole\npotriyaam vandhom pugazhndhelor empaavaai",
+      "meaning": "O son of him who owns the great generous cows that pour milk ceaselessly till the vessels brim and overflow — awake! O steadfast, great One, the radiance that appeared in this world — awake! Just as your foes, their strength broken, come helpless to your door and bow at your feet, so we too have come praising you. Arise, O our Paavai."
+    },
+    {
+      "translit": "AmkaNmaa njaalaththu arasar abhimaana\npangamaay vandhunin paLLikkat tiRkeezhe\nsangam iruppaarpol vandhu thalaippeydhom\nkinginivaaychcheydha thaamaraip poopole\nsengaN siRuchchiRidhe emmel vizhiyaavo\nthingaLum aadhith thiyanum ezhundhaaRpol\namkaN iraNdumkoNdu engaLmel nokkudhiyel\nengaLmel saabam izhindhelor empaavaai",
+      "meaning": "Like the kings of this wide beautiful world who, their pride humbled, came and gathered in assembly beneath your couch, we too have come and reached it. Will your red eyes, like a lotus with little bell-shaped buds, open upon us little by little? If you look upon us with those two beautiful eyes, like the moon and sun rising together, the curse upon us will fall away. Arise, O our Paavai."
+    },
+    {
+      "translit": "Maari malaimuzhainjil mannik kidandhuuRangum\nseeriya singam aRivutruth theevizhiththu veri\nmayirponga eppaadum perndhuudhaRi\nmoori nimirndhu muzhangip puRappattup\npoorumaa polenee poovaippoo vaNNaaun\nkoyilnindru ingane pondharuLik koppudaiya\nseeriya singaa sanaththuirundhu yaamvandha\nkaariyam aaraayndhu aruLelor empaavaai",
+      "meaning": "As the majestic lion that has lain asleep through the rains in a mountain cave awakens, opens its fiery eyes, shakes its fragrant mane bristling on every side, stretches, rises, roars and strides forth — even so, O Lord hued like the kaaya flower, come forth from your temple, seat yourself upon the splendid lion-throne, and graciously examine the purpose for which we have come. Arise, O our Paavai."
+    },
+    {
+      "translit": "Andruiv ulagam aLandhaai adiporri\nsendrangkuth thenilangai settraai thiRalporri\npondrach chakadam udhaiththaai pugazhporri\nkandru kuNilaa veRindhaai kazhalporri\nkundru kudaiyaai eduththaai guNamporri\nvendru pagaikedukkum ninkaiyil velporri\nendrendrun sevagame eththip paRaikoLvaan\nindruyaam vandhom irangelor empaavaai",
+      "meaning": "Praise to the feet that once measured these worlds; praise to the might that went and destroyed southern Lanka; praise to the fame that kicked the cart-demon to death; praise to the anklets that flung the calf as a stick at the wood-apple demon; praise to the grace that raised the mountain as an umbrella; praise to the spear in your hand that conquers and destroys foes. Praising your heroic deeds again and again, we have come today to receive our boon — be gracious. Arise, O our Paavai."
+    },
+    {
+      "translit": "Oruththi maganaayp piRandhuoor iravil\noruththi maganaay oLiththu vaLarath\ntharikkilaan aagiththaan theengu ninaindha\nkaruththaip pizhaippiththuk kanjan vayitril\nneruppenna nindra nedumaale unnai\naruththiththu vandhom paRaitharudhi yaagil\nthiruththakka selvamum sevagamum yaampaadi\nvaruththamum theerndhu magizhndhelor empaavaai",
+      "meaning": "O great Lord who, born one night as the son of one woman (Devaki), grew up hidden as the son of another (Yashoda) — and who, when Kamsa could not bear it and plotted evil, foiled his design and stood like fire in his belly! We have come longing for you. If you grant us the boon, we shall sing your sacred wealth and heroism, our sorrow will end, and we shall rejoice. Arise, O our Paavai."
+    },
+    {
+      "translit": "Maale maNivaNNaa maargazhinee raaduvaan\nmelaiyaar seyvanagaL veNduvana kettiyel\nnjaalaththai ellaam nadunga muralvana\npaalanna vaNNaththuun paancha sanniyame\npolvana sangangaL poyppaa dudaiyanave\nsaalap perumpaRaiye pallaaNdu isaippaare\nkola viLakke kodiye vidhaname\naalin ilaiyaai aruLelor empaavaai",
+      "meaning": "O Tirumal, sapphire-hued Lord! If you would hear what we need to perform the Margazhi bathing-rite as the ancients did: conches like your milk-white Panchajanya that roar to make all the earth tremble; great resounding drums; singers to chant 'Pallandu'; beautiful lamps, banners, and a canopy. O Lord who floated on the banyan leaf in the deluge, grant us these. Arise, O our Paavai."
+    },
+    {
+      "translit": "Koodaarai vellumseer govindhaa undhannaip\npaadip paRaikoNdu yaamperum sammaanam\nnaadu pugazhum parisinaal nandraagach\nchoodagame thoLvaLaiye thode sevippoove\npaadagame endranaiya palagalanum yaamaNivom\naadai uduppom adhanpinne paaRchoru\nmoodaney peydhu muzhangai vazhivaarak\nkoodi irundhu kuLirndhelor empaavaai",
+      "meaning": "O Govinda, whose glory conquers all who oppose you! Singing your praise and receiving our boon, the honour we shall win — by which the whole land will praise us — is this: we shall adorn ourselves with bangles, armlets, earrings, ear-flowers, anklets and many such ornaments, and wear fine garments; and then, seated together, we shall feast on milk-rice drenched in ghee that drips down to our elbows, and be content. Arise, O our Paavai."
+    },
+    {
+      "translit": "KaRavaigaL pinsendru kaanamserndhu uNpom\naRivuondrum illaadha aaykkulaththu undhannaip\npiRavi peRundhanaip puNNiyam yaamudaiyom\nkuRaiondrum illaadha govindhaa undhannodu\nuRavel namakkuingu ozhikka ozhiyaadhu aRiyaadha\npiLLaigaLom anbinaal undhannai\nsiRuper azhaiththanamum seeRi aruLaadhe\niRaivaanee thaaraay paRaiyelor empaavaai",
+      "meaning": "We follow the cattle, roam the forest, and eat there; we are of the ignorant cowherd clan — yet we have the great merit that you were born among us. O flawless Govinda, the bond between you and us here can never be severed. We are unknowing children; if out of love we have called you by small familiar names, do not be angry — O Lord, grant us our boon. Arise, O our Paavai."
+    },
+    {
+      "translit": "Sittram siRukaale vandhuunnai sevithuun\nportaa maraiadiye porrum poruLkeLaai\npettrammeyththu uNNum kulaththil piRandhunee\nkuttruEval engaLaik koLLaamal pogaadhu\nittraip paRaikoLvaan andrukaaN govindhaa\nettraikkum ezhezh piRavikkum unthannodu\nuttrome aavom unakkenaam aatcheyvom\nmatrainam kaamangaL maatrelor empaavaai",
+      "meaning": "Hear, O Lord, the meaning of our coming in the small hours to worship and praise your golden lotus feet: born as you were in the clan that lives by grazing cattle, you cannot but accept our intimate service. It is not merely for today's boon that we have come, O Govinda — for all time and through seven-times-seven births we shall be bound to you alone and serve you alone. Turn away all our other desires. Arise, O our Paavai."
+    },
+    {
+      "translit": "Vangak kadalkadaindha maadhavanai kesavanai\nthingaL thirumugaththu seyizhaiyaar sendruiRainji\nangap paRaikoNda aatrai aNibhuduvaip\npaingamalath thaNtheriyal pattarpiraan\nkodhaisonna sangath thamizhmaalai muppadhum thappaame\ninguip parisuraippaar eeriraNdu maalvaraithoL\nsengaN thirumugaththuch chelvath thirumaalaal\nengum thiruvaruLpetru inbuRuvar empaavaai",
+      "meaning": "This garland of thirty classical Tamil verses was sung by Kodai (Andal) — daughter of Pattarpiran (Periyalwar) of beautiful Puduvai, wearer of the cool fresh-lotus garland — telling how the jewelled, moon-faced maidens went, worshipped Madhava, Kesava who churned the ship-bearing ocean, and obtained their boon. Those who recite all thirty here without fault shall everywhere receive the grace of the prosperous Tirumal — of the four mountain-like shoulders and the red-eyed lovely face — and live in joy. O our Paavai."
+    }
+  ],
+
+  "dp_9": [
+    {
+      "translit": "Kaattave kaNda paadha kamalam nallaadai undhi,\nthettarum udhara bandham thirumaarbu kaNdam sevvaai,\nvaattamil kaNgaL meni muniyeRith thani pugundhu,\npaattinaal kaNdu vaazhum paaNar thaaL paravinome",
+      "meaning": "We bow to the feet of Thiruppaan Alwar, who — carried into the shrine on the sage's shoulders — beheld, one by one as the Lord revealed them, his lotus feet, fine garment, navel, the rare waist-band, sacred chest, throat, red lips, and tireless eyes and form, and who lived blessed, singing them in song."
+    },
+    {
+      "translit": "Amalan aadhipiraan adiyaarkku ennai aatpaduththa\nvimalan viNNavar kon viraiyaar pozhil vengadavan\nnimalan ninmalan needhi vaanavan neeL madhiL arangaththammaan thiruk\nkamala paadham vandhu en kaNNinuLLana okkindrathe",
+      "meaning": "The flawless primal Lord who made me a servant of his devotees; the pure One, king of the celestials, Lord of fragrant-groved Venkatam; the stainless, immaculate, righteous God — the Lord of Srirangam of long ramparts: his sacred lotus feet have come and fixed themselves within my eyes."
+    },
+    {
+      "translit": "Uvandha uLLaththanaay ulagam aLandhu aNdamuRa\nnivandha neeLmudiyan andru nerndha nisaasararai\nkavarndha vengaNaik kaakuththan kadiyaar pozhil arangaththammaan araich\nchivandha aadaiyin mel sendrathu aamen sindhanaiye",
+      "meaning": "He of the tall crown who, with a glad heart, measured the worlds until they reached the cosmic shell; Kakutstha (Rama) whose fierce arrows once seized the night-roving demons — the Lord of Srirangam of fragrant groves: upon the red garment about his waist my thought has gone and rests."
+    },
+    {
+      "translit": "Mandhi paay vada vengada maamalai vaanavargaL\nsandhi seyya nindraan arangath aravin aNaiyaan\nandhi pol niRath aadaiyum adhanmel ayanaip padaiththa or ezhil\nundhi melatha andro adiyen uLLath innuyire",
+      "meaning": "He who stands on the great northern hill of Venkatam, where monkeys leap and the celestials worship at twilight; he who reclines on the serpent at Srirangam — upon his twilight-hued garment, and above it the one beautiful navel that bore Brahma the creator, there rests the very life within this servant's heart."
+    },
+    {
+      "translit": "Sadhuramaa madhiL soozh ilangaikku iRaivan thalaipaththu\nudhira ottiyor vengaNai uyththavan odha vaNNan\nmadhuramaa vaNdu paada maamayil aada arangaththammaan thiruvayitru\ndhara bandhanam en uLLaththuL nindru ulaagindrathe",
+      "meaning": "The ocean-hued Lord who drove a single fierce arrow to make the ten heads of the king of square-rampart Lanka fall and bleed — the Lord of Srirangam where sweet bees hum and great peacocks dance: the sacred band about his belly stands within my heart and moves there."
+    },
+    {
+      "translit": "Paaramaaya pazhavinai patraRuththu ennaiththan\nvaaramaakki vaiththaan vaiththathandri en uL pugundhaan\nkora maadhavam seydhanankol aRiyen arangaththammaan thiru\nvaara maarbu andro adiyenai aatkoNdathe",
+      "meaning": "He severed the bond of my burdensome old karma, made me wholly his, and not stopping at that, entered into me. What dread austerity did I perform to deserve this? I do not know. It was the sacred, garland-adorned chest of the Lord of Srirangam that took this servant into his service."
+    },
+    {
+      "translit": "ThuNda veNpiRaiyaan thuyar theerththavan anjiRaiya\nvaNdu vaazh pozhil soozh aranganagar meya appan\naNdar aNda pahiraNdaththu oru maanilam ezhumaalvarai mutrum\nuNda kaNdam kaNdeer adiyenai uyyakkoNdathe",
+      "meaning": "He who removed the sorrow of the bearer of the white crescent (Shiva); the Father enshrined in Srirangam, ringed by groves where fine-winged bees dwell — behold, it was the very throat that swallowed the one great earth, the seven mountains, and all the cosmic spheres within their shell, that uplifted and saved this servant."
+    },
+    {
+      "translit": "Kaiyinaar surisangan alaazhiyar neeLvaraipol\nmeyyanaar thuLava viraiyaar kamazh neeLmudiyem\naiyanaar aNiyangananaar aravin aNaimisai meya maayanaar\nseyya vaay aiyo ennaich chindhai kavarndhathuve",
+      "meaning": "He who holds the spiralled conch and blazing discus in his hands, whose form is vast as a great mountain; our Lord of the tall crown fragrant with tulasi; the wondrous One reclining on the serpent at beautiful Srirangam — alas, his red lips have stolen away my mind."
+    },
+    {
+      "translit": "Pariyanaaki vandha avuNan udal keeNda amararkku\nariya aadhi piraan arangath amalan mugaththu\nkariya vaakip pudaiparandhu miLirndhu sevvari odi neeNda ap\nperiya vaaya kaNgaL ennaip pedhaimai seydhanave",
+      "meaning": "The primal Lord, hard for even the gods to attain, who tore open the body of the demon (Hiranya) that came in monstrous form; the flawless One of Srirangam — those great eyes upon his face, dark, broad-spreading, glittering, with long red lines running through them, have made me lose myself in wonder."
+    },
+    {
+      "translit": "Aalamaamaraththin ilaimel oru baalakanaay\nnjaalam ezhum uNdaan arangath aravin aNaiyaan\nkolamaa maNi aaramum muththuth thaamamum mudivilla thor ezhil\nneela meni aiyo niRai koNdathen nenjinaiye",
+      "meaning": "He who, as a little child upon a banyan leaf, swallowed the seven worlds; he who reclines on the serpent at Srirangam — his dark-blue form of boundless beauty, with splendid gem-strings and pearl-garlands, alas, has captured all the fullness of my heart."
+    },
+    {
+      "translit": "KoNdal vaNNanaik kovalanaay veNNey\nuNda vaayan en uLLam kavarndhaanai\naNdar konaNi aranganen amudhinaik\nkaNda kaNgaL matrondrinaik kaaNaave",
+      "meaning": "The cloud-hued One, who as the cowherd ate the butter, whose mouth stole away my very heart; the king of the celestials, the Lord of beautiful Srirangam, my nectar — the eyes that have beheld him will never look upon anything else."
+    }
+  ],
+
+  "dp_8": [
+    {
+      "translit": "MaNdangudi enbar maamaRaiyor, manniyaseerth\nthoNdaradippodi thonnagaram, vaNdu\nthiNarththa vayal thennarangaththu ammaanaip, paLLi\nuNarththum piraanudhiththa voor",
+      "meaning": "The great Vedic scholars call it Mandangudi — the ancient town of the ever-glorious Thondaradippodi, the birthplace of the saint who awakens from his sacred sleep the Lord of southern Srirangam, girt by bee-dense fields."
+    },
+    {
+      "translit": "Kadhiravan kuNadhisaich chigaram vandhu aNaindhaan\nkanaviruL agandrathu kaalaiyam pozhudhaay\nmadhu virindhu ozhuginа maamalar ellaam\nvaanavar arasargaL vandhuvandhu eeNdi\nedhirdhisai niRaindhanar ivarodum pugundha\nirungaLitru eettamum pidiyodu murasum\nadhirdhalil alaikadal pondrulathu engum\narangaththammaa! paLLi ezhundharuLaaye",
+      "meaning": "The sun has reached the peak of the eastern quarter; the dense darkness has fled and it is now early dawn. All the great flowers spread their nectar; the kings of the celestials throng in, wave upon wave, filling the quarter opposite; with them enter great herds of bull-elephants with their cows, and the drums sound everywhere like the roaring, surging sea. O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Kozhungodi mullaiyin kozhumalar aNavik\nkoorndhathu kuNadhisai maarudam idhuvo\nezhundhana malaraNaip paLLikoL annam\neenpani nanaindhatham irunjiRagu udhaRi\nvizhungiya mudhalaiyin pilampurai pezhvaay\nveLLeyiRu uRavadhan vidaththanukku anungi\nazhungiya aanaiyin arundhuyar keduththa\narangaththammaa! paLLi ezhundharuLaaye",
+      "meaning": "Is this the eastern breeze, grown strong as it caresses the rich blossoms of the lush jasmine creeper? The swans that slept on their flower-beds rise, shaking the cold dew from their broad wings. O Lord who relieved the grievous agony of the elephant Gajendra, tormented by the venom of the crocodile's cavern-like gaping jaws and white fangs — O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Sudaroli parandhana soozhdhisai ellaam\nthunniya thaaragai minnoli surungi\npadaroli pasuththanan panimadhi ivano\npaayiruL agandrathu paimpozhil kamugin\nmadalidaik keeRi vaN paaLaigaL naaRa\nvaigaRai koorndhathu maarudam idhuvo\nadaloli thigazhtharu thigiri am thadakkai\narangaththammaa! paLLi ezhundharuLaaye",
+      "meaning": "Radiant light has spread across all the encircling quarters; the thick-clustered stars dim their twinkling; the cool moon has grown pale; the wide darkness is gone. Splitting through the sheaths of the areca palms in the green groves, their rich spathes give off fragrance — is this the dawn breeze grown full? O Lord whose broad beautiful hand bears the discus blazing with warlike splendour — O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Meettila medhigaL thaLaividu maayargaL\nveynguzhal osaiyum vidaimaNik kuralum\neettiya isaidhisai parandhana vayaluL\nirundhina surumbinam ilangaiyar kulaththai\nvaattiya varisilai vaanavar eRe\nmaamuni veLviyaik kaaththu avabiradham\naattiya aduthiRal ayoththiyem arase\narangaththammaa! paLLi ezhundharuLaaye",
+      "meaning": "On the high ground the cowherds loose the young buffaloes from their tethers; the sound of their bamboo flutes and the bells of the bulls gather into music spreading in every direction; in the fields the swarms of bees settle. O bull among the celestials, of the lined bow that destroyed the clan of the Lankans; O victorious king of Ayodhya, who guarded the great sage's sacrifice and performed the avabhrtha bath — O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Pulambina putkaLum poompozhilgaLin vaay\npoyitruk kangul pugundhathu pulari\nkalandhathu kuNadhisai kanaikadal aravam\nkaLivaNdu mizhatriya kalambagam punaindha\nalangalan thodaiyalkoNdu adiyiNai paNivaan\namarargaL pugundhanar aadhalil ammaa\nilangaiyar kon vazhipaadu sei koyil\nemberumaan! paLLi ezhundharuLaaye",
+      "meaning": "The birds in the flowering groves are calling; the night has passed and dawn has come. In the eastern quarter mingles the roar of the resounding sea. Bearing fragrant mixed-flower wreaths abuzz with joyful bees, the celestials have come to bow at your two feet, O Lord. O our God, enshrined in the temple where the king of Lanka (Vibhishana) offers worship — O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Iraviyar maNi nedunthe rodum ivaro\niRaiyavar padhinoru vidaiyarum ivaro\nmaruviya mayilinan aRumugan ivano\nmarudharum vasukkaLum vandhuvandhu eeNdi\npuraviyodu aadalum paadalum therum\nkumaradaNdam pugundhu eeNdiya veLLam\naruvarai anaiyanin koyilmun nivaro\narangaththammaa! paLLi ezhundharuLaaye",
+      "meaning": "Here come the twelve Adityas with their tall jewelled chariots; here the eleven Rudras upon their bulls; here the six-faced Murugan on his peacock; the Maruts and the Vasus throng in, wave upon wave — with horses, dancing, singing, chariots, and the deva-host surging like a flood before your temple, vast as a mighty mountain. O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Andharath amarargaL koottangaL ivaiyo\narundhava munivarum marudharum ivaro\nindhiran aanaiyum thaanum vandhu ivano\nemberumaan un koyilin vaasal\nsundharar nerukka vichchaadharar nookka\niyakkarum mayanginar thiruvadi thozhuvaan\nandharam paaridam illai matru idhuvo\narangaththammaa! paLLi ezhundharuLaaye",
+      "meaning": "Here are the assembled hosts of the sky-celestials; here the great ascetic sages and the Maruts; here Indra himself with his elephant — O our Lord, at the gateway of your temple the Gandharvas press in, the Vidyadharas push forward, and even the Yakshas are bewildered in the throng, all eager to worship your sacred feet. There is no room left in sky or on earth — see this crowd! O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Vambavizh vaanavar vaayuRai vazhanga\nmaanidhi kapilai oNkaNNaadi mudhalaa\nemberumaan padimakkalam kaaNdaRku\neRpana vaayina koNdu nan munivar\nthumburu naaradar pugundhanar ivaro\nthondrinan iraviyum thulangoli parappi\nambara thalaththil nindru agalgindrathu iruLpoy\narangaththammaa! paLLi ezhundharuLaaye",
+      "meaning": "The celestials, fragrant flowers blooming, present their offerings; bringing the auspicious objects fit for the sacred service — the wish-granting cow Kapila, the bright mirror, and the rest — the good sages Tumburu and Narada have entered. The sun has appeared, spreading its glowing light; the darkness departs, withdrawing from the field of the sky. O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Edhamil thaNNumai ekkam maththaLiye\nyaazhkuzhal muzhavamod isaidhisai kezhumi\ngeethangaL paadinar kinnarar gerudargaL\nkandharuvar avar kanguluL ellaam\nmaadhavar vaanavar saaraNar iyakkar\nsiddharum mayanginar thiruvadi thozhuvaan\naadhalil avarkku naaL olakkam aruLa\narangaththammaa! paLLi ezhundharuLaaye",
+      "meaning": "The faultless drums, the ekkalam, the mridanga, the yazh, the flute and the great drum mingle their music in every direction; all through the night the Kinnaras, Garudas and Gandharvas have sung their songs; the great ascetics, celestials, Charanas, Yakshas and Siddhas stand bewildered in devotion, longing to worship your sacred feet. So, to grant them your daily audience — O Lord of Srirangam, graciously rise from your sacred sleep!"
+    },
+    {
+      "translit": "Kadimalark kamalangaL malarndhana ivaiyo\nkadhiravan kanaikadal muLaiththanan ivano\nthudiyidaiyaar surikuzhal pizhindhu udhaRith\nthugil uduththu eRinar soozhpunal arangaa\nthodaiyoththa thuLavamum koodaiyum polindhu\nthondriya thoL thoNdaradippodi ennum\nadiyanai aliyan endru aruLi un adiyaarkku\naatpaduththaay paLLi ezhundharuLaaye",
+      "meaning": "See, the fragrant lotuses have blossomed; the sun has risen over the resounding sea. The slender-waisted women, wringing and shaking out their curly hair, don fresh garments and bathe, O Lord of Srirangam girt with waters. O Lord, graciously calling this servant 'Thondaradippodi' — he whose shoulders shine with well-strung tulasi and the flower-basket — declaring 'he is worthy of grace', and making him a servant of your devotees: O Lord of Srirangam, graciously rise from your sacred sleep!"
+    }
+  ],
+
+  "dp_10": [
+    {
+      "translit": "Verondrum naanaRiyen vedam thamizhseydha\nmaaRan sadagopan vaNkurukoor eRu, engaL\nvaazhvaam endreththum madhurakaviyaar emmai\naaLvaar avare araN",
+      "meaning": "Madhurakavi, who praises none but Maran Satakopa (Nammalwar) of generous Kurugur — he who rendered the Veda into Tamil — saying 'He is our very life and refuge': that Madhurakavi himself is our master and our fortress."
+    },
+    {
+      "translit": "KaNNi nuN siRuth thaambinaal kattuNNap\npaNNiya peru maayan en appanil\nnaNNith thenkurukoor nambi endrakkaal\naNNikkum amudhooRum en naavukke",
+      "meaning": "Sweeter even than my Father — the great wondrous One (Krishna) who let himself be bound by the slender little knotted cord — is this: when I draw near and merely utter 'Nambi of southern Kurugur' (Nammalwar), nectar wells up upon my tongue."
+    },
+    {
+      "translit": "Naavinaal navitru inbam eydhinen\nmevinen avan ponnadi meymmaiye\ndevu matraRiyen kurukoor nambi\npaavin innisai paadith thirivane",
+      "meaning": "By uttering his name with my tongue I have attained bliss; I have truly clung to his golden feet. I know no other god than Nambi of Kurugur (Nammalwar); I wander singing the sweet music of his verses."
+    },
+    {
+      "translit": "Thiridhandhaagilum deva piraanudai\nkariya kolath thiru uruk kaaNban naan\nperiya vaN kurukoor nagar nambikkaaL\nuriyanaay adiyen petra nanmaiye",
+      "meaning": "Even as I wander about, I behold the dark beautiful sacred form of the Lord, the God of gods — such is the good fortune this servant has gained by becoming the rightful servant of Nambi of great, generous Kurugur."
+    },
+    {
+      "translit": "Nanmaiyaal mikka naanmaRaiyaaLargaL\npunmaiyaagak karudhuvar aadhalin\nannaiyaay aththanaay ennai aaNdidum\nthanmaiyaan sadagopan en nambiye",
+      "meaning": "Though the most virtuous masters of the four Vedas may regard it as lowly that I serve a man rather than God, Satakopa (Nammalwar) — my Nambi, who rules over me like both a mother and a father — is of such a nature that I cling to him still."
+    },
+    {
+      "translit": "Nambinen piRar nanporuL thannaiyum\nnambinen madavaaraiyum munnellaam\nsempon maadath thirukkurukoor nambikku\nanbanaay adiyen sadhirththen indre",
+      "meaning": "In former days I set my trust upon others' goods and upon charming women. But this day I have grown wise: I have become a loving servant of Nambi of Tirukkurugur of golden mansions."
+    },
+    {
+      "translit": "Indru thottu ezhumaiyum empiraan\nnindru than pugazh eththa aruLinaan\nkundra maadath thirukkurukoor nambi endrum\nennai igazhvilan kaaNmine",
+      "meaning": "From this day and through all seven births, my Lord (Nammalwar) has graced me to stand praising his glory. Behold — Nambi of Tirukkurugur of hill-high mansions will never forsake me."
+    },
+    {
+      "translit": "KaNdu koNdu ennaik kaarimaaRap piraan\npaNdai valvinai paatri aruLinaan\neNdisaiyum aRiya iyambugen\noNdamizhch chadagopan aruLaiye",
+      "meaning": "Lord Kari Maran (Nammalwar) sought me out, took me as his own, and graciously destroyed my old, stubborn karma. I shall proclaim, that all eight directions may know, the grace of Satakopa of the lustrous Tamil."
+    },
+    {
+      "translit": "AruLkoNdaadum adiyavar inbuRa\naruLinaan av arumaRaiyin poruL\naruLkoNdu aayiram in thamizh paadinaan\naruLkaNdeer iv vulaginil mikkathe",
+      "meaning": "That his devotees who cherish his grace might rejoice, he revealed the meaning of the rare Veda; out of grace he sang the thousand sweet Tamil verses (Thiruvaymozhi). Behold — it is grace alone that is supreme in this world."
+    },
+    {
+      "translit": "Mikka vediyar vedaththin utporuL\nniRkap paadi en nenjuL niRuththinaan\nthakka seerch chadagopan en nambikkaaL\npukka kaadhal adimaip payanandre",
+      "meaning": "He sang so that the inner meaning of the Veda of the great seers might stand firm, and he established it within my heart. This is the very fruit of the loving servitude into which I have entered for my Nambi, Satakopa of fitting glory."
+    },
+    {
+      "translit": "Payanandraagilum paangalaraagilum\nseyalnandraagath thiruththip paNikoLvaan\nkuyilnindru aarppozhil soozhkurukoor nambi\nmuyalgindren undran moykazhaRku anbaiye",
+      "meaning": "Even if I am profitless, even if I am unfit, he refines my conduct and takes me into his service. O Nambi of Kurugur, ringed by groves where cuckoos call ceaselessly — I strive only for love of your anklet-clad feet."
+    },
+    {
+      "translit": "Anban thannai adaindhavargatkellaam\nanban thenkurukoor nagar nambikku\nanbanaay madhurakavi sonnasol\nnambuvaarpadhi vaikundham kaaNmine",
+      "meaning": "To all who take refuge in the loving Lord, he (Nammalwar) is loving; and as a loving servant of that Nambi of southern Kurugur, Madhurakavi has spoken these words. Behold — for those who hold them in faith, their abode shall be Vaikuntha."
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+[
+  {
+    "code": 1,
+    "icon": "a_1",
+    "name": {
+      "ta": "பொய்கையாழ்வார்",
+      "review": "verified",
+      "en": "Poigai Alwar",
+      "translit": "Poigai Azhwar"
+    },
+    "avataraSthalamTempleId": 51,
+    "image": {
+      "id": "51",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/51.webp",
+      "local": "/img/alwars/zoom/51.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "முதல் திருவந்தாதி",
+          "review": "verified",
+          "en": "Mudhal Thiruvandhadhi",
+          "translit": "Mudhal Thiruvandhaadhi"
+        },
+        "fName": "dp_14",
+        "code": 14
+      }
+    ]
+  },
+  {
+    "code": 2,
+    "icon": "a_2",
+    "name": {
+      "ta": "பூதத்தாழ்வார்",
+      "review": "verified",
+      "en": "Bhoothath Alwar",
+      "translit": "Bhoothath Azhwar"
+    },
+    "avataraSthalamTempleId": 63,
+    "image": {
+      "id": "63",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/63.webp",
+      "local": "/img/alwars/zoom/63.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "இரண்டாம் திருவந்தாதி",
+          "review": "verified",
+          "en": "Irandam Thiruvandhadhi",
+          "translit": "Irandaam Thiruvandhaadhi"
+        },
+        "fName": "dp_15",
+        "code": 15
+      }
+    ]
+  },
+  {
+    "code": 3,
+    "icon": "a_3",
+    "name": {
+      "ta": "பேயாழ்வார்",
+      "review": "verified",
+      "en": "Pey Alwar",
+      "translit": "Pey Azhwar"
+    },
+    "avataraSthalamTempleId": 109,
+    "image": {
+      "id": "109",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/109.webp",
+      "local": "/img/alwars/zoom/109.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "மூன்றாம் திருவந்தாதி",
+          "review": "verified",
+          "en": "Moondram Thiruvandhadhi",
+          "translit": "Moondraam Thiruvandhaadhi"
+        },
+        "fName": "dp_16",
+        "code": 16
+      }
+    ]
+  },
+  {
+    "code": 4,
+    "icon": "a_4",
+    "name": {
+      "ta": "திருமழிசை ஆழ்வார்",
+      "review": "verified",
+      "en": "Thirumazhisai Alwar",
+      "translit": "Thirumazhisai Azhwar"
+    },
+    "avataraSthalamTempleId": 110,
+    "image": {
+      "id": "110",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/110.webp",
+      "local": "/img/alwars/zoom/110.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "திருச்சந்த விருத்தம்",
+          "review": "verified",
+          "en": "Thiruchchanda Viruttham",
+          "translit": "Thiruchchanda Viruttham"
+        },
+        "fName": "dp_6",
+        "code": 6
+      },
+      {
+        "title": {
+          "ta": "நான்முகன் திருவந்தாதி",
+          "review": "verified",
+          "en": "Naanmugan Thiruvandhadhi",
+          "translit": "Naanmugan Thiruvandhaadhi"
+        },
+        "fName": "dp_17",
+        "code": 17
+      }
+    ]
+  },
+  {
+    "code": 5,
+    "icon": "a_5",
+    "name": {
+      "ta": "நம்மாழ்வார்",
+      "review": "verified",
+      "en": "Nammalwar",
+      "translit": "Nammazhwar"
+    },
+    "avataraSthalamTempleId": 87,
+    "image": {
+      "id": "87",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/87.webp",
+      "local": "/img/alwars/zoom/87.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "திருவிருத்தம்",
+          "review": "verified",
+          "en": "Thiruviruttham",
+          "translit": "Thiruviruttham"
+        },
+        "fName": "dp_18",
+        "code": 18
+      },
+      {
+        "title": {
+          "ta": "திருவாசிரியம்",
+          "review": "verified",
+          "en": "Thiruvasiriyam",
+          "translit": "Thiruvaasiriyam"
+        },
+        "fName": "dp_19",
+        "code": 19
+      },
+      {
+        "title": {
+          "ta": "பெரிய திருவந்தாதி",
+          "review": "verified",
+          "en": "Periya Thiruvandhadhi",
+          "translit": "Periya Thiruvandhaadhi"
+        },
+        "fName": "dp_20",
+        "code": 20
+      },
+      {
+        "title": {
+          "ta": "திருவாய்மொழி",
+          "review": "verified",
+          "en": "Thiruvaymozhi",
+          "translit": "Thiruvaaymozhi"
+        },
+        "fName": "",
+        "code": 25
+      }
+    ]
+  },
+  {
+    "code": 6,
+    "icon": "a_6",
+    "name": {
+      "ta": "மதுரகவியாழ்வார்",
+      "review": "verified",
+      "en": "Madhurakavi Alwar",
+      "translit": "Madhurakavi Azhwar"
+    },
+    "avataraSthalamTempleId": 85,
+    "image": {
+      "id": "85",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/85.webp",
+      "local": "/img/alwars/zoom/85.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "கண்ணிநுண் சிறுதாம்பு",
+          "review": "pending"
+        },
+        "fName": "dp_10",
+        "code": 10
+      }
+    ]
+  },
+  {
+    "code": 7,
+    "icon": "a_7",
+    "name": {
+      "ta": "குலசேகராழ்வார்",
+      "review": "verified",
+      "en": "Kulasekara Alwar",
+      "translit": "Kulasekara Azhwar"
+    },
+    "avataraSthalamTempleId": 0,
+    "image": {
+      "id": "66",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/66.webp",
+      "local": "/img/alwars/zoom/66.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "பெருமாள் திருமொழி",
+          "review": "verified",
+          "en": "Perumal Thirumozhi",
+          "translit": "Perumaal Thirumozhi"
+        },
+        "fName": "dp_5",
+        "code": 5
+      }
+    ]
+  },
+  {
+    "code": 8,
+    "icon": "a_8",
+    "name": {
+      "ta": "பெரியாழ்வார்",
+      "review": "verified",
+      "en": "Periyalwar",
+      "translit": "Periya Azhwar"
+    },
+    "avataraSthalamTempleId": 88,
+    "image": {
+      "id": "88",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/88.webp",
+      "local": "/img/alwars/zoom/88.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "திருப்பல்லாண்டு",
+          "review": "verified",
+          "en": "Thiruppallandu",
+          "translit": "Thiruppallaandu"
+        },
+        "fName": "dp_1",
+        "code": 1
+      },
+      {
+        "title": {
+          "ta": "பெரியாழ்வார் திருமொழி",
+          "review": "verified",
+          "en": "Periyalwar Thirumozhi",
+          "translit": "Periyazhwar Thirumozhi"
+        },
+        "fName": "",
+        "code": 2
+      }
+    ]
+  },
+  {
+    "code": 9,
+    "icon": "a_9",
+    "name": {
+      "ta": "ஆண்டாள்",
+      "review": "verified",
+      "en": "Andal",
+      "translit": "Andal"
+    },
+    "avataraSthalamTempleId": 88,
+    "image": {
+      "id": "88",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/88.webp",
+      "local": "/img/alwars/zoom/88.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "திருப்பாவை",
+          "review": "verified",
+          "en": "Thiruppavai",
+          "translit": "Thiruppaavai"
+        },
+        "fName": "dp_3",
+        "code": 3
+      },
+      {
+        "title": {
+          "ta": "நாச்சியார் திருமொழி",
+          "review": "verified",
+          "en": "Nachiyar Thirumozhi",
+          "translit": "Naachiyaar Thirumozhi"
+        },
+        "fName": "dp_4",
+        "code": 4
+      }
+    ]
+  },
+  {
+    "code": 10,
+    "icon": "a_10",
+    "name": {
+      "ta": "தொண்டரடிப் பொடியாழ்வார்",
+      "review": "verified",
+      "en": "Thondaradippodi Alwar",
+      "translit": "Thondaradippodi Azhwar"
+    },
+    "avataraSthalamTempleId": 111,
+    "image": {
+      "id": "111",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/111.webp",
+      "local": "/img/alwars/zoom/111.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "திருமாலை",
+          "review": "verified",
+          "en": "Thirumalai",
+          "translit": "Thirumaalai"
+        },
+        "fName": "dp_7",
+        "code": 7
+      },
+      {
+        "title": {
+          "ta": "திருப்பள்ளியெழுச்சி",
+          "review": "verified",
+          "en": "Thiruppalliyezhuchchi",
+          "translit": "Thiruppalliyezhuchchi"
+        },
+        "fName": "dp_8",
+        "code": 8
+      }
+    ]
+  },
+  {
+    "code": 11,
+    "icon": "a_11",
+    "name": {
+      "ta": "திருப்பாணாழ்வார்",
+      "review": "verified",
+      "en": "Thiruppaan Alwar",
+      "translit": "Thiruppaan Azhwar"
+    },
+    "avataraSthalamTempleId": 2,
+    "image": {
+      "id": "2",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/2.webp",
+      "local": "/img/alwars/zoom/2.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "அமலனாதிபிரான்",
+          "review": "verified",
+          "en": "Amalanadhipiran",
+          "translit": "Amalanaadhipiraan"
+        },
+        "fName": "dp_9",
+        "code": 9
+      }
+    ]
+  },
+  {
+    "code": 12,
+    "icon": "a_12",
+    "name": {
+      "ta": "திருமங்கையாழ்வார்",
+      "review": "verified",
+      "en": "Thirumangai Alwar",
+      "translit": "Thirumangai Azhwar"
+    },
+    "avataraSthalamTempleId": 34,
+    "image": {
+      "id": "34",
+      "category": "alwars",
+      "variant": "zoom",
+      "path": "/apps_v1/assets/alwars/zoom/34.webp",
+      "local": "/img/alwars/zoom/34.webp"
+    },
+    "songs": [
+      {
+        "title": {
+          "ta": "பெரிய திருமொழி",
+          "review": "verified",
+          "en": "Periya Thirumozhi",
+          "translit": "Periya Thirumozhi"
+        },
+        "fName": "",
+        "code": 11
+      },
+      {
+        "title": {
+          "ta": "திருக்குறுந்தாண்டகம்",
+          "review": "verified",
+          "en": "Thirukkurunthandakam",
+          "translit": "Thirukkurunthaandakam"
+        },
+        "fName": "dp_12",
+        "code": 12
+      },
+      {
+        "title": {
+          "ta": "திருநெடுந்தாண்டகம்",
+          "review": "verified",
+          "en": "Thirunedunthandakam",
+          "translit": "Thirunedunthaandakam"
+        },
+        "fName": "dp_13",
+        "code": 13
+      },
+      {
+        "title": {
+          "ta": "திருவெழு கூற்றிருக்கை",
+          "review": "pending"
+        },
+        "fName": "dp_21",
+        "code": 21
+      },
+      {
+        "title": {
+          "ta": "சிறிய திருமடல்",
+          "review": "pending"
+        },
+        "fName": "dp_22",
+        "code": 22
+      },
+      {
+        "title": {
+          "ta": "பெரிய திருமடல்",
+          "review": "pending"
+        },
+        "fName": "dp_23",
+        "code": 23
+      }
+    ]
+  }
+]

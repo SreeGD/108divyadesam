@@ -1,0 +1,21 @@
+{
+  "data": {
+    "URL_REG": "http://divyadesam.omtamilcalendar.com",
+    "BASE_URL": "http://divyadesam.omtamilcalendar.com",
+    "FCM_URL": "https://message.omtamilcalendar.com",
+    "IMG_HOSTNAME": "d2z0jhnf0i5jj3.cloudfront.net",
+    "APP_CURRENT_VERSION": 19,
+    "MANDATORY_UPDATE": "N",
+    "SERVER_CURRENT_TIME": 1781149362,
+    "DATA_EXPIRE_DURATION": 86400,
+    "LIST_DATA_VERSION": 1,
+    "APP_OPEN_CNT_RATEUS": 15,
+    "APP_OPEN_CNT_SHARE": 10,
+    "AD_SETTING": {
+      "B": "0",
+      "APPEXIT": "1",
+      "FS": "0-100"
+    },
+    "SYNCHB": "E"
+  }
+}

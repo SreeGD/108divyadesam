@@ -1,0 +1,62 @@
+---
+import Base from "../../layouts/Base.astro";
+import { songs, en } from "../../data";
+
+export function getStaticPaths() {
+  return songs.map((s) => ({ params: { id: s.id }, props: { song: s } }));
+}
+const { song } = Astro.props;
+const verseCount = song.blocks.filter((b) => b.type === "verse").length;
+---
+
+<Base title={song.title ? en(song.title) : song.id} description={`Divya Prabandham hymn with Tamil text, transliteration, and English meaning.`}>
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › <a href="/prabandham">Hymns</a> › {song.title ? en(song.title) : song.id}</p>
+    <h1>{song.title ? en(song.title) : song.id}</h1>
+    {song.title?.ta && <p class="ta muted" style="font-size:1.15rem;margin-top:0;">{song.title.ta}</p>}
+    <p class="muted">{verseCount} verse{verseCount === 1 ? "" : "s"}</p>
+
+    <div class="toolbar">
+      <button class="toggle" id="t-translit" aria-pressed="false">Show transliteration</button>
+      <button class="toggle" id="t-meaning" aria-pressed="false">Show English meaning</button>
+    </div>
+
+    <div class="song">
+      {song.blocks.map((b) => {
+        if (b.type === "head")
+          return (
+            <h2 style="margin-top:1.6rem;">
+              {b.title && en(b.title)}
+              {b.title?.ta && b.title.en && <span class="ta muted" style="font-size:1rem;"> · {b.title.ta}</span>}
+            </h2>
+          );
+        if (b.type === "subHead")
+          return <h3 class="muted" style="margin:.8rem 0 .2rem;">{b.title && en(b.title)} <span class="ta">{b.title?.en ? `· ${b.title.ta}` : b.title?.ta}</span></h3>;
+        if (b.type === "verse" && b.text)
+          return (
+            <div class="verse">
+              {b.songNum && <div class="num">Pasuram {b.songNum}</div>}
+              <div class="ta">{b.text.ta}</div>
+              {b.text.translit && <div class="translit">{b.text.translit}</div>}
+              {b.text.meaning && <div class="meaning">{b.text.meaning}</div>}
+              {!b.text.meaning && <div class="meaning draft">English meaning awaiting translation.</div>}
+            </div>
+          );
+        if (b.type === "image" && b.image && "local" in b.image)
+          return <img src={b.image.local} alt={b.caption ? en(b.caption) : ""} style="max-width:320px;border-radius:10px;margin:1rem 0;" loading="lazy" />;
+        return null;
+      })}
+    </div>
+  </div>
+
+  <script is:inline>
+    for (const [id, cls] of [["t-translit", "show-translit"], ["t-meaning", "show-meaning"]]) {
+      const btn = document.getElementById(id);
+      btn?.addEventListener("click", () => {
+        const on = document.body.classList.toggle(cls);
+        btn.setAttribute("aria-pressed", String(on));
+        btn.textContent = btn.textContent.replace(on ? "Show" : "Hide", on ? "Hide" : "Show");
+      });
+    }
+  </script>
+</Base>

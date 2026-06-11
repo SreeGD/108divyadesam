@@ -1,0 +1,31 @@
+---
+import Base from "../../layouts/Base.astro";
+import { regions, templesByRegion, en } from "../../data";
+
+export function getStaticPaths() {
+  return regions.map((r) => ({ params: { code: String(r.code) }, props: { region: r } }));
+}
+const { region } = Astro.props;
+const list = templesByRegion(region.code);
+---
+
+<Base title={`${en(region.name)} Temples`}>
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a> › {en(region.name)}</p>
+    <h1>{en(region.name)} <span class="ta muted" style="font-size:1.4rem;">{region.name.ta}</span></h1>
+    <p class="muted">{list.length} Divya Desam temples in this region.</p>
+
+    <div class="grid cards" style="margin-top:1rem;">
+      {list.map((t) => (
+        <a class="card" href={`/temple/${t.refId}`}>
+          <img src={t.images.thumb.local} alt={en(t.name)} loading="lazy" />
+          <div class="body">
+            <div class="en">{en(t.place)}</div>
+            <div class="sub muted">{en(t.name)}</div>
+            {!t.name.en && <div class="sub ta">{t.name.ta}</div>}
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

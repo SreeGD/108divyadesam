@@ -1,0 +1,13 @@
+node_modules/
+site/node_modules/
+site/dist/
+site/.astro/
+
+# Transient workflow chunk files (regenerable); keep the merged translations below.
+data/cache/wf/
+data/cache/wf-input/
+data/cache/wf-manifest.json
+# NOT ignored: data/cache/verse-translations.json (the merged machine translations)
+
+*.log
+.DS_Store

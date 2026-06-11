@@ -1,0 +1,16 @@
+{
+  "name": "divyadesam-site",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bilingual (Tamil + English) website for the 108 Divya Desam — the sacred Vishnu temples of the Alwars.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "^5.18.2"
+  }
+}

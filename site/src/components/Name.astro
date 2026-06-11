@@ -1,0 +1,16 @@
+---
+// Renders a translatable name: English primary, with Tamil original + transliteration beneath.
+import type { T } from "../data";
+import { en } from "../data";
+interface Props { value: T; tag?: string; showTa?: boolean; }
+const { value, tag = "span", showTa = true } = Astro.props;
+const Tag = tag as any;
+const primary = en(value);
+const hasEn = !!value.en;
+---
+<Tag class="name">
+  <span class="primary">{primary}</span>
+  {value.translit && value.en && <span class="translit"> · {value.translit}</span>}
+  {showTa && <span class="ta sub muted"> · {value.ta}</span>}
+  {!hasEn && <span class="draft" title="Awaiting English translation"> (draft)</span>}
+</Tag>

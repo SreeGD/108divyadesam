@@ -1,0 +1,24 @@
+{
+  "name": "divyadesam-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Data pipeline that turns the bundled Tamil 108 Divya Desam app assets into a normalized bilingual (Tamil + English) dataset for the website.",
+  "scripts": {
+    "extract": "tsx pipeline/extract.ts",
+    "harvest": "tsx pipeline/harvest.ts",
+    "translate": "tsx pipeline/translate.ts",
+    "review-report": "tsx pipeline/review-report.ts",
+    "merge-verses": "python3 pipeline/merge-wf.py",
+    "build:site": "cd site && pnpm install && pnpm build",
+    "preview:site": "cd site && pnpm preview"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.104.1"
+  }
+}

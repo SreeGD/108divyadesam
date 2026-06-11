@@ -1,0 +1,8 @@
+{
+  "imageHost": "d2z0jhnf0i5jj3.cloudfront.net",
+  "totalImages": 238,
+  "downloaded": 238,
+  "skippedExisting": 0,
+  "failed": [],
+  "proseNote": "Temple history/festival/timing and Alwar biographies are not available from the server API (dTime-sync endpoint returns empty without app auth). These are generated in English during Phase 3 (translate) and flagged review:auto."
+}

@@ -1,0 +1,28 @@
+{
+  "note": "Known data gaps from the source APK; backfill in Phase 2 (harvest) or from a clean APK.",
+  "corruptedSongFiles": [
+    "dpsongs/dp_18.json",
+    "dpsongs/dp_24.json",
+    "dpsongs/dp_5.json",
+    "dpsongs/dp_6.json",
+    "dpsongs/mang_14.json",
+    "dpsongs/mang_91.json"
+  ],
+  "anomalousAlwarLinks": [
+    {
+      "alwarCode": 23,
+      "templeRefId": 91,
+      "weight": 91
+    },
+    {
+      "alwarCode": 23,
+      "templeRefId": 106,
+      "weight": 106
+    }
+  ],
+  "avataraSthalamTempleIdsOutside108": [
+    109,
+    110,
+    111
+  ]
+}

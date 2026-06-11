@@ -1,0 +1,94 @@
+---
+import Base from "../../layouts/Base.astro";
+import Name from "../../components/Name.astro";
+import {
+  temples,
+  regionByCode,
+  alwarsForTemple,
+  alwarByCode,
+  en,
+} from "../../data";
+
+export function getStaticPaths() {
+  return temples.map((t) => ({ params: { refId: String(t.refId) }, props: { temple: t } }));
+}
+const { temple } = Astro.props;
+const region = regionByCode.get(temple.regionCode);
+const singingAlwars = alwarsForTemple(temple.refId)
+  .map((c) => alwarByCode.get(c))
+  .filter(Boolean);
+const mapUrl = `https://www.openstreetmap.org/?mlat=${temple.lat}&mlon=${temple.lng}#map=15/${temple.lat}/${temple.lng}`;
+const menuLabel: Record<string, string> = {
+  HISTORY: "Sthala Puranam (Temple History)",
+  ALWAR: "Mangalasasanam (Hymns of Praise)",
+  FESTIVAL: "Festivals",
+  TIME: "Timings & Routes",
+};
+---
+
+<Base title={en(temple.name)} description={`${en(temple.name)}, ${en(temple.place)} — one of the 108 Divya Desam temples of Vishnu.`}>
+  <div class="wrap">
+    <p class="crumbs">
+      <a href="/">Home</a>
+      {region && <> › <a href={`/region/${region.code}`}>{en(region.name)}</a></>}
+      › {en(temple.place)}
+    </p>
+
+    <div class="twocol">
+      <div>
+        <img
+          src={temple.images.zoom.local}
+          alt={en(temple.name)}
+          style="width:100%; border-radius:12px; border:1px solid var(--line);"
+        />
+        <div class="panel" style="margin-top:1rem;">
+          <div class="muted" style="font-size:.8rem; text-transform:uppercase; letter-spacing:.05em;">Location</div>
+          <div class="ta">{temple.place.ta}</div>
+          <p style="margin:.3rem 0;"><a href={mapUrl} target="_blank" rel="noopener">View on map ↗</a></p>
+          <div class="muted" style="font-size:.85rem;">{temple.lat.toFixed(4)}, {temple.lng.toFixed(4)}</div>
+        </div>
+      </div>
+
+      <div>
+        <h1 style="margin-bottom:.2rem;">{en(temple.name)}</h1>
+        <p class="ta muted" style="font-size:1.15rem; margin-top:0;">{temple.name.ta}</p>
+        {!temple.name.en && (
+          <p class="draft">English name awaiting translation — run the translation pipeline to populate.</p>
+        )}
+        <p><span class="pill">{en(temple.place)}</span> {region && <span class="pill">{en(region.name)}</span>}</p>
+
+        <section class="section">
+          <h2>Mangalasasanam</h2>
+          {singingAlwars.length ? (
+            <>
+              <p class="muted">Alwars who sang the glories of this temple:</p>
+              <ul class="clean">
+                {singingAlwars.map((a) => (
+                  <li><a href={`/alwar/${a!.code}`}><Name value={a!.name} /></a></li>
+                ))}
+              </ul>
+            </>
+          ) : (
+            <p class="muted">This is a celestial abode (not sung by the Alwars in earthly hymns).</p>
+          )}
+        </section>
+
+        <section class="section">
+          <h2>Temple Sections</h2>
+          <p class="muted">
+            Detailed Sthala Puranam, festival, and timing content is sourced separately — the
+            section structure from the original guide is shown below.
+          </p>
+          <ul class="clean">
+            {temple.menu.map((m) => (
+              <li>
+                <strong>{menuLabel[m.code] ?? en(m.caption)}</strong>
+                <span class="muted ta"> · {m.caption.ta}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
+    </div>
+  </div>
+</Base>
